@@ -52,7 +52,7 @@ jobs:
         if: env.changes-detected == 'true'
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PAT }}
           publish_dir: gh-pages
           keep_files: false
           user_name: "github-actions[bot]"
