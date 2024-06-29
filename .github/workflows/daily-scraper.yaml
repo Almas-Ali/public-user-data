@@ -46,7 +46,7 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git branch --list gh-pages || git checkout -b gh-pages
-          git merge main --no-edit
+          git merge master --no-edit
           git add scraped_data.json images/
           git commit -m "Update scraped data and images."
         env:
