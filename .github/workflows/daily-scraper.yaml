@@ -47,13 +47,14 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           if git show-ref --quiet refs/heads/gh-pages; then
             git checkout gh-pages
-            git merge master --no-edit
+            git merge master --allow-unrelated-histories --no-edit
           else
             git checkout --orphan gh-pages
             git reset --hard
             git commit --allow-empty -m "Initial commit"
+            git push origin gh-pages
             git checkout master
-            git merge gh-pages --no-edit
+            git merge gh-pages --allow-unrelated-histories --no-edit
             git checkout gh-pages
           fi
           git add scraped_data.json images/
