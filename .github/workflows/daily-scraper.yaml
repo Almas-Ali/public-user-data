@@ -30,28 +30,27 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
+      - name: Check for changes in scraped_data.json and images/
+        id: git-status
+        run: |
+          git add scraped_data.json images/
+          git diff --cached --exit-code || echo "Changes detected"
 
-    - name: Check for changes in scraped_data.json and images/
-      id: git-status
-      run: |
-        git add scraped_data.json images/
-        git diff --cached --exit-code || echo "Changes detected"
+      - name: Commit changes
+        if: steps.git-status.outputs.changes-detected == 'Changes detected'
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git checkout gh-pages
+          git merge main --no-edit
+          git add scraped_data.json images/
+          git commit -m "Update scraped data and images."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Commit changes
-      if: steps.git-status.outputs.changes-detected == 'Changes detected'
-      run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
-        git checkout gh-pages
-        git merge main --no-edit
-        git add scraped_data.json images/
-        git commit -m "Update scraped data and images."
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Push changes
-      if: steps.git-status.outputs.changes-detected == 'Changes detected'
-      run: |
-        git push origin gh-pages
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push changes
+        if: steps.git-status.outputs.changes-detected == 'Changes detected'
+        run: |
+          git push origin gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
