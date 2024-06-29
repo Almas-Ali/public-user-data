@@ -1,5 +1,8 @@
 # Public Real User Data Revealed
 
+![GitHub Workflow Status](https://github.com/Almas-Ali/public-user-data/actions/workflows/daily-scraper.yaml/badge.svg "GitHub Workflow Status")
+
+
 This data is automatically generated from the public data of the user from a job site. This data is real and from trusted sources. The data is not manipulated in any way. The data is only for educational purposes and to show the importance of data privacy. The data is not used for any other purposes.
 
 **Note**: Don't misuse the data. The user has the right to remove the data from this site. If you are the user and want to remove the data, please create an issue in this repository with some proof that you are the user and I will remove the data.
