@@ -7,6 +7,8 @@ on:
   schedule:
     # Run at 12 AM UTC every day
     - cron: "0 0 * * *"
+    # Run at 12 PM UTC every day
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 jobs:
