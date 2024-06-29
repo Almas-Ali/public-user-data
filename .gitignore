@@ -2,3 +2,5 @@ __pycache__/
 .ruff_cache/
 .mypy_cache/
 
+images/
+scraped_data.json
