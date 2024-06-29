@@ -40,31 +40,22 @@ jobs:
             echo "changes-detected=true" >> $GITHUB_ENV
           fi
 
-      - name: Commit changes
+      - name: Prepare deployment directory
         if: env.changes-detected == 'true'
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          if git show-ref --quiet refs/heads/gh-pages; then
-            git checkout gh-pages
-            git merge master --allow-unrelated-histories --no-edit
-          else
-            git checkout --orphan gh-pages
-            git reset --hard
-            git commit --allow-empty -m "Initial commit"
-            git push origin gh-pages
-            git checkout master
-            git merge gh-pages --allow-unrelated-histories --no-edit
-            git checkout gh-pages
-          fi
-          git add scraped_data.json images/
-          git commit -m "Update scraped data and images."
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          mkdir gh-pages
+          cp index.html gh-pages/
+          cp scraped_data.json gh-pages/
+          cp -r images gh-pages/
 
-      - name: Push changes
+      - name: Deploy to GitHub Pages
         if: env.changes-detected == 'true'
-        run: |
-          git push origin gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: gh-pages
+          keep_files: false
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          publish_branch: gh-pages
+          full_commit_message: "Update scraped data and images."
