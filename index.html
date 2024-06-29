@@ -128,7 +128,7 @@
           userCard.innerHTML = `
             <div class="card fixed-size">
               <div class="card-body">
-                <img src="${user.local_image_path || 'default-image.jpg'}" class="img-thumbnail" alt="${user.name}">
+                <img src="${user.image || 'default-image.jpg'}" class="img-thumbnail" alt="${user.name}">
                 <h5 class="card-title">${user.name}</h5>
                 <p><b>User ID:</b> ${user.id}</p>
                 <p><b>Address (Present):</b> ${user.address_present}</p>
