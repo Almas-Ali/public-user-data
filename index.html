@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rajshahi Jobs Users CV</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <style>
+    body {
+      background-color: #f8f9fa;
+      font-size: 16px;
+    }
+
+    .card {
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 400px;
+      width: 100%;
+      max-width: 300px;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .card img {
+      height: 100px;
+      width: 100px;
+      object-fit: cover;
+      margin-bottom: 10px;
+    }
+
+    .card-body {
+      text-align: center;
+    }
+
+    .card h5 {
+      margin: 10px 0;
+      font-size: 1.25rem;
+    }
+
+    .card p {
+      margin: 5px 0;
+      font-size: 0.9rem;
+    }
+
+    .btn-outline-primary {
+      margin: 5px;
+      bottom: 0;
+    }
+
+    .fixed-size {
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .d-flex {
+      margin: 5px auto;
+      justify-content: center;
+    }
+
+    #view_cv {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="text-center mt-5">Rajshahi Jobs Users CV</h1>
+    <p class="text-center">This page displays the CVs of users publicly listed on Rajshahi Jobs website.</p>
+    <div class="row" id="userCardsContainer">
+      <!-- User cards will be dynamically inserted here -->
+    </div>
+    <p class="text-center mt-5">
+      This data is scraped from the user's public profile. Site URL: <a href="https://www.rajshahijobs.com/"
+        target="_blank">Rajshahi Jobs</a>
+    </p>
+    <p class="text-center">
+      This page is created for educational purposes only. The data is publicly available on the website.
+    </p>
+    <p class="text-center">
+      <i>
+        Data updates everyday at 12:00 AM (UTC+0).
+      </i>
+    </p>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+  <script>
+    const userDataUrl = 'scraped_data.json'; // Update with your JSON file path
+
+    // Fetch user data from JSON file
+    fetch(userDataUrl)
+      .then(response => response.json())
+      .then(data => {
+        const userCardsContainer = document.getElementById('userCardsContainer');
+        data.forEach(user => {
+          const userCard = document.createElement('div');
+          userCard.className = 'col-12 col-sm-6 col-md-4 col-lg-3 d-flex';
+          userCard.innerHTML = `
+            <div class="card fixed-size">
+              <div class="card-body">
+                <img src="${user.local_image_path || 'default-image.jpg'}" class="img-thumbnail" alt="${user.name}">
+                <h5 class="card-title">${user.name}</h5>
+                <p><b>User ID:</b> ${user.id}</p>
+                <p><b>Address (Present):</b> ${user.address_present}</p>
+                <p><b>Address (Permanent):</b> ${user.address_permanent}</p>
+                <p><b>Last Education:</b> ${user.last_education}</p>
+                <p><b>Job Experiences:</b> ${user.job_experiences} Years</p>
+                <p><b>Experience Details:</b> ${user.experience_details}</p>
+                </div>
+                <div id="view_cv"><a class="btn btn-sm btn-outline-primary" href="https://www.rajshahijobs.com/cv/${user.id}/" target="_blank">View CV</a></div>
+            </div>
+          `;
+          userCardsContainer.appendChild(userCard);
+        });
+      })
+      .catch(error => console.error('Error fetching user data:', error));
+  </script>
+</body>
+
+</html>
