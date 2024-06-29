@@ -45,8 +45,17 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git branch --list gh-pages || git checkout -b gh-pages
-          git merge master --no-edit
+          if git show-ref --quiet refs/heads/gh-pages; then
+            git checkout gh-pages
+            git merge master --no-edit
+          else
+            git checkout --orphan gh-pages
+            git reset --hard
+            git commit --allow-empty -m "Initial commit"
+            git checkout master
+            git merge gh-pages --no-edit
+            git checkout gh-pages
+          fi
           git add scraped_data.json images/
           git commit -m "Update scraped data and images."
         env:
