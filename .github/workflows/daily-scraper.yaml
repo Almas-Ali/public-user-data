@@ -34,10 +34,16 @@ jobs:
         id: git-status
         run: |
           git add scraped_data.json images/
-          git diff --cached --exit-code || echo "Changes detected"
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+            echo "::set-output name=changes-detected::false"
+          else
+            echo "Changes detected"
+            echo "::set-output name=changes-detected::true"
+          fi
 
       - name: Commit changes
-        if: steps.git-status.outputs.changes-detected == 'Changes detected'
+        if: steps.git-status.outputs.changes-detected == 'true'
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
@@ -49,7 +55,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push changes
-        if: steps.git-status.outputs.changes-detected == 'Changes detected'
+        if: steps.git-status.outputs.changes-detected == 'true'
         run: |
           git push origin gh-pages
         env:
