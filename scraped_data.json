@@ -2099,5 +2099,49 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/334.png"
+    },
+    {
+        "id": "338",
+        "image": "https://www.rajshahijobs.com/images/users/338_1719721260.png",
+        "name": "MD. Hasibur Rahman Anik",
+        "address_present": "Sagorpara, Boaliya, Rajshahi",
+        "address_permanent": "Manda, Naogaon",
+        "last_education": "BSC (3)",
+        "job_experiences": "1 Year",
+        "experience_details": "I have been work for 1 years as a manager at a coaching center",
+        "local_image_path": "images/338.png"
+    },
+    {
+        "id": "339",
+        "image": "https://www.rajshahijobs.com/images/users/339_1719722513.png",
+        "name": "MD.Sojib Ali",
+        "address_present": "Chalk Muktarpur Charghat, Rajshahi",
+        "address_permanent": "Chalk Muktarpur Charghat, Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "6 Months",
+        "experience_details": "Computer operator",
+        "local_image_path": "images/339.png"
+    },
+    {
+        "id": "340",
+        "image": "https://www.rajshahijobs.com/images/users/340_1719728217.png",
+        "name": "Md Golam Kabir",
+        "address_present": "Home - 319, Road - 01, Suvash, Padma Residential Area, Chandrima, Rajshahi City, Rajshahi.",
+        "address_permanent": "Chakpustom, Mollikpur (6321), Gomastapur, Chapainawabgonj.",
+        "last_education": "MSC (2000)",
+        "job_experiences": "10 Years",
+        "experience_details": "Marketing Department. Senior Medical Promotion Officer at The Ibn Sina Pharmaceutical Industry Ltd.\r\n I have successfully completed the Search Engine Optimization ( SEO ) Course, including On-Page, Technical, Off-Page SEO, Google Search Console, and Google Analytics setup.",
+        "local_image_path": "images/340.png"
+    },
+    {
+        "id": "343",
+        "image": "https://www.rajshahijobs.com/images/users/343_1719743334.png",
+        "name": "Rabiul Hasan Shohel",
+        "address_present": "Sultan khali ,Durmoot ,Melandaho ,Jamalpur",
+        "address_permanent": "Sultan khali ,Durmoot ,Melandaho ,Jamalpur",
+        "last_education": "HSC (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "Olympic Industry limited - As a Sell Officer",
+        "local_image_path": "images/343.png"
     }
 ]
