@@ -2046,17 +2046,6 @@
         "local_image_path": "images/325.png"
     },
     {
-        "id": "327",
-        "image": "https://www.rajshahijobs.com/images/users/327_1719683165.png",
-        "name": "MD OSMAN GANI",
-        "address_present": "Baraigram,nator",
-        "address_permanent": "Baraigram, nator",
-        "last_education": "HSC (2020)",
-        "job_experiences": "3 Years",
-        "experience_details": "MICROSOFT OFFICE APLICATION ,GRAPHIC DESIGN AND WEB DESIGN EXPERIENCE",
-        "local_image_path": "images/327.png"
-    },
-    {
         "id": "328",
         "image": "https://www.rajshahijobs.com/images/users/328_1719685196.png",
         "name": "Md. Zahid Hasan",
@@ -2088,5 +2077,27 @@
         "job_experiences": "6 Months",
         "experience_details": "computer course 6 months successfully done.\r\ncomputer Basics and OS, Operating Systems, Computer Security Basics, Programming Fundamentals, object-oriented programming, HTML and CSS, Introduction to JavaScript, Databases, and Project work.",
         "local_image_path": "images/330.png"
+    },
+    {
+        "id": "333",
+        "image": "https://www.rajshahijobs.com/images/users/333_1719700431.png",
+        "name": "Md Monimul haque",
+        "address_present": "38, Meherchondi Budhpara",
+        "address_permanent": "Same",
+        "last_education": "MA (2023)",
+        "job_experiences": "1 Year",
+        "experience_details": "I served as an assistant teacher to a coaching center for 1 year.",
+        "local_image_path": "images/333.png"
+    },
+    {
+        "id": "334",
+        "image": "https://www.rajshahijobs.com/images/users/334_1719703324.png",
+        "name": "Mahfuz Hossain",
+        "address_present": "Khorbona, Boalia, Rajshahi",
+        "address_permanent": "Manda, Noagaon",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/334.png"
     }
 ]
