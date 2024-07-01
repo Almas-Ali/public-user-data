@@ -2143,5 +2143,49 @@
         "job_experiences": "2 Years",
         "experience_details": "Olympic Industry limited - As a Sell Officer",
         "local_image_path": "images/343.png"
+    },
+    {
+        "id": "348",
+        "image": "https://www.rajshahijobs.com/images/users/348_1719759595.png",
+        "name": "Humayun kabir sohag",
+        "address_present": "Chanduria Bazar, Tanor Upazila, Rajshahi.",
+        "address_permanent": "Chanduria Bazar, Tanor Upazila, Rajshahi.",
+        "last_education": "SSC (2003)",
+        "job_experiences": "10 Years",
+        "experience_details": "Sales Marketing",
+        "local_image_path": "images/348.png"
+    },
+    {
+        "id": "349",
+        "image": "https://www.rajshahijobs.com/images/users/349_1719761939.png",
+        "name": "Razibul Islam",
+        "address_present": "428,Sagorpara, Ghoramara,Boalia,Rajshahi",
+        "address_permanent": "428,Sagorpara, Ghoramara,Boalia,Rajshahi",
+        "last_education": "BBA (2019)",
+        "job_experiences": "3 Years",
+        "experience_details": "2.8 Month as a account officer.8 Month as Data Executive",
+        "local_image_path": "images/349.png"
+    },
+    {
+        "id": "350",
+        "image": "https://www.rajshahijobs.com/images/users/350_1719765818.png",
+        "name": "Md. Sabbir Ahmed",
+        "address_present": "Ranibazar, Ghoramaram, Boalia. Rajshahi, Bangladesh",
+        "address_permanent": "Niamatpur, Naogaon",
+        "last_education": "BBA (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "I am Md. Sabbir Ahmed, an aspiring professional with a strong background and a solid track record of work experience and academic achievements. Currently pursuing a Master's in Business Administration (MBA) with a focus on Accounting at Rajshahi College under the National University, I have also completed my Bachelor of Business Administration (BBA) in Accounting from Rajshahi New Govt. Degree College.\r\n\r\nI have practical experience as a Cashier at Mughals BBQ House, where I efficiently managed cash register operations, provided excellent customer service, and maintained accurate financial records. Additionally, I served as a Student Ambassador at Shah Makhdum Management University, successfully engaging with over 1,500 students and delivering impactful presentations.\r\n\r\nMy involvement in extracurricular activities includes leadership roles such as President of the Dream Bangladesh Youth Society, where I organized various programs and campaigns, including industrial visits, public awareness initiatives, and environmental projects. I have also participated in multiple training sessions and workshops, enhancing my skills in entrepreneurship, career readiness, sales and marketing, computer applications, and leadership.\r\n\r\nI am proficient in Microsoft Office applications and possess strong communication, presentation, negotiation, and leadership skills. My interests include creative writing, public speaking, and traveling. I am fluent in Bangla and have a satisfactory command of English.\r\n\r\nI am eager to leverage my skills and experience to contribute effectively to the accounting field in Bangladesh, aiming for rapid growth and increased responsibilities.",
+        "local_image_path": "images/350.png"
+    },
+    {
+        "id": "351",
+        "image": "https://www.rajshahijobs.com/images/users/351_1719769888.png",
+        "name": "Md. Alamin",
+        "address_present": "Narayonpur,Durgapur, Rajshahi",
+        "address_permanent": "Narayonpur,Durgapur, Rajshahi",
+        "last_education": "BA (2021)",
+        "job_experiences": "1 Year",
+        "experience_details": "Assistant Teacher at Holy Flower Model School",
+        "local_image_path": "images/351.png"
     }
 ]
