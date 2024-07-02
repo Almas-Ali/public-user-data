@@ -1998,7 +1998,7 @@
         "address_permanent": "Pajorvanga,Manda,Naogaon",
         "last_education": "HSC (2020)",
         "job_experiences": "Fresher",
-        "experience_details": "\u09ac\u09b0\u09cd\u09a4\u09ae\u09be\u09a8\u09c7 \u09e9\u09df \u09aa\u09a6\u09be\u09b0\u09cd\u09a5\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8 \u09e9\u09df \u09ac\u09b0\u09cd\u09b7\u09c7 \u0985\u09a7\u09cd\u09af\u09be\u09df\u09a8\u09b0\u09a4 \u0986\u099b\u09bf\u0964 \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u09aa\u09b0\u09bf\u099a\u09be\u09b2\u09a8\u09be \u098f\u09ac\u0982 \u099f\u09c7\u0995\u09a8\u09bf\u0995\u09cd\u09af\u09be\u09b2 \u0995\u09be\u099c\u09c7 \u09ad\u09be\u09b2\u09cb \u09a7\u09be\u09b0\u09a3\u09be \u0986\u099b\u09c7\u0964 \u099f\u09c7\u0995\u09a8\u09cb\u09b2\u099c\u09bf, \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u0993 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995\u09b8\u09cd \u09af\u09a8\u09cd\u09a4\u09cd\u09b0\u09aa\u09be\u09a4\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09b8\u09b9 \u09ac\u09c7\u09b8\u09bf\u0995 \u099f\u09cd\u09b0\u09be\u09ac\u09b2\u09b8\u09c1\u099f\u09bf\u0982 \u098f\u09b0 \u09a6\u0995\u09cd\u09b7\u09a4\u09be \u0986\u099b\u09c7\u0964",
+        "experience_details": "\u09ac\u09b0\u09cd\u09a4\u09ae\u09be\u09a8\u09c7 \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09b8\u09bf\u099f\u09bf \u0995\u09b2\u09c7\u099c\u09c7 \u0985\u09a8\u09be\u09b0\u09cd\u09b8 \u09aa\u09a6\u09be\u09b0\u09cd\u09a5\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8 \u09e9\u09df \u09ac\u09b0\u09cd\u09b7\u09c7 \u0985\u09a7\u09cd\u09af\u09be\u09df\u09a8\u09b0\u09a4 \u0986\u099b\u09bf\u0964 \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u09aa\u09b0\u09bf\u099a\u09be\u09b2\u09a8\u09be \u098f\u09ac\u0982 \u099f\u09c7\u0995\u09a8\u09bf\u0995\u09cd\u09af\u09be\u09b2 \u0995\u09be\u099c\u09c7 \u09ad\u09be\u09b2\u09cb \u09a7\u09be\u09b0\u09a3\u09be \u0986\u099b\u09c7\u0964 \u099f\u09c7\u0995\u09a8\u09cb\u09b2\u099c\u09bf, \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u0993 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995\u09b8\u09cd \u09af\u09a8\u09cd\u09a4\u09cd\u09b0\u09aa\u09be\u09a4\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09b8\u09b9 \u09ac\u09c7\u09b8\u09bf\u0995 \u099f\u09cd\u09b0\u09be\u09ac\u09b2\u09b8\u09c1\u099f\u09bf\u0982 \u098f\u09b0 \u09a6\u0995\u09cd\u09b7\u09a4\u09be \u0986\u099b\u09c7\u0964\r\n\u0987\u0982\u09b0\u09c7\u099c\u09bf \u0993 \u09ac\u09be\u0982\u09b2\u09be \u099f\u09be\u0987\u09aa\u09bf\u0982 25-30 words per minute.",
         "local_image_path": "images/314.png"
     },
     {
@@ -2044,6 +2044,17 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/323.png"
+    },
+    {
+        "id": "324",
+        "image": "https://www.rajshahijobs.com/images/users/324_1719903731.png",
+        "name": "Md Imran Hossain",
+        "address_present": "Mongol para,Puthia, Rajshahi",
+        "address_permanent": "Mongol para,Puthia, Rajshahi",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/324.png"
     },
     {
         "id": "325",
@@ -2319,5 +2330,159 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/370.png"
+    },
+    {
+        "id": "371",
+        "image": "https://www.rajshahijobs.com/images/users/371_1719883556.png",
+        "name": "Ashraful Islam",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "3 Years",
+        "experience_details": "worked in a studio for photoshop experience, worked in a showroom for salesman experience, now working on a pharmacy",
+        "local_image_path": "images/371.png"
+    },
+    {
+        "id": "372",
+        "image": "https://www.rajshahijobs.com/images/users/372_1719894750.png",
+        "name": "Arman shaikh",
+        "address_present": "Fire service Rajshahi",
+        "address_permanent": "Fire service Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "2 Years",
+        "experience_details": "Block printer and industrial designer.",
+        "local_image_path": "images/372.png"
+    },
+    {
+        "id": "375",
+        "image": "https://www.rajshahijobs.com/images/users/375_1719903023.png",
+        "name": "Motiur Rahman",
+        "address_present": "Ramchandrapur, Ghoramara-6100, Boalia Model, Rajshahi",
+        "address_permanent": "Pakuria, Dhuroil-6220, Mohanpur, Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "6 Years",
+        "experience_details": "Computer Operator, Internet Link, Mohanpur, Rajshahi. \r\nAt last 06 years working experience.",
+        "local_image_path": "images/375.png"
+    },
+    {
+        "id": "376",
+        "image": "https://www.rajshahijobs.com/images/users/376_1719905384.png",
+        "name": "Rafiul Islam",
+        "address_present": "Naogaon Sadar, Naogaon",
+        "address_permanent": "Patnitala, Naogaon",
+        "last_education": "HSC (2020)",
+        "job_experiences": "1 Year",
+        "experience_details": "I have one year of working experience in a Chinese restaurant. I worked there as a waiter.\r\nAnd I also worked in a private school. I was hostel super of the school. I worked there for about five months.",
+        "local_image_path": "images/376.png"
+    },
+    {
+        "id": "377",
+        "image": "https://www.rajshahijobs.com/images/users/377_1719910002.png",
+        "name": "rezuan ahmed",
+        "address_present": "Baliapukur",
+        "address_permanent": "Same",
+        "last_education": "BA (2024)",
+        "job_experiences": "5 Years",
+        "experience_details": "\u09ac\u09bf\u0997\u09a4 \u09eb \u09ac\u099b\u09b0 \u09af\u09be\u09ac\u09a4 \u09aa\u09a1\u09bc\u09be\u09a8\u09cb \u09b9\u09af\u09bc\u0964",
+        "local_image_path": "images/377.png"
+    },
+    {
+        "id": "378",
+        "image": "https://www.rajshahijobs.com/images/users/378_1719913409.png",
+        "name": "Alamin",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "Alim (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/378.png"
+    },
+    {
+        "id": "385",
+        "image": "https://www.rajshahijobs.com/images/users/385_1719916355.png",
+        "name": "Emon ali",
+        "address_present": "Biman chattar. Sopura. Rajshahi",
+        "address_permanent": "Batupara. Mougachi. Mohonpur. Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "4 Years",
+        "experience_details": "1. Manager of partex diller point 1.5 year\r\n2. Junior Computer operator Baxinco Pharmaceutical Limited 1 year\r\n3. manager of rajshahi Misty bari 6 month\r\n4. matching operator Bravo apparel manufacture Limited 6 month.",
+        "local_image_path": "images/385.png"
+    },
+    {
+        "id": "386",
+        "image": "https://www.rajshahijobs.com/images/users/386_1719918467.png",
+        "name": "MD. AMINUL ISLAM",
+        "address_present": "CHOTOBONGRAM UTTARPARA POST SOPURA THANA CHONDRIMA",
+        "address_permanent": "CHOTOBONGRAM UTTARPARA POST SOPURA THANA CHONDRIMA",
+        "last_education": "MSS (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/386.png"
+    },
+    {
+        "id": "387",
+        "image": "https://www.rajshahijobs.com/images/users/387_1719917580.png",
+        "name": "Md. Polash",
+        "address_present": "Laxmipur,Rajshahi",
+        "address_permanent": "Bagmara,Rajshahi",
+        "last_education": "BBA (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/387.png"
+    },
+    {
+        "id": "388",
+        "image": "https://www.rajshahijobs.com/images/users/388_1719917571.png",
+        "name": "Istiak",
+        "address_present": "Muraripur. Damkura.Rajshahi",
+        "address_permanent": "Muraripur. Damkura.Rajshahi",
+        "last_education": "SSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "makehub ( software firm).\r\noffice assistant",
+        "local_image_path": "images/388.png"
+    },
+    {
+        "id": "389",
+        "image": "https://www.rajshahijobs.com/images/users/389_1719917435.png",
+        "name": "Md.Salauddin",
+        "address_present": "Goyespur, pabna sodor, pabna",
+        "address_permanent": "Goyespur, pabna sodor,pabna",
+        "last_education": "MBA (2017)",
+        "job_experiences": "4 Years",
+        "experience_details": "No experiences",
+        "local_image_path": "images/389.png"
+    },
+    {
+        "id": "395",
+        "image": "https://www.rajshahijobs.com/images/users/395_1719919647.png",
+        "name": "Shahinur Islam",
+        "address_present": "Natore sadar,Rajshahi",
+        "address_permanent": "Baddyabelghoria,Naldanga,Natore",
+        "last_education": "BA (2024)",
+        "job_experiences": "1 Year",
+        "experience_details": "QA engineer in Vcube soft & tech company.",
+        "local_image_path": "images/395.png"
+    },
+    {
+        "id": "397",
+        "image": "https://www.rajshahijobs.com/images/users/397_1719921109.png",
+        "name": "Md Shaffat Ahmed Titas",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "BA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/397.png"
+    },
+    {
+        "id": "398",
+        "image": "https://www.rajshahijobs.com/images/users/398_1719920808.png",
+        "name": "\u09ab\u09bf\u09b0\u09cb\u099c \u09ae\u09be\u09b9\u09ae\u09c1\u09a6",
+        "address_present": "Mundumala, Tanore, Rajshahi",
+        "address_permanent": "Mundumala, Tanore, Rajshahi",
+        "last_education": "BSC (2027)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/398.png"
     }
 ]
