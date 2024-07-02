@@ -1771,6 +1771,17 @@
         "local_image_path": "images/268.png"
     },
     {
+        "id": "269",
+        "image": "https://www.rajshahijobs.com/images/users/269_1719844039.png",
+        "name": "Sadia Rahman",
+        "address_present": "Beldarpara  ghoramara Rajshahi",
+        "address_permanent": "Beldarpara, ghoramara, Rajshahi",
+        "last_education": "BBA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/269.png"
+    },
+    {
         "id": "270",
         "image": "https://www.rajshahijobs.com/images/users/270_1719492626.png",
         "name": "Afroza Afrin Lisa",
@@ -2220,5 +2231,93 @@
         "job_experiences": "1 Year",
         "experience_details": "No experiences",
         "local_image_path": "images/359.png"
+    },
+    {
+        "id": "361",
+        "image": "https://www.rajshahijobs.com/images/users/361_1719838453.png",
+        "name": "S.M.Al-Nurise",
+        "address_present": "Hossnigonj, Rajshahi",
+        "address_permanent": "Hossnigonj, Rajshahi",
+        "last_education": "BBA (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/361.png"
+    },
+    {
+        "id": "363",
+        "image": "https://www.rajshahijobs.com/images/users/363_1719846378.png",
+        "name": "Md. Raj Ahumed",
+        "address_present": "Baje Kajla, P. O: Ghoramara, P. S: Boalia, Dist: Rajshahi.",
+        "address_permanent": "Baje Kajla, P. O: Ghoramara, P. S: Boalia, Dist: Rajshahi.",
+        "last_education": "HSC (2016)",
+        "job_experiences": "2 Years",
+        "experience_details": "I have worked as a manager at Hotel Rahmania Residential for 2 years.",
+        "local_image_path": "images/363.png"
+    },
+    {
+        "id": "364",
+        "image": "https://www.rajshahijobs.com/images/users/364_1719846579.png",
+        "name": "Zahangir Alam",
+        "address_present": "Village:koyrabari ,Post:Singra P.S.-Singra,Dist: Natore.",
+        "address_permanent": "Village:koyrabari ,Post:Singra P.S.-Singra,Dist: Natore.",
+        "last_education": "BSC (2023)",
+        "job_experiences": "4 Years",
+        "experience_details": "I'm working as a Area Incharge in Sanowara Group Companies Ltd \r\n(kwality ice-cream & Frozen Food) at since.03-01-2023 to Present,-Area: Rajshahi\r\n\u2022 I\u2019m working as a Sr.Executive (sales & marketing) in SKS Lubricants Industries Ltd.\r\nat since 05-01-2021 to 30-12-2022,-Area:Rajshahi \r\n\u2022 I\u2019m working as a Sales Officer in Akij Food and Beverage Ltd, \r\nsince 10-08-2017 to 24-12-2020,-Area:Jessore",
+        "local_image_path": "images/364.png"
+    },
+    {
+        "id": "365",
+        "image": "https://www.rajshahijobs.com/images/users/365_1719850790.png",
+        "name": "MD.Hasib Sheikh",
+        "address_present": "Binodpur, Rajshahi",
+        "address_permanent": "Boalmari, faridpur",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/365.png"
+    },
+    {
+        "id": "366",
+        "image": "https://www.rajshahijobs.com/images/users/366_1719852422.png",
+        "name": "Md Sumon rana",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "SSC (21)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/366.png"
+    },
+    {
+        "id": "367",
+        "image": "https://www.rajshahijobs.com/images/users/367_1719853782.png",
+        "name": "Shahajia Chowdhury",
+        "address_present": "Rajshahi",
+        "address_permanent": "Brimpur, Dinajpur",
+        "last_education": "MA (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/367.png"
+    },
+    {
+        "id": "369",
+        "image": "https://www.rajshahijobs.com/images/users/369_1719856024.png",
+        "name": "Md. Siamzul Islam",
+        "address_present": "SHAHEB BAZAR, RAJSHAHI",
+        "address_permanent": "H-28/5, BAGANTULI, SHIBGANJ, CHAPAINAWABGANJ",
+        "last_education": "BBA (2022)",
+        "job_experiences": "3 Years",
+        "experience_details": "As a computer operator",
+        "local_image_path": "images/369.png"
+    },
+    {
+        "id": "370",
+        "image": "https://www.rajshahijobs.com/images/users/370_1719855973.png",
+        "name": "Md. Al Fahad",
+        "address_present": "Rajshahi",
+        "address_permanent": "Niamatpur",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/370.png"
     }
 ]
