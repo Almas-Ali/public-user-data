@@ -3067,5 +3067,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/491.png"
+    },
+    {
+        "id": "496",
+        "image": "https://www.rajshahijobs.com/images/users/496_1720087693.png",
+        "name": "Sobuj",
+        "address_present": "Kirttoly,Manda, Naogan",
+        "address_permanent": "Hadir More, Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "3 Months",
+        "experience_details": "Admission Aducare, \u09ac\u09cd\u09af\u09be\u099a \u09ae\u09c7\u09a8\u09c7\u099c\u09ae\u09c7\u09a8\u09cd\u099f \u098f\u09ac\u0982 \u0985\u09ab\u09bf\u09b8\u09bf\u09df\u09be\u09b2 \u0995\u09be\u099c\u0964 \u09e8\u09e6\u09e8\u09e8",
+        "local_image_path": "images/496.png"
     }
 ]
