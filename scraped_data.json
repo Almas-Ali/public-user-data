@@ -1199,6 +1199,17 @@
         "local_image_path": "images/173.png"
     },
     {
+        "id": "177",
+        "image": "https://www.rajshahijobs.com/images/users/177_1719719230.png",
+        "name": "Md.Nasir Uddin",
+        "address_present": "Sujanagor shilpy para, Sopura, Boalia, Rajshahi",
+        "address_permanent": "Vill-Dokkhin Uzirpur (Talpotti), PO- Radhakantopur, PS- Shibganj. Dist- Chapai Nawabganj",
+        "last_education": "MSC (2011)",
+        "job_experiences": "1 Year",
+        "experience_details": "Bangladesh Election Comission\r\nData Entry Operator",
+        "local_image_path": "images/177.png"
+    },
+    {
         "id": "178",
         "image": "https://www.rajshahijobs.com/images/users/178_1719079522.png",
         "name": "Koushik Ahmad",
@@ -2115,7 +2126,7 @@
         "id": "334",
         "image": "https://www.rajshahijobs.com/images/users/334_1719703324.png",
         "name": "Mahfuz Hossain",
-        "address_present": "Khorbona, Boalia, Rajshahi",
+        "address_present": "Tikapara, Boalia, Rajshahi",
         "address_permanent": "Manda, Noagaon",
         "last_education": "HSC (2021)",
         "job_experiences": "Fresher",
@@ -2462,6 +2473,17 @@
         "job_experiences": "3 Years",
         "experience_details": "Dutch Bangla Bank,  Computer officer,  2 years.",
         "local_image_path": "images/393.png"
+    },
+    {
+        "id": "394",
+        "image": "https://www.rajshahijobs.com/images/users/394_1720014221.png",
+        "name": "Mehedi Hasan",
+        "address_present": "Nandangachi, Charghat, Rajshahi",
+        "address_permanent": "Nandangachi, Charghat, Rajshahi",
+        "last_education": "BA (2021)",
+        "job_experiences": "1 Year",
+        "experience_details": "No experiences",
+        "local_image_path": "images/394.png"
     },
     {
         "id": "395",
