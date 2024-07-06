@@ -909,7 +909,7 @@
         "address_permanent": "Bosua , GPO-6000, Rajrapra, Rajshahi",
         "last_education": "MA (2021)",
         "job_experiences": "5 Years",
-        "experience_details": "3 years exprince as a Data analyses officer in Christian Commission for Development in Bangladesh (CCDB), Padma Multipurpose Bridge Project, Resettlement, Janjira site, Madaripur,\r\n\r\n* 3+ years work exorince as a VAT & Tax accountant In an importer and supplier firm, Rajshahi.\r\n\r\n* Teacher at shafollow coaching centre, Rajshahi.\r\n\r\n*Shopify web Developer and Digital Marketer like Facebook, Google AdWords, LinkedIn, Email, Instagram.",
+        "experience_details": "3 years exprince as a Data analyses officer in Christian Commission for Development in Bangladesh (CCDB), Padma Multipurpose Bridge Project, Resettlement, Janjira site, Madaripur,\r\n\r\n* 3+ years work exprince as a VAT & Tax accountant and accounts manager In an importer and supplier firm in Rajshahi.\r\n\r\n* Teacher at shafollow coaching centre, Rajshahi.\r\n\r\n*Shopify web Developer and Digital Marketer like Facebook, Google AdWords, LinkedIn, Email, Instagram for 4+ years.",
         "local_image_path": "images/127.png"
     },
     {
@@ -3454,14 +3454,58 @@
         "local_image_path": "images/585.png"
     },
     {
-        "id": "586",
-        "image": "https://www.rajshahijobs.com/images/users/586_1720224345.png",
-        "name": "Abdullah jarif",
-        "address_present": "Uposhor, rajshahi",
-        "address_permanent": "Ullapara, sirajgonj",
-        "last_education": "Diploma (Eng) (6)",
+        "id": "587",
+        "image": "https://www.rajshahijobs.com/images/users/587_1720241243.png",
+        "name": "Alamin Hossen",
+        "address_present": "Murdha, Salampur,lalpur natore",
+        "address_permanent": "Murdha, Salampur,lalpur natore",
+        "last_education": "HSC (2020)",
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
-        "local_image_path": "images/586.png"
+        "local_image_path": "images/587.png"
+    },
+    {
+        "id": "588",
+        "image": "https://www.rajshahijobs.com/images/users/588_1720245127.png",
+        "name": "New Life Hospital, Rajshahi",
+        "address_present": "Meharchondi Koraitola,Padma Abashik-6207,Boalia,Rajshahi",
+        "address_permanent": "Meharchondi Koraitola,Padma Abashik-6207,Boalia,Rajshahi",
+        "last_education": "MBA (2019)",
+        "job_experiences": "3 Years",
+        "experience_details": "New Life Hospital, Rajshahi.  Accountant, Daily cash received Payment cash Book maintain",
+        "local_image_path": "images/588.png"
+    },
+    {
+        "id": "590",
+        "image": "https://www.rajshahijobs.com/images/users/590_1720249153.png",
+        "name": "Md Jamilur Rahman",
+        "address_present": "Shairgacha, Rajshahi court, Rajpara, Rajshahi.",
+        "address_permanent": "Shairgacha, Rajshahi court, Rajpara, Rajshahi.",
+        "last_education": "MSC (2024)",
+        "job_experiences": "3 Years",
+        "experience_details": "Have 3 year experience as a home tutor.",
+        "local_image_path": "images/590.png"
+    },
+    {
+        "id": "591",
+        "image": "https://www.rajshahijobs.com/images/users/591_1720254775.png",
+        "name": "Mohammad mijan",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "SSC (2016)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/591.png"
+    },
+    {
+        "id": "592",
+        "image": "https://www.rajshahijobs.com/images/users/592_1720261254.png",
+        "name": "Nazmul Hasan",
+        "address_present": "\uf076 Village Name : Rajarampur Bodumiapara \uf076 Post Office : Rajarampur \uf076 Police Station : Chapainawabganj Sadar",
+        "address_permanent": "\uf076 Village Name : Rajarampur Bodumiapara \uf076 Post Office : Rajarampur \uf076 Police Station : Chapainawabganj Sadar",
+        "last_education": "HSC (2018)",
+        "job_experiences": "1 Year",
+        "experience_details": "*Sales Man at Sahabul Store and Cosmetics in Puraton Bazar, Chapainawabganj. (10 months)\r\n*Sales Man at Ma Traders in Dariapur (Notun Truck Terminal). Chapainawabganj. (5 months)",
+        "local_image_path": "images/592.png"
     }
 ]
