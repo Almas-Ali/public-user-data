@@ -3419,5 +3419,49 @@
         "job_experiences": "3 Months",
         "experience_details": "Daraz hub,rider, operator",
         "local_image_path": "images/578.png"
+    },
+    {
+        "id": "579",
+        "image": "https://www.rajshahijobs.com/images/users/579_1720187566.png",
+        "name": "Ismail Hasan",
+        "address_present": "Mohanpur, Rajshahi",
+        "address_permanent": "Mohanpur, Rajshahi",
+        "last_education": "HSC (2025)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/579.png"
+    },
+    {
+        "id": "581",
+        "image": "https://www.rajshahijobs.com/images/users/581_1720196017.png",
+        "name": "DIN MOHAMMAD DULU",
+        "address_present": "Chaipara, Baghmara, Rahshahi",
+        "address_permanent": "Chaipara, Baghmara, Rahshahi",
+        "last_education": "BSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/581.png"
+    },
+    {
+        "id": "585",
+        "image": "https://www.rajshahijobs.com/images/users/585_1720216967.png",
+        "name": "pappu kumar sarkar",
+        "address_present": "Rajsahi, binodpur",
+        "address_permanent": "billdahore,singra,natore",
+        "last_education": "HSC (2021)",
+        "job_experiences": "4 Years",
+        "experience_details": "\u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8\u09c7\u09b0 \u09a8\u09be\u09ae: \u09a1\u09be\u099a\u09cd \u09ac\u09be\u0982\u09b2\u09be \u098f\u099c\u09c7\u09a8\u09cd\u099f \u09ac\u09cd\u09af\u09be\u0982\u0995\u09bf\u0982\u0964 \r\n\u09aa\u09a6\u09c7\u09b0 \u09a8\u09be\u09ae: \u099f\u09c7\u09b2\u09b0 \u0985\u09ab\u09bf\u09b8\u09be\u09b0\r\n\u0995\u09be\u099c\u09c7\u09b0 \u09a7\u09b0\u09a8: \u09ab\u09c1\u09b2 \u099f\u09be\u0987\u09ae\r\n\u099a\u09be\u0995\u09c1\u09b0\u09c0\u09b0\u09a4 \u09ae\u09c7\u09df\u09be\u09a6: \u099a\u09be\u09b0 \u09ac\u099b\u09b0",
+        "local_image_path": "images/585.png"
+    },
+    {
+        "id": "586",
+        "image": "https://www.rajshahijobs.com/images/users/586_1720224345.png",
+        "name": "Abdullah jarif",
+        "address_present": "Uposhor, rajshahi",
+        "address_permanent": "Ullapara, sirajgonj",
+        "last_education": "Diploma (Eng) (6)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/586.png"
     }
 ]
