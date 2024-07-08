@@ -3837,5 +3837,71 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/644.png"
+    },
+    {
+        "id": "645",
+        "image": "https://www.rajshahijobs.com/images/users/645_1720355634.png",
+        "name": "Shafiul Hossain",
+        "address_present": "Bonolota abashik, Rajshahi.",
+        "address_permanent": "Hossnigonj, Boalia, Rajshahi.",
+        "last_education": "SSC (2012)",
+        "job_experiences": "10 Years+",
+        "experience_details": "# Receptionist and Doctor atd at Rajshahi Metropolitan Hospital.(2013-16)\r\n# Ast. Manager at Shoishob Fashion Ltd. Dhaka. (2016-19)\r\n# Sales Executive at Amana Big Bazar, Rajshahi. (2020-22)\r\n# Accounts Manager at Al Saqr Al Aseel information technology Est.\r\nUnited Arab Emirates (2022-24)",
+        "local_image_path": "images/645.png"
+    },
+    {
+        "id": "647",
+        "image": "https://www.rajshahijobs.com/images/users/647_1720357670.png",
+        "name": "Shojib",
+        "address_present": "Vill: Rahimpur, Post : Bilmaria,Upazila :Lalpur",
+        "address_permanent": "Vill: Rahimpur, Post : Bilmaria,Upazila :Lalpur",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/647.png"
+    },
+    {
+        "id": "651",
+        "image": "https://www.rajshahijobs.com/images/users/651_1720365670.png",
+        "name": "shovon ali",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "Honors (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/651.png"
+    },
+    {
+        "id": "656",
+        "image": "https://www.rajshahijobs.com/images/users/656_1720368355.png",
+        "name": "Md Shafiul Karim",
+        "address_present": "Naogaon",
+        "address_permanent": "Naogaon",
+        "last_education": "BA (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "Salesman",
+        "local_image_path": "images/656.png"
+    },
+    {
+        "id": "657",
+        "image": "https://www.rajshahijobs.com/images/users/657_1720390332.png",
+        "name": "Md. Nurnobi Mia",
+        "address_present": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09b8\u09a6\u09b0 , \u09b6\u09bf\u09b0\u09cb\u0987\u09b2 \u09b8\u09cd\u099f\u09c7\u09b6\u09a8 \u0995\u09be\u099a\u09be\u09ac\u09be\u099c\u09be\u09b0 \u09ac\u09cd\u09b0\u09be\u0995 \u0985\u09ab\u09bf\u09b8\u09c7\u09b0 \u09aa\u09be\u09b6\u09c7 \u09b9\u09cb\u09b2\u09cd\u09a1\u09bf\u0982-\u09ed\u09e7",
+        "address_permanent": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09b8\u09a6\u09b0 , \u09b6\u09bf\u09b0\u09cb\u0987\u09b2 \u09b8\u09cd\u099f\u09c7\u09b6\u09a8 \u0995\u09be\u099a\u09be\u09ac\u09be\u099c\u09be\u09b0 \u09ac\u09cd\u09b0\u09be\u0995 \u0985\u09ab\u09bf\u09b8\u09c7\u09b0 \u09aa\u09be\u09b6\u09c7 \u09b9\u09cb\u09b2\u09cd\u09a1\u09bf\u0982-\u09ed\u09e7",
+        "last_education": "CSE (2028)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/657.png"
+    },
+    {
+        "id": "659",
+        "image": "https://www.rajshahijobs.com/images/users/659_1720393755.png",
+        "name": "Md Ismail Islam",
+        "address_present": "Boshpara, Ghoramara, Boalia",
+        "address_permanent": "Boshpara, Ghoramara, Boalia",
+        "last_education": "HSC (2018)",
+        "job_experiences": "3 Years",
+        "experience_details": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u0995\u09be\u099c\u09c0 \u09ac\u09cd\u09b0\u09be\u09a6\u09be\u09b0\u09cd\u09b8\u09c7 \u0986\u099b\u09bf,\u09b8\u09c7\u0996\u09be\u09a8\u09c7 \u0985\u09ab\u09bf\u09b8 \u098f\u0995\u09cd\u09b8\u09c7\u09b2 \u098f\u09b0 \u0995\u09bf\u099b\u09c1 \u0995\u09be\u099c \u098f\u09ac\u0982 \u09b8\u09ab\u099f\u0993\u09df\u09cd\u09af\u09be\u09b0 \u098f \u09ac\u09bf\u09b2 \u0995\u09b0\u09bf",
+        "local_image_path": "images/659.png"
     }
 ]
