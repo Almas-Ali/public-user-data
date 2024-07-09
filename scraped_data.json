@@ -2724,7 +2724,7 @@
         "address_permanent": "Chatmohar,Pabna",
         "last_education": "HSC (2016)",
         "job_experiences": "2 Years",
-        "experience_details": "Digital marketing,  Affiliates Marketing, Google Ads Run,Facebook Ads Run,Ads Creative creat,Sales,Page creat,online store,",
+        "experience_details": "Video content,Digital marketing,  Affiliates Marketing, Google Ads Run,Facebook Ads Run,Ads Creative creat,Sales,Page creat,online store,",
         "local_image_path": "images/425.png"
     },
     {
@@ -4059,6 +4059,17 @@
         "local_image_path": "images/678.png"
     },
     {
+        "id": "689",
+        "image": "https://www.rajshahijobs.com/images/users/689_1720434115.png",
+        "name": "Adil Mohon",
+        "address_present": "Shalbagan Power house mor,Sopura,Rajshahi",
+        "address_permanent": "Shalbagan Power house mor,Sopura,Rajshahi",
+        "last_education": "SSC Vocational (2024)",
+        "job_experiences": "2 Years",
+        "experience_details": "2 Years",
+        "local_image_path": "images/689.png"
+    },
+    {
         "id": "691",
         "image": "https://www.rajshahijobs.com/images/users/691_1720435125.png",
         "name": "Atik hassan nahid",
@@ -4101,5 +4112,71 @@
         "job_experiences": "Fresher",
         "experience_details": "Grameen phone. Silva Pharma. Gazi international",
         "local_image_path": "images/696.png"
+    },
+    {
+        "id": "698",
+        "image": "https://www.rajshahijobs.com/images/users/698_1720445069.png",
+        "name": "Yasir Arafat",
+        "address_present": "13 Chapainawabganj,sorok vobon",
+        "address_permanent": "13 Chapainawabganj,sorok vobon",
+        "last_education": "Diploma (Eng) (2021)",
+        "job_experiences": "3 Years",
+        "experience_details": "Chef,maneger,sellsman,servicesman",
+        "local_image_path": "images/698.png"
+    },
+    {
+        "id": "699",
+        "image": "https://www.rajshahijobs.com/images/users/699_1720447617.png",
+        "name": "Arshad Rahman",
+        "address_present": "Baharampur,City Bypas",
+        "address_permanent": "Baharampur,City Bypas",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/699.png"
+    },
+    {
+        "id": "702",
+        "image": "https://www.rajshahijobs.com/images/users/702_1720453584.png",
+        "name": "MD. ESHAK ALI",
+        "address_present": "Pirsaheb para,Rajshahi court, Rajpara, Rajshahi",
+        "address_permanent": "Guptomanik,Dhainagor, Shibganj, Chapainawabganj",
+        "last_education": "BSC (2023)",
+        "job_experiences": "2 Years",
+        "experience_details": "Careeraid coaching center\r\nComputer Operator\r\nDuty and Responsibility :\r\nTyping,make lecture sheet question and book. \r\nBrowsing internet, email and office maintain.",
+        "local_image_path": "images/702.png"
+    },
+    {
+        "id": "703",
+        "image": "https://www.rajshahijobs.com/images/users/703_1720457496.png",
+        "name": "Monjur Rahman",
+        "address_present": "Kayra, Hatgodagari - 6211, Paba, Rajshahi",
+        "address_permanent": "Kayra, Hatgodagari - 6211, Paba, Rajshahi",
+        "last_education": "CSE (2022)",
+        "job_experiences": "2 Years",
+        "experience_details": "I have almost 2 years of experience in SATT IT. I had performed in this IT as a Data Entry Operator.",
+        "local_image_path": "images/703.png"
+    },
+    {
+        "id": "704",
+        "image": "https://www.rajshahijobs.com/images/users/704_1720460639.png",
+        "name": "MD NAYM ALI",
+        "address_present": "Kukhandi katakhali Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2018)",
+        "job_experiences": "3 Months",
+        "experience_details": "The mash ltd.seles man",
+        "local_image_path": "images/704.png"
+    },
+    {
+        "id": "707",
+        "image": "https://www.rajshahijobs.com/images/users/707_1720472626.png",
+        "name": "Rifat Hasan",
+        "address_present": "5 no goly Hajrapukur,Ghoramara, Boalia, Rajshahi",
+        "address_permanent": "5 no goly Hajrapukur,Ghoramara, Boalia, Rajshahi",
+        "last_education": "MBA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/707.png"
     }
 ]
