@@ -4724,9 +4724,9 @@
         "name": "Muhammad Redwan",
         "address_present": "Mirzapur, Rajshahi",
         "address_permanent": "Rajbari, Dhaka",
-        "last_education": "HSC (2022)",
+        "last_education": "BSC (2023)",
         "job_experiences": "1 Year",
-        "experience_details": "I used to work in a computer servicing center as a communicative.",
+        "experience_details": "I used to in coaching center as a English teacher in Dhaka",
         "local_image_path": "images/809.png"
     },
     {
@@ -4739,5 +4739,82 @@
         "job_experiences": "1 Year",
         "experience_details": "Uniliver Bangladesh Limited \r\nSells Man 1 year\r\nlereve \r\n4 months",
         "local_image_path": "images/812.png"
+    },
+    {
+        "id": "822",
+        "image": "https://www.rajshahijobs.com/images/users/822_1720671156.png",
+        "name": "islam",
+        "address_present": "Rohanpur, Gomastapur",
+        "address_permanent": "Rohanpur, Gomastapur",
+        "last_education": "BA (2020)",
+        "job_experiences": "6 Months",
+        "experience_details": "Zero Point Computing Rajshahi, Web Developer, 6 Months",
+        "local_image_path": "images/822.png"
+    },
+    {
+        "id": "823",
+        "image": "https://www.rajshahijobs.com/images/users/823_1720671401.png",
+        "name": "S. M. Naimul Hasan",
+        "address_present": "379, Raninagar, Ghoramara, Boalia, Rajshahi",
+        "address_permanent": "379, Raninagar, Ghoramara, Boalia, Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/823.png"
+    },
+    {
+        "id": "825",
+        "image": "https://www.rajshahijobs.com/images/users/825_1720672428.png",
+        "name": "Khalid Hasan Siam",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/825.png"
+    },
+    {
+        "id": "827",
+        "image": "https://www.rajshahijobs.com/images/users/827_1720675199.png",
+        "name": "MD. RAFIQUL ISLAM",
+        "address_present": "Terokhadia, Collegepara, Lane No: 06, Holdin no #910/1, Rajshahi Cantonment, Rajshahi",
+        "address_permanent": "Holdin no #910/1, Collegepara, Terokhadia Lane No: 06",
+        "last_education": "Diploma (Eng) (2015)",
+        "job_experiences": "8 Years",
+        "experience_details": "sub assistant engineer at dipon gas company, front end web developer at wpcamel, Data annotator at Quantigo Ai",
+        "local_image_path": "images/827.png"
+    },
+    {
+        "id": "828",
+        "image": "https://www.rajshahijobs.com/images/users/828_1720685558.png",
+        "name": "MD Shaon Islam",
+        "address_present": "Rajshahi, Baneshwar,Mogaci",
+        "address_permanent": "Same",
+        "last_education": "HSC (2018)",
+        "job_experiences": "Fresher",
+        "experience_details": "Some experience",
+        "local_image_path": "images/828.png"
+    },
+    {
+        "id": "832",
+        "image": "https://www.rajshahijobs.com/images/users/832_1720695739.png",
+        "name": "MD Abdul momin",
+        "address_present": "Baya bazar airport thana poba Rajshahi",
+        "address_permanent": "Baya bazar airport thana poba Rajshahi",
+        "last_education": "BBA (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "Nabil group 2 year & ansar vdp 6 year",
+        "local_image_path": "images/832.png"
+    },
+    {
+        "id": "833",
+        "image": "https://www.rajshahijobs.com/images/users/833_1720698587.png",
+        "name": "Helal",
+        "address_present": "Rajshahi of University, Rajshahi",
+        "address_permanent": "Rajshahi of University, Rajshahi",
+        "last_education": "HSC (2008)",
+        "job_experiences": "10 Years+",
+        "experience_details": "Microsoft Office Programming.",
+        "local_image_path": "images/833.png"
     }
 ]
