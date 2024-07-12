@@ -4143,7 +4143,7 @@
         "address_permanent": "Pachurchake, Joypurhat Sadar, Joypurhat.",
         "last_education": "Diploma (Eng) (2024)",
         "job_experiences": "Fresher",
-        "experience_details": "I work in Fiverr as a part-time Freelancer. My services including WordPress \r\nwebsite design, Development, and Cybersecurity. I also create many web pages by using HTML and CSS coding. I have so much knowledge about Internet and Google smart search techniques (dorks).",
+        "experience_details": "I work in Fiverr as a part-time Freelancer. My services including WordPress \r\nwebsite design, Development, and Cybersecurity.",
         "local_image_path": "images/697.png"
     },
     {
@@ -4741,6 +4741,17 @@
         "local_image_path": "images/812.png"
     },
     {
+        "id": "821",
+        "image": "https://www.rajshahijobs.com/images/users/821_1720720507.png",
+        "name": "Nazrul Islam",
+        "address_present": "Pathanpara",
+        "address_permanent": "Bagmara",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/821.png"
+    },
+    {
         "id": "822",
         "image": "https://www.rajshahijobs.com/images/users/822_1720671156.png",
         "name": "islam",
@@ -4776,7 +4787,7 @@
     {
         "id": "827",
         "image": "https://www.rajshahijobs.com/images/users/827_1720675199.png",
-        "name": "MD. RAFIQUL ISLAM",
+        "name": "MD Mohaimenul Islam",
         "address_present": "Terokhadia, Collegepara, Lane No: 06, Holdin no #910/1, Rajshahi Cantonment, Rajshahi",
         "address_permanent": "Holdin no #910/1, Collegepara, Terokhadia Lane No: 06",
         "last_education": "Diploma (Eng) (2015)",
@@ -4816,5 +4827,38 @@
         "job_experiences": "10 Years+",
         "experience_details": "Microsoft Office Programming.",
         "local_image_path": "images/833.png"
+    },
+    {
+        "id": "834",
+        "image": "https://www.rajshahijobs.com/images/users/834_1720704062.png",
+        "name": "Ferdous Rahman",
+        "address_present": "Bornali Mor Rajshahi",
+        "address_permanent": "Bagmara Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/834.png"
+    },
+    {
+        "id": "840",
+        "image": "https://www.rajshahijobs.com/images/users/840_1720715347.png",
+        "name": "Mst.Rumi Yesmin",
+        "address_present": "Vill: Sadurmor,PO:Ghoramara-6100, PS:Boalia,Dist: Rajshahi",
+        "address_permanent": "Vill:Saduria,PO: Monshapur -5270 ,PS:Hakimpur,Dist:Dinajpur",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/840.png"
+    },
+    {
+        "id": "842",
+        "image": "https://www.rajshahijobs.com/images/users/842_1720733054.png",
+        "name": "Aseya Afrin",
+        "address_present": "Seroil colony, Ghoramara, Boalia, Rajshahi",
+        "address_permanent": "Seroil colony, Ghoramara, Boalia, Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "Alo Art Academy, Uposhohor 318/2, Rajshahi \r\nTeaching Assistant \r\nOffice Management \r\n25-04-2024 to present",
+        "local_image_path": "images/842.png"
     }
 ]
