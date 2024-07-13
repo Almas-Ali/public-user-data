@@ -3179,6 +3179,17 @@
         "local_image_path": "images/496.png"
     },
     {
+        "id": "501",
+        "image": "https://www.rajshahijobs.com/images/users/501_1720456015.png",
+        "name": "Kazol Mardi",
+        "address_present": "C&B mor Rajshahi",
+        "address_permanent": "Rohanpur Gomostapur Chapinawabgonj",
+        "last_education": "Diploma (Nursing) (3)",
+        "job_experiences": "1 Year",
+        "experience_details": "Seals man",
+        "local_image_path": "images/501.png"
+    },
+    {
         "id": "502",
         "image": "https://www.rajshahijobs.com/images/users/502_1720010489.png",
         "name": "MD Tushar",
@@ -5124,5 +5135,82 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/878.png"
+    },
+    {
+        "id": "881",
+        "image": "https://www.rajshahijobs.com/images/users/881_1720838112.png",
+        "name": "Masum Ahmed",
+        "address_present": "Baliyapukur,rajshahi",
+        "address_permanent": "Mirzapur, chatmohor, pabna",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/881.png"
+    },
+    {
+        "id": "882",
+        "image": "https://www.rajshahijobs.com/images/users/882_1720843354.png",
+        "name": "Md. Shahid Hosen",
+        "address_present": "Kajla, Rajshahi",
+        "address_permanent": "Durgapur, Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/882.png"
+    },
+    {
+        "id": "883",
+        "image": "https://www.rajshahijobs.com/images/users/883_1720848600.png",
+        "name": "MD.TOUHIDUZZAMAN TONMOY",
+        "address_present": "Home : 268/W:16, Sojanogor Uttor Para ( Mothurdanga), Rajshahi",
+        "address_permanent": "Home : 268/W:16, Sojanogor Uttor Para ( Mothurdanga), Rajshahi",
+        "last_education": "Diploma (Eng) (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "1. Data Entry.\r\n2. Computer Training with Three Month ( NTVQF -Level 1)\r\n3. Digital marketing ( SEO, YouTube SEO, Google Adsense, Email Marketing)",
+        "local_image_path": "images/883.png"
+    },
+    {
+        "id": "884",
+        "image": "https://www.rajshahijobs.com/images/users/884_1720850913.png",
+        "name": "Md.Tuhin Ali",
+        "address_present": "Dugapur Rajshahi",
+        "address_permanent": "Talaimari Mollaha vabon Satrabas",
+        "last_education": "BA (2022)",
+        "job_experiences": "2 Years",
+        "experience_details": "Nayem chemistry 5 manth  and  tuition 1 year. and Coca-Cola food 6 manth.",
+        "local_image_path": "images/884.png"
+    },
+    {
+        "id": "885",
+        "image": "https://www.rajshahijobs.com/images/users/885_1720855417.png",
+        "name": "Omar Faruk",
+        "address_present": "Tanor, Rajshahi",
+        "address_permanent": "Tanor, rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/885.png"
+    },
+    {
+        "id": "887",
+        "image": "https://www.rajshahijobs.com/images/users/887_1720855466.png",
+        "name": "Md. Atiqur Rahman",
+        "address_present": "258, Rajpara, Rajshahi Court-6201, Rajpara, Rajshahi.",
+        "address_permanent": "258, Rajpara, Rajshahi Court-6201, Rajpara, Rajshahi.",
+        "last_education": "MBA (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/887.png"
+    },
+    {
+        "id": "891",
+        "image": "https://www.rajshahijobs.com/images/users/891_1720858665.png",
+        "name": "Sarwar hossain",
+        "address_present": "Baliya pukur",
+        "address_permanent": "Vodra",
+        "last_education": "Honors (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/891.png"
     }
 ]
