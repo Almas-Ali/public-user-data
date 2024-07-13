@@ -1089,6 +1089,17 @@
         "local_image_path": "images/153.png"
     },
     {
+        "id": "155",
+        "image": "https://www.rajshahijobs.com/images/users/155_1720813122.png",
+        "name": "Ismot Ali",
+        "address_present": "Chapai Nawabganj",
+        "address_permanent": "Rajshahi",
+        "last_education": "BBA (2022)",
+        "job_experiences": "6 Years",
+        "experience_details": "No experiences",
+        "local_image_path": "images/155.png"
+    },
+    {
         "id": "158",
         "image": "https://www.rajshahijobs.com/images/users/158_1718896097.png",
         "name": "Nur e alam siddique",
@@ -1263,6 +1274,17 @@
         "job_experiences": "10 Years",
         "experience_details": "Raj Cold Storage (Pvt) Ltd. has 10 years of experience as Computer Operator and Cashier.",
         "local_image_path": "images/189.png"
+    },
+    {
+        "id": "191",
+        "image": "https://www.rajshahijobs.com/images/users/191_1719168413.png",
+        "name": "Md Akhtaruzzaman",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/191.png"
     },
     {
         "id": "196",
@@ -4959,5 +4981,148 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/853.png"
+    },
+    {
+        "id": "857",
+        "image": "https://www.rajshahijobs.com/images/users/857_1720786844.png",
+        "name": "Rusha Roy",
+        "address_present": "Rajshahi Talaimari",
+        "address_permanent": "Rajshahi Talaimari",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/857.png"
+    },
+    {
+        "id": "858",
+        "image": "https://www.rajshahijobs.com/images/users/858_1720787886.png",
+        "name": "MD SAMIUL HAQUE",
+        "address_present": "Malshira, Tanore, Rajshahi.",
+        "address_permanent": "Malshira, Tanore,  Rajshahi.",
+        "last_education": "Diploma (Eng) (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/858.png"
+    },
+    {
+        "id": "860",
+        "image": "https://www.rajshahijobs.com/images/users/860_1720789122.png",
+        "name": "Sajib islam",
+        "address_present": "Goggaram",
+        "address_permanent": "Goggaram.godagari",
+        "last_education": "SSC (2015)",
+        "job_experiences": "4 Years",
+        "experience_details": "Pran.r.f.l.gurop\r\nOprator",
+        "local_image_path": "images/860.png"
+    },
+    {
+        "id": "862",
+        "image": "https://www.rajshahijobs.com/images/users/862_1720793822.png",
+        "name": "Ariful Islam",
+        "address_present": "Patul,Naldanga,Natore",
+        "address_permanent": "Patul,Naldanga,Natore",
+        "last_education": "HSC (2019)",
+        "job_experiences": "3 Months",
+        "experience_details": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b8\u09bf\u099f\u09bf \u09b0\u09c7\u09b8\u09cd\u099f\u09c1\u09b0\u09c7\u09a8\u09cd\u099f\u09c7 \u0993\u09df\u09c7\u099f\u09be\u09b0 \u09aa\u09a6\u09c7 \u09a4\u09bf\u09a8 \u09ae\u09be\u09b8 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf\u0964",
+        "local_image_path": "images/862.png"
+    },
+    {
+        "id": "863",
+        "image": "https://www.rajshahijobs.com/images/users/863_1720792266.png",
+        "name": "Mobinur Rahman",
+        "address_present": "Shohid jia sishu park, Rajshahi",
+        "address_permanent": "Chatra,shibgonj",
+        "last_education": "Diploma (Comm) (2018)",
+        "job_experiences": "5 Years",
+        "experience_details": "1)\r\nDesg: production manager \r\nCompany : union label & accessories  ltd.\r\nService :Feb 2021- march 2024\r\n2)\r\nDesig:teritory sales manager \r\nCompany : novelty biscuits company ltd.\r\nService : 2013 to 2014\r\n3)\r\nDesign: sales representative \r\nCompany : gsk mutual food products \r\nService  : 2012- 2014",
+        "local_image_path": "images/863.png"
+    },
+    {
+        "id": "866",
+        "image": "https://www.rajshahijobs.com/images/users/866_1720795811.png",
+        "name": "Md Asanur jaman",
+        "address_present": "Satrajitpur, shibganj, chapai nawabganj, rajshaihi",
+        "address_permanent": "Satrajitpur, shibganj, chapai nawabganj, rajshaihi",
+        "last_education": "BA (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/866.png"
+    },
+    {
+        "id": "868",
+        "image": "https://www.rajshahijobs.com/images/users/868_1720797578.png",
+        "name": "MD. MAHABUBUL HAQUE",
+        "address_present": "Village: Nolkhola, Thana: Katakhali, Post Office: Katakhali, District: Rajshahi",
+        "address_permanent": "Village: Nolkhola, Thana: Katakhali, Post Office: Katakhali, District: Rajshahi",
+        "last_education": "MSC (2018)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/868.png"
+    },
+    {
+        "id": "869",
+        "image": "https://www.rajshahijobs.com/images/users/869_1720798465.png",
+        "name": "Mst.Taslima Aktar Duly",
+        "address_present": "Manda",
+        "address_permanent": "Manda",
+        "last_education": "HSC Vocational (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/869.png"
+    },
+    {
+        "id": "871",
+        "image": "https://www.rajshahijobs.com/images/users/871_1720798890.png",
+        "name": "Md Riyead",
+        "address_present": "Baliadangi",
+        "address_permanent": "Morolhat Baliadangi",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences good job",
+        "local_image_path": "images/871.png"
+    },
+    {
+        "id": "872",
+        "image": "https://www.rajshahijobs.com/images/users/872_1720799033.png",
+        "name": "Md Borkotullah Arafat",
+        "address_present": "Osmanpur, Pirganj",
+        "address_permanent": "Osmanpur, Pirganj",
+        "last_education": "HSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "(2022-2023) Pima Associates Limited (Dhaka)\r\nComputer Operator \r\n\r\n(2024-running) Green Vision Overseas Recruitment Center (Rangpur)\r\nOnline Commercial Officer",
+        "local_image_path": "images/872.png"
+    },
+    {
+        "id": "873",
+        "image": "https://www.rajshahijobs.com/images/users/873_1720800173.png",
+        "name": "Sumya Sapna",
+        "address_present": "Luxmipur Paramedical Road, GPO, Rajpara, Rajshahi",
+        "address_permanent": "Namosangkarbati Jannatpara, Chapainawabganj Sadar,Chapainawabganj",
+        "last_education": "BSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/873.png"
+    },
+    {
+        "id": "875",
+        "image": "https://www.rajshahijobs.com/images/users/875_1720804351.png",
+        "name": "MD MEHEDI HASAN",
+        "address_present": "Kader Mondal Para, Joypurhat Sadar",
+        "address_permanent": "Kader Mondal Para, Joypurhat Sadar",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/875.png"
+    },
+    {
+        "id": "878",
+        "image": "https://www.rajshahijobs.com/images/users/878_1720808628.png",
+        "name": "Mst.Sakila khatun",
+        "address_present": "Kakonhat,Rajshahi",
+        "address_permanent": "Kakonhat,Rajshahi",
+        "last_education": "BA (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/878.png"
     }
 ]
