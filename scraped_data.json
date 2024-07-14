@@ -4939,6 +4939,17 @@
         "local_image_path": "images/847.png"
     },
     {
+        "id": "848",
+        "image": "https://www.rajshahijobs.com/images/users/848_1720879334.png",
+        "name": "Shakil Raihan",
+        "address_present": "Sonadigir mor Shaheb Bazare Rajshahi",
+        "address_permanent": "Chapainawabganj",
+        "last_education": "HSC (2022)",
+        "job_experiences": "3 Months",
+        "experience_details": "No experiences",
+        "local_image_path": "images/848.png"
+    },
+    {
         "id": "849",
         "image": "https://www.rajshahijobs.com/images/users/849_1720783814.png",
         "name": "Md Shihab Khan",
@@ -5212,5 +5223,60 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/891.png"
+    },
+    {
+        "id": "896",
+        "image": "https://www.rajshahijobs.com/images/users/896_1720878610.png",
+        "name": "SHAMSUZZUHA JOY",
+        "address_present": "VILL: SYEDPUR (BOURIKURI), POST: RAMBARI, THANA: NIAMATPUR.",
+        "address_permanent": "VILL: SYEDPUR (BOURIKURI), POST: RAMBARI, THANA: NIAMATPUR.",
+        "last_education": "HSC (2021)",
+        "job_experiences": "4 Years",
+        "experience_details": "\u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0\u09c7\u09b0 \u09a6\u09cb\u0995\u09be\u09a8\u09c7 \u099a\u09be\u09b0 \u09ac\u099b\u09b0 \u09af\u09be\u09ac\u09a4 \u099b\u09bf\u09b2\u09be\u09ae\u0964, \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0 \u09aa\u09a6\u09c7\u0964",
+        "local_image_path": "images/896.png"
+    },
+    {
+        "id": "902",
+        "image": "https://www.rajshahijobs.com/images/users/902_1720887838.png",
+        "name": "Akib Musfik",
+        "address_present": "Dargapara, Boalia, G.P.O-6000,  Rajshahi",
+        "address_permanent": "Dargapara, Boalia, G.P.O-6000,  Rajshahi",
+        "last_education": "Honors (2017)",
+        "job_experiences": "3 Years",
+        "experience_details": "August 2020 - April-2023\r\nAdd International Bangladesh- Field Facilitator\r\n\u25cf Orchestrated community engagement initiatives, facilitating dialogue and \r\ncollaboration between local stakeholders, NGOs, and governmental bodies.\r\n\u25cf Executed on-the-ground project management, ensuring effective implementation of \r\nNGO programs aimed at sustainable development and social welfare.\r\n\u25cf Provided hands-on support and training to community members, empowering them \r\nwith the skills and knowledge necessary for self-reliance and collective action.",
+        "local_image_path": "images/902.png"
+    },
+    {
+        "id": "904",
+        "image": "https://www.rajshahijobs.com/images/users/904_1720892866.png",
+        "name": "Golam Kibria",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "BBA (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "Teaching,\r\nMarkating,\r\nComputer course,\r\nCoaching centre work.",
+        "local_image_path": "images/904.png"
+    },
+    {
+        "id": "906",
+        "image": "https://www.rajshahijobs.com/images/users/906_1720902922.png",
+        "name": "Md Nahid Hasan",
+        "address_present": "Rajshahi,Ghosh Para, Medical college opposite",
+        "address_permanent": "Rajshahi,Ghosh Para, Medical college opposite",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/906.png"
+    },
+    {
+        "id": "907",
+        "image": "https://www.rajshahijobs.com/images/users/907_1720911818.png",
+        "name": "Taj Ahmed Hridoy",
+        "address_present": "terokhadia stadium east side road, Rajshahi Sadar",
+        "address_permanent": "terokhadia stadium east side road, Rajshahi Sadar",
+        "last_education": "CSE (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "currently no experience",
+        "local_image_path": "images/907.png"
     }
 ]
