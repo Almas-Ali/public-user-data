@@ -165,6 +165,17 @@
         "local_image_path": "images/22.png"
     },
     {
+        "id": "27",
+        "image": "https://www.rajshahijobs.com/images/users/28_1717134880.png",
+        "name": "Md Abdul Wahed",
+        "address_present": "Puthia",
+        "address_permanent": "Puthia",
+        "last_education": "CSE (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "Puthia Polytecnic institute (Assestent Teacher Computer)",
+        "local_image_path": "images/27.png"
+    },
+    {
         "id": "28",
         "image": "https://www.rajshahijobs.com/images/users/28_1717479283.png",
         "name": "Md Hassan Ali",
@@ -1428,6 +1439,17 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/220.png"
+    },
+    {
+        "id": "221",
+        "image": "https://www.rajshahijobs.com/images/users/221_1719386861.png",
+        "name": "Nusrat jahan afifa",
+        "address_present": "Rajshahi,  godagari,kakon hat",
+        "address_permanent": "Rajshahi, godagari, kakon hat",
+        "last_education": "BA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/221.png"
     },
     {
         "id": "222",
@@ -3199,6 +3221,17 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/502.png"
+    },
+    {
+        "id": "506",
+        "image": "https://www.rajshahijobs.com/images/users/506_1720949045.png",
+        "name": "Jyoti",
+        "address_present": "Katakhali Bazar,Rajshahi",
+        "address_permanent": "Katakhali Bazar,Rajshahi",
+        "last_education": "BSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/506.png"
     },
     {
         "id": "509",
@@ -5126,6 +5159,17 @@
         "local_image_path": "images/873.png"
     },
     {
+        "id": "874",
+        "image": "https://www.rajshahijobs.com/images/users/874_1720945635.png",
+        "name": "Md.Rasel mondol",
+        "address_present": "Mochmail,Bagmara,rajshahi",
+        "address_permanent": "Mochmail,Bagmara,rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/874.png"
+    },
+    {
         "id": "875",
         "image": "https://www.rajshahijobs.com/images/users/875_1720804351.png",
         "name": "MD MEHEDI HASAN",
@@ -5247,6 +5291,17 @@
         "local_image_path": "images/902.png"
     },
     {
+        "id": "903",
+        "image": "https://www.rajshahijobs.com/images/users/903_1720888757.png",
+        "name": "Md. Sharia Zaman Arman",
+        "address_present": "Tikapara, Bashar road, Rajshahi.",
+        "address_permanent": "Thanaikhara,Nagar, Baraigram, Natore.",
+        "last_education": "HSC (2023)",
+        "job_experiences": "3 Months",
+        "experience_details": "Works as a Bangla, History, Civics and Good governance instructor at Ashraf's Education Care, Mohammadpur, Dhaka -1207.",
+        "local_image_path": "images/903.png"
+    },
+    {
         "id": "904",
         "image": "https://www.rajshahijobs.com/images/users/904_1720892866.png",
         "name": "Golam Kibria",
@@ -5256,6 +5311,17 @@
         "job_experiences": "1 Year",
         "experience_details": "Teaching,\r\nMarkating,\r\nComputer course,\r\nCoaching centre work.",
         "local_image_path": "images/904.png"
+    },
+    {
+        "id": "905",
+        "image": "https://www.rajshahijobs.com/images/users/905_1720894109.png",
+        "name": "MD Maruf islam",
+        "address_present": "Prokash nagar",
+        "address_permanent": "Prokash nagar",
+        "last_education": "SSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/905.png"
     },
     {
         "id": "906",
@@ -5278,5 +5344,93 @@
         "job_experiences": "Fresher",
         "experience_details": "currently no experience",
         "local_image_path": "images/907.png"
+    },
+    {
+        "id": "908",
+        "image": "https://www.rajshahijobs.com/images/users/908_1720928317.png",
+        "name": "Haque",
+        "address_present": "shamukdum Rajshahi",
+        "address_permanent": "tanor Rajshahi",
+        "last_education": "HSC (2016)",
+        "job_experiences": "Fresher",
+        "experience_details": "Section : production koreana\r\nwork: SI operator packaging",
+        "local_image_path": "images/908.png"
+    },
+    {
+        "id": "909",
+        "image": "https://www.rajshahijobs.com/images/users/909_1720927927.png",
+        "name": "Md.Naimul Haque",
+        "address_present": "Malda kolony shamukdum Rajshahi",
+        "address_permanent": "Chanduriya tanor Rajshahi",
+        "last_education": "HSC (2016)",
+        "job_experiences": "2 Years",
+        "experience_details": "PRAN RFL group \r\nDesignation : operator \r\nWork: SI operator packaging",
+        "local_image_path": "images/909.png"
+    },
+    {
+        "id": "911",
+        "image": "https://www.rajshahijobs.com/images/users/911_1720929473.png",
+        "name": "Md. Khaled Hasan Bakul",
+        "address_present": "Nawabgang, Ghospara, Rajpara, Rajshahi.",
+        "address_permanent": "Nawabgang, Ghospara, Rajpara, Rajshahi.",
+        "last_education": "BSC (2022)",
+        "job_experiences": "5 Years",
+        "experience_details": "1. Medical Information Officer (General Team) (1.1 yrs)\r\n(20 Jul 2023 - Continuing)\r\n\r\nPopular Pharmaceuticals Ltd.\r\nArea of Expertise:\r\nSales & Marketing (0.6 yr)\r\n\r\nDuties/Responsibilities:\r\n1. Visit Doctors & generate prescription.\r\n2. Collect orders from chemist.\r\n\r\n2. Executive (2.9 yrs)\r\n(10 Jun 2020 - 11 Apr 2023)\r\n\r\nHannan Group Ltd\r\nArea of Expertise:\r\nMIS Reporting (2.8 yrs)\r\n\r\nDuties/Responsibilities:\r\nCreate daily & monthly efficiency reports, Make operation bulletin, Reduce wastage, Monitor hourly production, Improves supply chain, Make all ie reports etc\r\n\r\n3. Industrial Engineer (1.3 yrs)\r\n(5 Mar 2019 - 2 Jun 2020)\r\n\r\nEast West Industrial Park Ltd.\r\nArea of Expertise:\r\nProduct analysis (1.3 yrs)",
+        "local_image_path": "images/911.png"
+    },
+    {
+        "id": "913",
+        "image": "https://www.rajshahijobs.com/images/users/913_1720939057.png",
+        "name": "Md. Kabir Hossain",
+        "address_present": "Hatem khan, Rajshahi",
+        "address_permanent": "Hatem khan,Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/913.png"
+    },
+    {
+        "id": "915",
+        "image": "https://www.rajshahijobs.com/images/users/915_1720940425.png",
+        "name": "Shyam Ghosh",
+        "address_present": "Ghoramara, Ghoramara-6100, Boalia, Rajshahi, Bangladesh",
+        "address_permanent": "Ghoramara, Ghoramara-6100, Boalia, Rajshahi, Bangladesh",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/915.png"
+    },
+    {
+        "id": "918",
+        "image": "https://www.rajshahijobs.com/images/users/918_1720951604.png",
+        "name": "Nahid Ahmed",
+        "address_present": "Mirpur 2, Dhaka,Bangladesh",
+        "address_permanent": "Railgate, Rajshahi",
+        "last_education": "HSC (2024)",
+        "job_experiences": "2 Years",
+        "experience_details": "Salase man from Dhaka prience bazer and marketing from bindulogic company ltd.",
+        "local_image_path": "images/918.png"
+    },
+    {
+        "id": "919",
+        "image": "https://www.rajshahijobs.com/images/users/919_1720953756.png",
+        "name": "ZUBAYER ALL EMON",
+        "address_present": "Rajshahi",
+        "address_permanent": "Billi , Tanor",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/919.png"
+    },
+    {
+        "id": "920",
+        "image": "https://www.rajshahijobs.com/images/users/920_1720953034.png",
+        "name": "Ashikur Rahman",
+        "address_present": "Jaldhaka,Nilphamari",
+        "address_permanent": "Jaldhaka,Nilphamari",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/920.png"
     }
 ]
