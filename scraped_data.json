@@ -3982,6 +3982,17 @@
         "local_image_path": "images/647.png"
     },
     {
+        "id": "648",
+        "image": "https://www.rajshahijobs.com/images/users/648_1721021252.png",
+        "name": "MD sabirul Islam",
+        "address_present": "Rajshahi  darusha Dhormohata",
+        "address_permanent": "Rajshahi  darusha Dhormohata",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/648.png"
+    },
+    {
         "id": "651",
         "image": "https://www.rajshahijobs.com/images/users/651_1720365670.png",
         "name": "shovon ali",
@@ -5465,5 +5476,49 @@
         "job_experiences": "Fresher",
         "experience_details": "I am an SEO and Digital Marketing Expert. If you run a local business or have a website for another purpose and are having trouble with keyword research, competitive analysis, on-page SEO, technical SEO, speed optimization, and off-page optimization. Simply send me a message for Complete discussion.I will assist you to rank your company and website to bring in customers and money from your intended market areas...",
         "local_image_path": "images/923.png"
+    },
+    {
+        "id": "926",
+        "image": "https://www.rajshahijobs.com/images/users/926_1721021713.png",
+        "name": "Lothibur",
+        "address_present": "Karnohar paba rajshahi",
+        "address_permanent": "Jinnahnogor supra rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/926.png"
+    },
+    {
+        "id": "929",
+        "image": "https://www.rajshahijobs.com/images/users/929_1721033825.png",
+        "name": "Mst Nupur Khatun",
+        "address_present": "Vill: Gondogohali.Post:Poreshnagor UP:Atrai:Dist:Naogaon.",
+        "address_permanent": "Vill:Gondogohali. Post:Poreshnagor UP:Atrai.Dist:Naogaon",
+        "last_education": "HSC (19)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/929.png"
+    },
+    {
+        "id": "930",
+        "image": "https://www.rajshahijobs.com/images/users/930_1721034521.png",
+        "name": "Rabeya Karim",
+        "address_present": "\u09b2\u0995\u09cd\u09b7\u09c0\u09aa\u09c1\u09b0,\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u0995\u09be\u09b6\u09bf\u09aa\u09c1\u09b0,\u09ac\u09b0\u09bf\u09b6\u09be\u09b2",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/930.png"
+    },
+    {
+        "id": "933",
+        "image": "https://www.rajshahijobs.com/images/users/933_1721043623.png",
+        "name": "Sadikin",
+        "address_present": "Monicottor mor Rajshahi",
+        "address_permanent": "Chatmohar pabna",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/933.png"
     }
 ]
