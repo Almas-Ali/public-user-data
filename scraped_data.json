@@ -5432,5 +5432,38 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/920.png"
+    },
+    {
+        "id": "921",
+        "image": "https://www.rajshahijobs.com/images/users/921_1720971153.png",
+        "name": "Abdur Razzak",
+        "address_present": "Nachol, Chapai Nawabganj",
+        "address_permanent": "Nachol, Chapai Nawabganj",
+        "last_education": "Alim (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/921.png"
+    },
+    {
+        "id": "922",
+        "image": "https://www.rajshahijobs.com/images/users/922_1720975442.png",
+        "name": "Shefa Reza",
+        "address_present": "Rajshahi",
+        "address_permanent": "Mohadevpur",
+        "last_education": "MA (20)",
+        "job_experiences": "3 Months",
+        "experience_details": "Onkur kintar Garden mohadevpur",
+        "local_image_path": "images/922.png"
+    },
+    {
+        "id": "923",
+        "image": "https://www.rajshahijobs.com/images/users/923_1720977129.png",
+        "name": "Motassin Billah",
+        "address_present": "Rajshahi",
+        "address_permanent": "Naogaon",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "I am an SEO and Digital Marketing Expert. If you run a local business or have a website for another purpose and are having trouble with keyword research, competitive analysis, on-page SEO, technical SEO, speed optimization, and off-page optimization. Simply send me a message for Complete discussion.I will assist you to rank your company and website to bring in customers and money from your intended market areas...",
+        "local_image_path": "images/923.png"
     }
 ]
