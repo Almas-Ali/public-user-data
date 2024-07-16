@@ -5542,5 +5542,71 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/933.png"
+    },
+    {
+        "id": "938",
+        "image": "https://www.rajshahijobs.com/images/users/938_1721118359.png",
+        "name": "Md Sojib Hossain",
+        "address_present": "Kapashiya,katakhali,Rajshahi",
+        "address_permanent": "Kapashiya,katakhali,Rajshahi",
+        "last_education": "Diploma (Eng) (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/938.png"
+    },
+    {
+        "id": "939",
+        "image": "https://www.rajshahijobs.com/images/users/939_1721118395.png",
+        "name": "Atik shahriar badhon",
+        "address_present": "Shibganj chapainawabganj rajsahi",
+        "address_permanent": "Shibganj chapainawabganj rajsahi",
+        "last_education": "SSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No Experiences",
+        "local_image_path": "images/939.png"
+    },
+    {
+        "id": "940",
+        "image": "https://www.rajshahijobs.com/images/users/940_1721119122.png",
+        "name": "Farah Tabassum",
+        "address_present": "Sadhur mor, boalia, Rajshahi",
+        "address_permanent": "Farakpur,Bheramara,Kushtia",
+        "last_education": "LLB (2023)",
+        "job_experiences": "3 Months",
+        "experience_details": "Tutor at Digonto coaching center,pabna.",
+        "local_image_path": "images/940.png"
+    },
+    {
+        "id": "941",
+        "image": "https://www.rajshahijobs.com/images/users/941_1721119270.png",
+        "name": "Michael Tudu",
+        "address_present": "Mohishbathan,Rajpara",
+        "address_permanent": "Mohishbathan,Rajpara",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/941.png"
+    },
+    {
+        "id": "942",
+        "image": "https://www.rajshahijobs.com/images/users/942_1721122978.png",
+        "name": "Md. Foisal Sarder",
+        "address_present": "Rajshahi sadar,Tikapara",
+        "address_permanent": "Raninagar,Noagaon",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences.....",
+        "local_image_path": "images/942.png"
+    },
+    {
+        "id": "944",
+        "image": "https://www.rajshahijobs.com/images/users/944_1721124598.png",
+        "name": "Bangladesh",
+        "address_present": "Bonpara,Natore",
+        "address_permanent": "Bonpara, Natore",
+        "last_education": "HSC (2020)",
+        "job_experiences": "1 Year",
+        "experience_details": "Bata shoes- 7 month &\r\nAmana Big bazar -3 month",
+        "local_image_path": "images/944.png"
     }
 ]
