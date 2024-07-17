@@ -4139,7 +4139,7 @@
         "id": "671",
         "image": "https://www.rajshahijobs.com/images/users/671_1720425785.png",
         "name": "MD.SARWAR KABIR SIMUL",
-        "address_present": "Chapainawabganj,Shibganj,kansat,mobarakpur",
+        "address_present": "Rajshahi",
         "address_permanent": "Rajshahi,raninogor",
         "last_education": "HSC (2017)",
         "job_experiences": "Fresher",
@@ -5597,16 +5597,5 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences.....",
         "local_image_path": "images/942.png"
-    },
-    {
-        "id": "944",
-        "image": "https://www.rajshahijobs.com/images/users/944_1721124598.png",
-        "name": "Bangladesh",
-        "address_present": "Bonpara,Natore",
-        "address_permanent": "Bonpara, Natore",
-        "last_education": "HSC (2020)",
-        "job_experiences": "1 Year",
-        "experience_details": "Bata shoes- 7 month &\r\nAmana Big bazar -3 month",
-        "local_image_path": "images/944.png"
     }
 ]
