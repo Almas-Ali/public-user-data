@@ -5597,5 +5597,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences.....",
         "local_image_path": "images/942.png"
+    },
+    {
+        "id": "950",
+        "image": "https://www.rajshahijobs.com/images/users/950_1721194040.png",
+        "name": "Puja ghosh",
+        "address_present": "Ghoramara, Rajshahi",
+        "address_permanent": "Ghoramara, Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/950.png"
     }
 ]
