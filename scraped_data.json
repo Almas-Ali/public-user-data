@@ -5619,5 +5619,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/950.png"
+    },
+    {
+        "id": "958",
+        "image": "https://www.rajshahijobs.com/images/users/958_1722023509.png",
+        "name": "Tahmid Hossain",
+        "address_present": "232/7, Chotobongram Uttor Professor Para,  P.O: Sopura, P.S: Chandrima, Dist: Rajshahi",
+        "address_permanent": "Vill: Sultanpur Purbopara, P.O: Naogaon-6500,   P.S: Naogaon, Dist: Naogaon",
+        "last_education": "HSC (2016)",
+        "job_experiences": "Fresher",
+        "experience_details": "Position : Enumerator \r\nName of Survey : Study on Gender disparity in dropout and out of school \r\n Children of PEDP-3 in Bangladesh \r\nFunded By : Asian Development Bank (ADB) \r\nOrganization : Associates Development Services Ltd., Dhaka (ADSL) \r\n\uf0b7 Position : Evaluator \r\nName of Job : National Assessment of Secondary Students-2019 \r\n (NASS-19), 1st Phase \r\nFunded By : World Bank (WB) \r\nOrganization : Associates Development Services Ltd., Dhaka (ADSL)",
+        "local_image_path": "images/958.png"
     }
 ]
