@@ -5696,5 +5696,38 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/965.png"
+    },
+    {
+        "id": "967",
+        "image": "https://www.rajshahijobs.com/images/users/967_1722235565.png",
+        "name": "Nur Amin Islam Sojib",
+        "address_present": "Ramchandrapur Baje Kazla,Rajshahi",
+        "address_permanent": "Ramchandrapur Baje Kazla,Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "Office Assistent Typiest & PBX Management Couse (NESCO),(Dropshipping expert, Amazon FBA-FBM, Walmart Store, Experience 3 years) (Sales Executive,Us Bangla Footwear LTD, Rajshahi Branch.)",
+        "local_image_path": "images/967.png"
+    },
+    {
+        "id": "968",
+        "image": "https://www.rajshahijobs.com/images/users/968_1722243925.png",
+        "name": "Masuma Khatun",
+        "address_present": "Court Station, Rajshahi",
+        "address_permanent": "Bohora, Tanore, Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "6 Months",
+        "experience_details": "Ashik Physics \r\n6 months part-time working experience as a manager.",
+        "local_image_path": "images/968.png"
+    },
+    {
+        "id": "969",
+        "image": "https://www.rajshahijobs.com/images/users/969_1722252115.png",
+        "name": "Md. Shamiul Shaikh Tusher",
+        "address_present": "Vill : Mothurdanga, P.O : Sopura-6203, P.S: Boalia, Dist: Rajshahi",
+        "address_permanent": "Shaheb Bazar, Ghoramara, Boalia, Rajshahi",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/969.png"
     }
 ]
