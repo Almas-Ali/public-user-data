@@ -5643,6 +5643,17 @@
         "local_image_path": "images/950.png"
     },
     {
+        "id": "956",
+        "image": "https://www.rajshahijobs.com/images/users/956_1722171913.png",
+        "name": "Md Tamim Islam",
+        "address_present": "Airport, jujkay, Rajshahi",
+        "address_permanent": "Airport,jujkay, Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "3 Years",
+        "experience_details": "Junior s.r at Acme Laboratory (8 mounth)\r\nFood dilavary company manager (runing)",
+        "local_image_path": "images/956.png"
+    },
+    {
         "id": "958",
         "image": "https://www.rajshahijobs.com/images/users/958_1722023509.png",
         "name": "Tahmid Hossain",
@@ -5674,5 +5685,16 @@
         "job_experiences": "5 Years",
         "experience_details": "\u0986\u09ae\u09bf \u0987\u0989\u09b0\u09cb\u09aa\u09c0\u09df \u098f\u0995\u099f\u09be \u0995\u09ae\u09aa\u09be\u09a8\u09bf\u09b0 \u09b8\u09be\u09a5\u09c7 \u09ea \u09ac\u099b\u09b0 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf\u0964  \r\nCompany: www.ServBetter.com\r\nPosition: Marketing Manager \r\nAs a social media marketing manager I join with ServBetter and then day to day, I buildup my position on this platfrom. \r\nMy did for them. \r\nSEO\r\nSocial media marketing \r\nPost design \r\nArticles writing \r\nEmail marketing \r\nWebsite Testing",
         "local_image_path": "images/964.png"
+    },
+    {
+        "id": "965",
+        "image": "https://www.rajshahijobs.com/images/users/965_1722183979.png",
+        "name": "MD MAHINUR ISLAM",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/965.png"
     }
 ]
