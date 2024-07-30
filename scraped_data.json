@@ -5729,5 +5729,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/969.png"
+    },
+    {
+        "id": "971",
+        "image": "https://www.rajshahijobs.com/images/users/971_1722260140.png",
+        "name": "anamul hoque",
+        "address_present": "Hatem-kha, Rajshahi",
+        "address_permanent": "Sonadanga, Baghmara, Rajshahi",
+        "last_education": "HSC (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/971.png"
     }
 ]
