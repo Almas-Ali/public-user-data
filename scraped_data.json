@@ -5751,5 +5751,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/971.png"
+    },
+    {
+        "id": "980",
+        "image": "https://www.rajshahijobs.com/images/users/980_1722699491.png",
+        "name": "Sabbir Ahmed",
+        "address_present": "H # 38 , CHOTOBONGRAM , SOPURA ,  RAJSHAHI-6203",
+        "address_permanent": "H # 38 , CHOTOBONGRAM , SOPURA ,  RAJSHAHI-6203",
+        "last_education": "HSC Vocational (2018)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/980.png"
     }
 ]
