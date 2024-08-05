@@ -5762,5 +5762,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/980.png"
+    },
+    {
+        "id": "982",
+        "image": "https://www.rajshahijobs.com/images/users/982_1722823050.png",
+        "name": "Md.Sohel Rana",
+        "address_present": "Alipur,Pramtoli, Godagari, Rajshahi",
+        "address_permanent": "Alipur,Pramtoli, Godagari, Rajshahi",
+        "last_education": "HSC (2016)",
+        "job_experiences": "1 Year",
+        "experience_details": "\u0989\u09aa\u099c\u09c7\u09b2\u09be \u0995\u09b0\u09cd\u09ae\u0995\u09b0\u09cd\u09a4\u09be \u099c\u09be\u0997\u09cb \u0989\u09a6\u09cd\u09af\u09cb\u0997\u09a4\u09be \u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1\r\nAB Laboratories (AYU) \r\nMedical Representative Officer \r\nGodagari, Rajshahi",
+        "local_image_path": "images/982.png"
     }
 ]
