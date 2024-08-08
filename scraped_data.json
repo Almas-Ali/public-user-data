@@ -4293,8 +4293,8 @@
         "id": "703",
         "image": "https://www.rajshahijobs.com/images/users/703_1721897692.png",
         "name": "Monjur Rahman",
-        "address_present": "Kayra, Paba - 6211, Rajshahi",
-        "address_permanent": "Kayra, Paba - 6211, Rajshahi",
+        "address_present": "Paba, Rajshahi - 6211",
+        "address_permanent": "Paba, Rajshahi - 6211",
         "last_education": "CSE (2022)",
         "job_experiences": "2 Years",
         "experience_details": "I have almost 2 years of experience in SATT IT. I had performed in this IT as a Data Entry Operator.",
@@ -5795,5 +5795,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/984.png"
+    },
+    {
+        "id": "987",
+        "image": "https://www.rajshahijobs.com/images/users/987_1723101667.png",
+        "name": "Mehedee Hasan Emon",
+        "address_present": "Vill: Meramotpur Thana: Charghat Dis: Rajshahi",
+        "address_permanent": "Vill: Meramotpur Thana: Charghat Dis: Rajshahi",
+        "last_education": "HSC (2017)",
+        "job_experiences": "7 Years",
+        "experience_details": "Electric And Mechanical Engineering",
+        "local_image_path": "images/987.png"
     }
 ]
