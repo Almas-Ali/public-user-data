@@ -5806,5 +5806,38 @@
         "job_experiences": "7 Years",
         "experience_details": "Electric And Mechanical Engineering",
         "local_image_path": "images/987.png"
+    },
+    {
+        "id": "991",
+        "image": "https://www.rajshahijobs.com/images/users/991_1723120298.png",
+        "name": "kalton",
+        "address_present": "Hatemkhan Choto Mosjid, GPO-6000, Boalia, Rajshahi",
+        "address_permanent": "Hatemkhan Choto Mosjid, GPO-6000, Boalia, Rajshahi",
+        "last_education": "SSC Vocational (2007)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/991.png"
+    },
+    {
+        "id": "992",
+        "image": "https://www.rajshahijobs.com/images/users/992_1723126822.png",
+        "name": "Md Mainul Islam",
+        "address_present": "Chotobongram, chandrima, sopura",
+        "address_permanent": "Chotobongram, chandrima, sopura",
+        "last_education": "HSC (2016)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/992.png"
+    },
+    {
+        "id": "993",
+        "image": "https://www.rajshahijobs.com/images/users/993_1723127602.png",
+        "name": "Taskina Sultana Aivy",
+        "address_present": "Rajshahi court Food office,  Rajpara, Rajshahi",
+        "address_permanent": "Rajshahi court Food office,  Rajpara, Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/993.png"
     }
 ]
