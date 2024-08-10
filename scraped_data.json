@@ -5753,6 +5753,17 @@
         "local_image_path": "images/971.png"
     },
     {
+        "id": "975",
+        "image": "https://www.rajshahijobs.com/images/users/975_1722502220.png",
+        "name": "Md. Rakib Hasan",
+        "address_present": "Saheb Bazar, Rajshahi",
+        "address_permanent": "Naogaon Sadar, Naogaon",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/975.png"
+    },
+    {
         "id": "980",
         "image": "https://www.rajshahijobs.com/images/users/980_1722699491.png",
         "name": "Sabbir Ahmed",
@@ -5850,5 +5861,16 @@
         "job_experiences": "5 Years",
         "experience_details": "Sales executive in Banglalink",
         "local_image_path": "images/995.png"
+    },
+    {
+        "id": "997",
+        "image": "https://www.rajshahijobs.com/images/users/997_1723276882.png",
+        "name": "MD TANVIR RAHMAN",
+        "address_present": "Chotobongram Poschimpara, Rajshahi",
+        "address_permanent": "Chotobongram Poschimpara, Rajshahi",
+        "last_education": "BBA (2021)",
+        "job_experiences": "1 Year",
+        "experience_details": "Officer at Panna Group\r\n\r\nDuties/Responsibilities: Maintain the sales database regularly. Keep track of sales activities through tracking system. Receive and review orders and through it in central depot & others depot. Process sales order in a timely & accurate manner. Assist sales team with inquiries, order status updates & product information. Generate regular sales reports & dashboards for the management team. Analyze sales data and identify trends, patterns & potential opportunities. Collaborate with the sales team together insights & data for sales forecasting. Maintain clear & open communication channels with the sales team, management & other departments. Any other task as assigned by the management.",
+        "local_image_path": "images/997.png"
     }
 ]
