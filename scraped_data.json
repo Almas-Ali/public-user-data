@@ -5839,5 +5839,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/993.png"
+    },
+    {
+        "id": "995",
+        "image": "https://www.rajshahijobs.com/images/users/995_1723236129.png",
+        "name": "MD Sirazum Monir",
+        "address_present": "Hetemkha Boro mosjid, sayed tower, boalia",
+        "address_permanent": "Hetemkha Boro mosjid, sayed tower, boalia",
+        "last_education": "BBA (2018)",
+        "job_experiences": "5 Years",
+        "experience_details": "Sales executive in Banglalink",
+        "local_image_path": "images/995.png"
     }
 ]
