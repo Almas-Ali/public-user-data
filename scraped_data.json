@@ -5577,6 +5577,17 @@
         "local_image_path": "images/936.png"
     },
     {
+        "id": "937",
+        "image": "https://www.rajshahijobs.com/images/users/937_1721117981.png",
+        "name": "Md. Shimoom islam Prio",
+        "address_present": "Monafer more",
+        "address_permanent": "Monafer more",
+        "last_education": "MBA (2021)",
+        "job_experiences": "3 Years",
+        "experience_details": "Presently working at \u201cBlue Hills IT\u201d in Rajshahi. It is a renowned IT institution in Rajshahi. I work here as a Data Entry Executive. Here I responsible for accurately and efficiently entering data into computer systems, verifying and maintaining records, and performing data analysis as needed.\r\nPrior experience in \u201cShanki Bangla\u201d as store manager where I learned to make informed decisions about inventory levels, product ordering and pricing.",
+        "local_image_path": "images/937.png"
+    },
+    {
         "id": "938",
         "image": "https://www.rajshahijobs.com/images/users/938_1721118359.png",
         "name": "Md Sojib Hossain",
@@ -5927,5 +5938,27 @@
         "job_experiences": "6 Years",
         "experience_details": "I-tech systems, 88,Rajshahi Newmarket. IT hardware technician, Computer system installation and related service.",
         "local_image_path": "images/1005.png"
+    },
+    {
+        "id": "1009",
+        "image": "https://www.rajshahijobs.com/images/users/1009_1723451459.png",
+        "name": "Md. Mostofa Jaman Siddiqi",
+        "address_present": "H#23, Horogram, RajshahinCourt, Rajpara, Rajshahi.",
+        "address_permanent": "Bidirpur, Pirijpur, Godagari, Rajshahi.",
+        "last_education": "MBA (2011)",
+        "job_experiences": "10 Years+",
+        "experience_details": "1.\tWorked as a Junior officer (Distribution) at The ACME Laboratories Ltd. from 03/02/2011 to 17/05/2017. \r\n\r\nJob Responsibilities:\r\n   \r\n*Monitor and ensure proper data management (Billing packing note and summary) for timely delivery of the sales order to the store section for commencing next step.\r\n*Ensure preparation and timely delivery various reports (sales, return and stock) to the    \r\n   respective area to facilitate proper inventory management of the medicine.\r\n\r\n2.\tWorked as a ADC Manager at Dutch Bangla Bank Ltd. from 20/05/2017 to 08/12/2020.\r\n\r\nJob Responsibilities:\r\n\r\n* To develop customer service plan for the respective area consistent with overall banks   \r\n   policy.\r\n* To ensure uptime of ATMs and deposit machines and also ensure timely, smooth and \r\n   secure cash collection from deposit machine.\r\n*To ensure highest quality in service delivery to the customer.",
+        "local_image_path": "images/1009.png"
+    },
+    {
+        "id": "1010",
+        "image": "https://www.rajshahijobs.com/images/users/1010_1723462590.png",
+        "name": "ANUP SARKAR",
+        "address_present": "433/Ahmed Palace,gGhoramara, Boalia,Rajshahi",
+        "address_permanent": "Sobujnagar,joypurhat,joypurhat",
+        "last_education": "Diploma (Eng) (2015)",
+        "job_experiences": "5 Years",
+        "experience_details": "Arifs Bangladesh ltd.\r\nMarketing Development Officer \r\nMarkating",
+        "local_image_path": "images/1010.png"
     }
 ]
