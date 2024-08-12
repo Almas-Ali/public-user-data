@@ -5753,6 +5753,17 @@
         "local_image_path": "images/971.png"
     },
     {
+        "id": "972",
+        "image": "https://www.rajshahijobs.com/images/users/972_1723393088.png",
+        "name": "S. A. FAISHAL",
+        "address_present": "Village: Kaluhati, Post office: Rustompur-6280, Upazila: Charghat, District: Rajshahi",
+        "address_permanent": "Village: Kaluhati, Post office: Rustompur-6280, Upazila: Charghat, District: Rajshahi",
+        "last_education": "MBA (2018)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/972.png"
+    },
+    {
         "id": "975",
         "image": "https://www.rajshahijobs.com/images/users/975_1722502220.png",
         "name": "Md. Rakib Hasan",
@@ -5894,5 +5905,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/999.png"
+    },
+    {
+        "id": "1004",
+        "image": "https://www.rajshahijobs.com/images/users/1004_1723382438.png",
+        "name": "Md Riadur Rahman",
+        "address_present": "Godagari, Rajshahi",
+        "address_permanent": "Godagari,Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1004.png"
+    },
+    {
+        "id": "1005",
+        "image": "https://www.rajshahijobs.com/images/users/1005_1723383507.png",
+        "name": "Md. Tanzil Islam",
+        "address_present": "Shaikh para, new bus stand, sopura,shamokhdum, Rajshahi",
+        "address_permanent": "Shaikh para, new bus stand, sopura,shamokhdum, Rajshahi",
+        "last_education": "BSC (2020)",
+        "job_experiences": "6 Years",
+        "experience_details": "I-tech systems, 88,Rajshahi Newmarket. IT hardware technician, Computer system installation and related service.",
+        "local_image_path": "images/1005.png"
     }
 ]
