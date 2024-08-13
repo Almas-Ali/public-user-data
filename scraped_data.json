@@ -5971,5 +5971,38 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1013.png"
+    },
+    {
+        "id": "1015",
+        "image": "https://www.rajshahijobs.com/images/users/1015_1723532595.png",
+        "name": "Sazu Hossain",
+        "address_present": "Naogaon Sadar Rajshahi",
+        "address_permanent": "Naogaon Sadar Rajshahi",
+        "last_education": "BBA (2029)",
+        "job_experiences": "3 Months",
+        "experience_details": "Field Officer\r\nSujodoy Multi purpose Co-operative Society Limited- Naogaon Sadar",
+        "local_image_path": "images/1015.png"
+    },
+    {
+        "id": "1017",
+        "image": "https://www.rajshahijobs.com/images/users/1017_1723536224.png",
+        "name": "Sajjad Mahmud Somrat",
+        "address_present": "Jhikra, Charghat, Rajshahi",
+        "address_permanent": "Jhikra, Charghat, Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1017.png"
+    },
+    {
+        "id": "1021",
+        "image": "https://www.rajshahijobs.com/images/users/1021_1723543408.png",
+        "name": "Md. Abu Raihan",
+        "address_present": "Ranihati, Shibganj, Chapainawabganj",
+        "address_permanent": "Ranihati, Shibganj, Chapainawabganj",
+        "last_education": "HSC (2023)",
+        "job_experiences": "3 Months",
+        "experience_details": "Green Hexa restaurant, waiter, 3 months",
+        "local_image_path": "images/1021.png"
     }
 ]
