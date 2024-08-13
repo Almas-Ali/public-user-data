@@ -5933,7 +5933,7 @@
         "image": "https://www.rajshahijobs.com/images/users/1005_1723383507.png",
         "name": "Md. Tanzil Islam",
         "address_present": "Shaikh para, new bus stand, sopura,shamokhdum, Rajshahi",
-        "address_permanent": "Shaikh para, new bus stand, sopura,shamokhdum, Rajshahi",
+        "address_permanent": "03, Karttikkul, KUET, Daulatpur, Khulna 9203.",
         "last_education": "BSC (2020)",
         "job_experiences": "6 Years",
         "experience_details": "I-tech systems, 88,Rajshahi Newmarket. IT hardware technician, Computer system installation and related service.",
@@ -5960,5 +5960,16 @@
         "job_experiences": "5 Years",
         "experience_details": "Arifs Bangladesh ltd.\r\nMarketing Development Officer \r\nMarkating",
         "local_image_path": "images/1010.png"
+    },
+    {
+        "id": "1013",
+        "image": "https://www.rajshahijobs.com/images/users/1013_1723490523.png",
+        "name": "MD Nishat Ahmed ..",
+        "address_present": "Rajshahi",
+        "address_permanent": "Natore",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1013.png"
     }
 ]
