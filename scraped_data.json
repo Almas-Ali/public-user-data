@@ -6004,5 +6004,49 @@
         "job_experiences": "3 Months",
         "experience_details": "Green Hexa restaurant, waiter, 3 months",
         "local_image_path": "images/1021.png"
+    },
+    {
+        "id": "1022",
+        "image": "https://www.rajshahijobs.com/images/users/1022_1723557744.png",
+        "name": "RUBAYA YESMEN TAJRY",
+        "address_present": "Belghoria, Katakhali, Rajshahi",
+        "address_permanent": "Belghoria, Katakhali, Rajshahi",
+        "last_education": "MSS (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1022.png"
+    },
+    {
+        "id": "1023",
+        "image": "https://www.rajshahijobs.com/images/users/1023_1723563926.png",
+        "name": "MD SALAUDDIN SAKIB",
+        "address_present": "Shamogdum, Rajshahi",
+        "address_permanent": "Durgapur, Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "1 Year",
+        "experience_details": "\u0995\u09cb\u099a\u09bf\u0982 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0: \u0997\u09a3\u09bf\u09a4 \u09b8\u099e\u09cd\u099a\u09df \r\nComputer operator",
+        "local_image_path": "images/1023.png"
+    },
+    {
+        "id": "1024",
+        "image": "https://www.rajshahijobs.com/images/users/1024_1723568132.png",
+        "name": "Rana Sorkar",
+        "address_present": "Fulbari, Dinajpur",
+        "address_permanent": "Fulbari, Dinajpur",
+        "last_education": "SSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1024.png"
+    },
+    {
+        "id": "1025",
+        "image": "https://www.rajshahijobs.com/images/users/1025_1723572911.png",
+        "name": "Nafiul Nihal",
+        "address_present": "Katakhali, Katakhali,Rajshahi",
+        "address_permanent": "Katakhali, Katakhali,Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "3 Years",
+        "experience_details": "Office Assistant, At Katakhali Municipality.",
+        "local_image_path": "images/1025.png"
     }
 ]
