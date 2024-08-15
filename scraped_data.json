@@ -135,8 +135,8 @@
         "id": "20",
         "image": "https://www.rajshahijobs.com/images/users/26_1717055856.png",
         "name": "Md. Shamsuddin",
-        "address_present": "Rajshahi",
-        "address_permanent": "Natore",
+        "address_present": "Pathan para, Boalia Rajshahi",
+        "address_permanent": "Bagatipara, Natore",
         "last_education": "MA (2014)",
         "job_experiences": "8 Years",
         "experience_details": "\u09e7\u0964 \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u0986\u0987\u099f\u09bf \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0 \u098f \u09e8 \u09ac\u099b\u09b0 \r\n\u09e8\u0964 \u09ac\u09bf\u09a6\u09cd\u09af\u09c1\u09ce \u0989\u09a8\u09cd\u09a8\u09df\u09a8 \u09ac\u09cb\u09b0\u09cd\u09a1 \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09a4\u09c7 \u09ea \u09ac\u099b\u09b0 \r\n\u09e9\u0964 \u09ae\u09cb\u099f\u09b0\u09b8\u09be\u0987\u0995\u09c7\u09b2 \u09ad\u09cd\u09af\u09be\u09b2\u09c0 \u09a4\u09c7 \u09e7 \u09ac\u099b\u09b0 \r\n\u09ea\u0964 \u09b0\u09be\u099c\u09a1\u0995 \u098f \u09e7 \u09ac\u099b\u09b0 \u098f\u09b0 \u09ac\u09c7\u09b6\u09bf \u09b8\u09ae\u09df \u09a7\u09b0\u09c7 \u0995\u09be\u099c \u0995\u09b0\u099b\u09bf \u098f\u09ac\u0982 \u099a\u09b2\u09ae\u09be\u09a8 \u0986\u099b\u09c7",
@@ -5841,6 +5841,17 @@
         "local_image_path": "images/987.png"
     },
     {
+        "id": "988",
+        "image": "https://www.rajshahijobs.com/images/users/988_1723702557.png",
+        "name": "Abdullah Al Mamun",
+        "address_present": "599, Naharladge, Laxmipur, Rajshahi",
+        "address_permanent": "599, Naharladge, Laxmipur, Rajshahi",
+        "last_education": "MSC (2010)",
+        "job_experiences": "10 Years",
+        "experience_details": "Senior Engineering Manager ( DevSecOps )\r\nBusiness Transformation Consultant \r\nData Scientist ( Numeric and GIS)",
+        "local_image_path": "images/988.png"
+    },
+    {
         "id": "991",
         "image": "https://www.rajshahijobs.com/images/users/991_1723120298.png",
         "name": "kalton",
@@ -6268,5 +6279,49 @@
         "job_experiences": "7 Years",
         "experience_details": "Good Experiance, Jiban Bima Corporation, Development Officer, Office And Field Work, 07 Years",
         "local_image_path": "images/1061.png"
+    },
+    {
+        "id": "1062",
+        "image": "https://www.rajshahijobs.com/images/users/1062_1723692212.png",
+        "name": "Jannatun Fardous",
+        "address_present": "Hetamkha, Rajshahi sodor",
+        "address_permanent": "Jamnagar, Bagatipara",
+        "last_education": "MSS (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1062.png"
+    },
+    {
+        "id": "1063",
+        "image": "https://www.rajshahijobs.com/images/users/1063_1723692355.png",
+        "name": "Ashik Mahmud",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1063.png"
+    },
+    {
+        "id": "1064",
+        "image": "https://www.rajshahijobs.com/images/users/1064_1723708043.png",
+        "name": "Md Sabbir Hossain",
+        "address_present": "Chowbaria, Noahata, PABA, Rajshahi",
+        "address_permanent": "Chowbaria, Noahata, PABA, Rajshahi",
+        "last_education": "Diploma (Eng) (2018)",
+        "job_experiences": "Fresher",
+        "experience_details": "Concord Ambassador, Manager, management, 3 years",
+        "local_image_path": "images/1064.png"
+    },
+    {
+        "id": "1065",
+        "image": "https://www.rajshahijobs.com/images/users/1065_1723711383.png",
+        "name": "Md Sagor Islam",
+        "address_present": "Talaimari, Motihar,Rajshahi",
+        "address_permanent": "Uttarchadkhana Mollapara, Keshoreganj, Nilphamari",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1065.png"
     }
 ]
