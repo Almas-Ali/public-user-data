@@ -6105,6 +6105,17 @@
         "local_image_path": "images/1034.png"
     },
     {
+        "id": "1035",
+        "image": "https://www.rajshahijobs.com/images/users/1035_1723629401.png",
+        "name": "Mhr Masud Hasan",
+        "address_present": "Luxmipur,Rajpara,Rajshahi",
+        "address_permanent": "Luxmipur,Rajpara,Rajshahi",
+        "last_education": "Diploma (Eng) (2016)",
+        "job_experiences": "3 Years",
+        "experience_details": "Macca Sanitary,  Bill kora,  Costumer Convence, Account Thik Rakha",
+        "local_image_path": "images/1035.png"
+    },
+    {
         "id": "1036",
         "image": "https://www.rajshahijobs.com/images/users/1036_1723626725.png",
         "name": "MD Khairul Hasan reday",
@@ -6183,8 +6194,8 @@
     },
     {
         "id": "1046",
-        "image": "https://www.rajshahijobs.com/images/users/1046_1723633135.png",
-        "name": "Sabbir Hossain",
+        "image": "https://www.rajshahijobs.com/images/users/1046_1723663162.png",
+        "name": "Shabbir Ahammed",
         "address_present": "Badalgachi, Naogaon",
         "address_permanent": "Badalgachi, Naogaon",
         "last_education": "BA (2023)",
@@ -6213,5 +6224,49 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1052.png"
+    },
+    {
+        "id": "1054",
+        "image": "https://www.rajshahijobs.com/images/users/1054_1723640135.png",
+        "name": "MD Sohag Ali",
+        "address_present": "\u0997\u09cd\u09f0\u09be\u09ae- \u0995\u09be\u09b2\u09c1\u09ae\u09c7\u09a1\u09bc , \u09a1\u09be\u0995\u0998\u09b0 - \u0996\u09a1\u09bc\u0996\u09a1\u09bc\u09c0 \u09ec\u09e8\u09e6\u09ea,\u09a5\u09be\u09a8\u09be - \u099a\u09a8\u09cd\u09a6\u09cd\u09b0\u09bf\u09ae\u09be, \u0989\u09aa\u099c\u09c7\u09b2\u09be - \u09aa\u09ac\u09be, \u099c\u09c7\u09b2\u09be - \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u0997\u09cd\u09f0\u09be\u09ae- \u0995\u09be\u09b2\u09c1\u09ae\u09c7\u09a1\u09bc , \u09a1\u09be\u0995\u0998\u09b0 - \u0996\u09a1\u09bc\u0996\u09a1\u09bc\u09c0 \u09ec\u09e8\u09e6\u09ea,\u09a5\u09be\u09a8\u09be - \u099a\u09a8\u09cd\u09a6\u09cd\u09b0\u09bf\u09ae\u09be, \u0989\u09aa\u099c\u09c7\u09b2\u09be - \u09aa\u09ac\u09be, \u099c\u09c7\u09b2\u09be - \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1054.png"
+    },
+    {
+        "id": "1057",
+        "image": "https://www.rajshahijobs.com/images/users/1057_1723643638.png",
+        "name": "Md. Borkotullah Arafat",
+        "address_present": "Dhorompur, Kazla, Rajshahi",
+        "address_permanent": "Osmanpur, Pirganj, Rangpur",
+        "last_education": "HSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "Green Vision Overseas Recruitment Center.\r\n\r\nComputer Operator.\r\nOnline commercial works. Such as-\r\nVarsities Online Application,\r\nBangla/English typing,\r\nMs word/excell, Adobe photoshop/illustrator and others.\r\n\r\nI have 2years experience about computer Operating.",
+        "local_image_path": "images/1057.png"
+    },
+    {
+        "id": "1058",
+        "image": "https://www.rajshahijobs.com/images/users/1058_1723646843.png",
+        "name": "MD. Mahofuzar Rahman Joy",
+        "address_present": "Hetemkha,Bolia,Rajshahi",
+        "address_permanent": "Daihara,Shorgachi,Gobindagonj,Gaibandha",
+        "last_education": "BBA (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1058.png"
+    },
+    {
+        "id": "1061",
+        "image": "https://www.rajshahijobs.com/images/users/1061_1723660579.png",
+        "name": "Md.Ariful Islam",
+        "address_present": "Chandrima, P.S: Chandrima, Dist: Rajshahi.",
+        "address_permanent": "Vill: Sankoa, Post: Keshorhat, P.S: Mohonpur, Dist: Rajshahi.",
+        "last_education": "BA (2020)",
+        "job_experiences": "7 Years",
+        "experience_details": "Good Experiance, Jiban Bima Corporation, Development Officer, Office And Field Work, 07 Years",
+        "local_image_path": "images/1061.png"
     }
 ]
