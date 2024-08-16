@@ -5445,6 +5445,17 @@
         "local_image_path": "images/915.png"
     },
     {
+        "id": "916",
+        "image": "https://www.rajshahijobs.com/images/users/916_1723739153.png",
+        "name": "Md badhon",
+        "address_present": "Natore",
+        "address_permanent": "Natore",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/916.png"
+    },
+    {
         "id": "918",
         "image": "https://www.rajshahijobs.com/images/users/918_1720951604.png",
         "name": "Nahid Ahmed",
@@ -6323,5 +6334,93 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1065.png"
+    },
+    {
+        "id": "1067",
+        "image": "https://www.rajshahijobs.com/images/users/1067_1723733033.png",
+        "name": "Wahid hasan rimon Sodar",
+        "address_present": "Rajshahi jela bagmara thana",
+        "address_permanent": "Hat madhnagar",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1067.png"
+    },
+    {
+        "id": "1072",
+        "image": "https://www.rajshahijobs.com/images/users/1072_1723738980.png",
+        "name": "MD.SAZZADUL ISLAM",
+        "address_present": "Vatapara,Mohisbathan,Rajshahi",
+        "address_permanent": "Rosulpur,Kamarkhanda,Sirajganj",
+        "last_education": "HSC (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1072.png"
+    },
+    {
+        "id": "1073",
+        "image": "https://www.rajshahijobs.com/images/users/1073_1723739288.png",
+        "name": "Nuria Jannat",
+        "address_present": "Umorpur, vobanipur,Shibganj",
+        "address_permanent": "Rajshahi",
+        "last_education": "BA (1)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1073.png"
+    },
+    {
+        "id": "1074",
+        "image": "https://www.rajshahijobs.com/images/users/1074_1723739017.png",
+        "name": "Md. Lotifur Rahman Pias",
+        "address_present": "Mirerchok, Boalia",
+        "address_permanent": "Rosulpur, Durgapur",
+        "last_education": "BSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1074.png"
+    },
+    {
+        "id": "1075",
+        "image": "https://www.rajshahijobs.com/images/users/1075_1723739646.png",
+        "name": "MD.Eusuf ul Roxy",
+        "address_present": "NAOGAON",
+        "address_permanent": "NAOGAON",
+        "last_education": "BA (2022)",
+        "job_experiences": "6 Months",
+        "experience_details": "Sales executive grameenphone",
+        "local_image_path": "images/1075.png"
+    },
+    {
+        "id": "1076",
+        "image": "https://www.rajshahijobs.com/images/users/1076_1723740869.png",
+        "name": "Alfaz Hossain",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "3 Months",
+        "experience_details": "BONDHU MITALI FOUNDATION \r\nComputer Operator",
+        "local_image_path": "images/1076.png"
+    },
+    {
+        "id": "1079",
+        "image": "https://www.rajshahijobs.com/images/users/1079_1723746844.png",
+        "name": "Sujon Ghosh",
+        "address_present": "Rajshahi kumarpara",
+        "address_permanent": "Singra,Natore",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1079.png"
+    },
+    {
+        "id": "1080",
+        "image": "https://www.rajshahijobs.com/images/users/1080_1723748378.png",
+        "name": "Md Minhaj Ahmed Bishal",
+        "address_present": "Bohorompur City Bypass, Rajshahi",
+        "address_permanent": "Bohorompur City Bypass, Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1080.png"
     }
 ]
