@@ -6402,6 +6402,17 @@
         "local_image_path": "images/1076.png"
     },
     {
+        "id": "1078",
+        "image": "https://www.rajshahijobs.com/images/users/1078_1723810585.png",
+        "name": "MD. Fuyad Hasan",
+        "address_present": "Kajla, Rajshahhi",
+        "address_permanent": "Hamdoh, Jhenaidah",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1078.png"
+    },
+    {
         "id": "1079",
         "image": "https://www.rajshahijobs.com/images/users/1079_1723746844.png",
         "name": "Sujon Ghosh",
@@ -6422,5 +6433,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1080.png"
+    },
+    {
+        "id": "1084",
+        "image": "https://www.rajshahijobs.com/images/users/1084_1723798054.png",
+        "name": "Ishtiaque Ahmad",
+        "address_present": "430, Paramedical Road, Laxmipur, Rajshahi",
+        "address_permanent": "430, Paramedical Road, Laxmipur, Rajshahi",
+        "last_education": "MCom (2015)",
+        "job_experiences": "5 Years",
+        "experience_details": "(01) SELF-EMPLOYED: WordPress Development & Optimization.\r\nService: WordPress Website Design & Develop, WordPress\r\nOptimization, WordPress SEO (On Page Seo, Google Integration / Site Kit by Google: Analytics, Search Console, AdSense, Tag Manager,\r\nSitemap.xml). (2019-2020) (2023-Continue). (02) ASCENDBD is an Online Automation Services Agency. (Comprehensive Data Management & Accounting: Research, Formulation and Information Sharing Via Excel & Gmail.) (2022-2023). (03) ELIGIBLE YOUTH FOR EVOLUTION (EYE) (A branch of the Human Rights Organization) I Served as the Social Welfare Secretary (2014-2017).",
+        "local_image_path": "images/1084.png"
+    },
+    {
+        "id": "1086",
+        "image": "https://www.rajshahijobs.com/images/users/1086_1723809831.png",
+        "name": "MD. Abdul Alim",
+        "address_present": "Bohorompur, Rajpara, Rajshahi",
+        "address_permanent": "Tanore , Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "2 Years",
+        "experience_details": "Pet world, showroom sales manager experience 2years",
+        "local_image_path": "images/1086.png"
     }
 ]
