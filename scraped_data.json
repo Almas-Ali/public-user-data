@@ -3356,7 +3356,7 @@
     },
     {
         "id": "529",
-        "image": "https://www.rajshahijobs.com/images/users/529_1720067986.png",
+        "image": "https://www.rajshahijobs.com/images/users/529_1723823661.png",
         "name": "Samiul islam",
         "address_present": "Terokhadiya,boalia, rajshahi",
         "address_permanent": "Varara,pabna Sadar, pabna",
@@ -6017,6 +6017,17 @@
         "local_image_path": "images/1017.png"
     },
     {
+        "id": "1018",
+        "image": "https://www.rajshahijobs.com/images/users/1018_1723814116.png",
+        "name": "Masud Rana",
+        "address_present": "Jadughor mor, Rajshahi",
+        "address_permanent": "Vill: Chak horynaraon, Post: Panjvanga, Thana: Manda, Dist: Naogaon",
+        "last_education": "HSC (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "Icon Marketing Ltd. Marketing Officer,",
+        "local_image_path": "images/1018.png"
+    },
+    {
         "id": "1021",
         "image": "https://www.rajshahijobs.com/images/users/1021_1723543408.png",
         "name": "Md. Abu Raihan",
@@ -6442,7 +6453,7 @@
         "address_permanent": "430, Paramedical Road, Laxmipur, Rajshahi",
         "last_education": "MCom (2015)",
         "job_experiences": "5 Years",
-        "experience_details": "(01) SELF-EMPLOYED: WordPress Development & Optimization.\r\nService: WordPress Website Design & Develop, WordPress\r\nOptimization, WordPress SEO (On Page Seo, Google Integration / Site Kit by Google: Analytics, Search Console, AdSense, Tag Manager,\r\nSitemap.xml). (2019-2020) (2023-Continue). (02) ASCENDBD is an Online Automation Services Agency. (Comprehensive Data Management & Accounting: Research, Formulation and Information Sharing Via Excel & Gmail.) (2022-2023). (03) ELIGIBLE YOUTH FOR EVOLUTION (EYE) (A branch of the Human Rights Organization) I Served as the Social Welfare Secretary (2014-2017).",
+        "experience_details": "(01) SELF-EMPLOYED: WordPress Development & Optimization.\r\nService: WordPress Website Design & Development, WordPress\r\nOptimization, WordPress SEO (On Page Seo, Google Integration / Site Kit by Google: Analytics, Search Console, AdSense, Tag Manager, Sitemap.xml) WooCommerce. (2019-2020) (2023-Continue). (02) ASCENDBD is an Online Amazon Automation Agency.  Services: Product Research, Overseeing Amazon Seller Central, Information Sharing Via Excel & Gmail.) (2022-2023). (03) ELIGIBLE YOUTH FOR EVOLUTION (EYE) (A branch of the Human Rights Organization) I Served as the Social Welfare Secretary (2014-2017).",
         "local_image_path": "images/1084.png"
     },
     {
@@ -6455,5 +6466,181 @@
         "job_experiences": "2 Years",
         "experience_details": "Pet world, showroom sales manager experience 2years",
         "local_image_path": "images/1086.png"
+    },
+    {
+        "id": "1089",
+        "image": "https://www.rajshahijobs.com/images/users/1089_1723811579.png",
+        "name": "MD. MANIK ALI",
+        "address_present": "Bharuapara,puthia,Rajshahi.",
+        "address_permanent": "Bharuapara,puthia,Rajshahi.",
+        "last_education": "BSC (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1089.png"
+    },
+    {
+        "id": "1092",
+        "image": "https://www.rajshahijobs.com/images/users/1092_1723813028.png",
+        "name": "Sheikh Rasel Ahmed",
+        "address_present": "Sharafpur, Dumuria,Khulna",
+        "address_permanent": "Sharafpur, Dumuria,Khulna",
+        "last_education": "HSC (2017)",
+        "job_experiences": "2 Years",
+        "experience_details": "Islami bank LTD .\r\nFont desk officer 2 years experience",
+        "local_image_path": "images/1092.png"
+    },
+    {
+        "id": "1096",
+        "image": "https://www.rajshahijobs.com/images/users/1096_1723818307.png",
+        "name": "Nusrat Jahan Alif",
+        "address_present": "\u09a8\u0993\u09a6\u09be\u09aa\u09be\u09dc\u09be, \u09b8\u09aa\u09c1\u09b0\u09be",
+        "address_permanent": "\u09a8\u0993\u09a6\u09be\u09aa\u09be\u09dc\u09be, \u09b8\u09aa\u09c1\u09b0\u09be",
+        "last_education": "SSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1096.png"
+    },
+    {
+        "id": "1097",
+        "image": "https://www.rajshahijobs.com/images/users/1097_1723818207.png",
+        "name": "Nahiyan",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "Diploma (Eng) (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experience",
+        "local_image_path": "images/1097.png"
+    },
+    {
+        "id": "1099",
+        "image": "https://www.rajshahijobs.com/images/users/1099_1723818922.png",
+        "name": "S. M. Muntasir Sadik",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1099.png"
+    },
+    {
+        "id": "1100",
+        "image": "https://www.rajshahijobs.com/images/users/1100_1723820631.png",
+        "name": "Md Estiak Ahmed Nayeem",
+        "address_present": "Rayapur, Arjunpara, Bagmara, Rajshahi",
+        "address_permanent": "Rayapur, Arjunpara, Bagmara, Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1100.png"
+    },
+    {
+        "id": "1101",
+        "image": "https://www.rajshahijobs.com/images/users/1101_1723820936.png",
+        "name": "Shawraw Wardi Ahmed",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "MA (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "Ex Manager Of Ali hasan English Academy ,Duration 2 years",
+        "local_image_path": "images/1101.png"
+    },
+    {
+        "id": "1102",
+        "image": "https://www.rajshahijobs.com/images/users/1102_1723821081.png",
+        "name": "Md Rubel Rana",
+        "address_present": "Lilyhol mor, Paba, Rajshahi",
+        "address_permanent": "Bijoypur, Manda, Naogaon",
+        "last_education": "BA (2017)",
+        "job_experiences": "1 Year",
+        "experience_details": "Computer and showroom customs service",
+        "local_image_path": "images/1102.png"
+    },
+    {
+        "id": "1103",
+        "image": "https://www.rajshahijobs.com/images/users/1103_1723821396.png",
+        "name": "MD Khaled Parvez Ratul",
+        "address_present": "Seroil colony Rajshahi",
+        "address_permanent": "Seroil colony Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "6 Months",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1103.png"
+    },
+    {
+        "id": "1104",
+        "image": "https://www.rajshahijobs.com/images/users/1104_1723824848.png",
+        "name": "MD: Foriduzzaman Sumon",
+        "address_present": "\u09b2\u0995\u09cd\u09b7\u09bf\u09aa\u09c1\u09b0-\u09ad\u09be\u099f\u09be\u09aa\u09be\u09dc\u09be, \u09b0\u09be\u099c\u09aa\u09be\u09dc\u09be, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u09b0\u09c1\u09df\u09be\u0987,\u09b6\u0982\u0995\u09b0\u09aa\u09c1\u09b0,\u09a4\u09c7\u0981\u09a4\u09c1\u09b2\u09bf\u09df\u09be,\u09ae\u09be\u09a8\u09cd\u09a6\u09be-\u09a8\u0993\u0997\u09be\u0981",
+        "last_education": "HSC (2020)",
+        "job_experiences": "3 Years",
+        "experience_details": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0\u09b0 \u09b8\u09cd\u09ac\u09a8\u09be\u09ae\u09a7\u09a8\u09cd\u09af \u09aa\u09cd\u09b0\u09be\u0987\u09ad\u09c7\u099f \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8 '\u09a1\u09be\u09ac\u09b2\u09c1 \u09b8\u09be\u0987\u09a8\u09cd\u09b8 \u0993\u09df\u09be\u09b2\u09cd\u09a1\" \u098f \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0 \u098f\u09ac\u0982 \u099f\u09bf\u099a\u09be\u09b0 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09e9 \u09ac\u099b\u09b0 \u09af\u09be\u09ac\u09ce \u0995\u09b0\u09cd\u09ae\u09b0\u09a4 \u0986\u099b\u09bf(\u098f\u0996\u09a8\u0993 \u0995\u09b0\u099b\u09bf)\u0964",
+        "local_image_path": "images/1104.png"
+    },
+    {
+        "id": "1108",
+        "image": "https://www.rajshahijobs.com/images/users/1108_1723825069.png",
+        "name": "Md Monir Islam",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "6 Months",
+        "experience_details": "marketing job 6 mass",
+        "local_image_path": "images/1108.png"
+    },
+    {
+        "id": "1112",
+        "image": "https://www.rajshahijobs.com/images/users/1112_1723827314.png",
+        "name": "MD.Mostafizur Rahman",
+        "address_present": "Sipaipara Rajshahi",
+        "address_permanent": "Chandpur,Pak-Chandpur Tanore",
+        "last_education": "HSC (2023)",
+        "job_experiences": "3 Months",
+        "experience_details": "\u0986\u09ae\u09bf \u09a8\u0993\u0997\u09be\u0981 \u09b6\u09b9\u09b0\u09c7 \u098f\u0995\u099c\u09a8 \u09a1\u0995\u09cd\u099f\u09b0 \u09b8\u09cd\u09af\u09be\u09b0\u09c7\u09b0 \u099a\u09c7\u09ae\u09cd\u09ac\u09be\u09b0 \u09b8\u09b9\u0995\u09be\u09b0\u09c0(\u0985\u09b0\u09cd\u09a5\u09be\u09ce \u0997\u09cd\u09b0\u09c7\u099f \u09ae\u09cd\u09af\u09be\u09a8) \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09a6\u09c1\u0987 \u09ae\u09be\u09b8 \u0995\u09a4 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf\u0964",
+        "local_image_path": "images/1112.png"
+    },
+    {
+        "id": "1113",
+        "image": "https://www.rajshahijobs.com/images/users/1113_1723855226.png",
+        "name": "MD SAJEDUL KARIM",
+        "address_present": "Horogram Notun para, Rajshahi court, Rajpara,Rajshahi",
+        "address_permanent": "Horogram Notun para, Rajshahi court, Rajpara,Rajshahi",
+        "last_education": "Diploma (Eng) (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "Helper,Mosharof Textile Mill,6 month",
+        "local_image_path": "images/1113.png"
+    },
+    {
+        "id": "1117",
+        "image": "https://www.rajshahijobs.com/images/users/1117_1723840822.png",
+        "name": "Golam Kibria Nipun",
+        "address_present": "Katakhali Bazar,Rajshahi",
+        "address_permanent": "Katakhali Bazar,Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1117.png"
+    },
+    {
+        "id": "1120",
+        "image": "https://www.rajshahijobs.com/images/users/1120_1723849389.png",
+        "name": "Md Nimur Rahman",
+        "address_present": "Sopura,Rajshahi",
+        "address_permanent": "Sopura,Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "3 Years",
+        "experience_details": "I have some of experience",
+        "local_image_path": "images/1120.png"
+    },
+    {
+        "id": "1121",
+        "image": "https://www.rajshahijobs.com/images/users/1121_1723851492.png",
+        "name": "Shifaul Hasib",
+        "address_present": "Chapai Nawabganj sadar,Chapainawabganj",
+        "address_permanent": "Chapai Nawabganj sadar,Chapainawabganj",
+        "last_education": "HSC (2019)",
+        "job_experiences": "3 Years",
+        "experience_details": "Marketing Officer + Doctor Attended",
+        "local_image_path": "images/1121.png"
     }
 ]
