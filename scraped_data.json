@@ -6675,5 +6675,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1126.png"
+    },
+    {
+        "id": "1128",
+        "image": "https://www.rajshahijobs.com/images/users/1128_1723913022.png",
+        "name": "Md Aman Hadish",
+        "address_present": "noahata,poba",
+        "address_permanent": "same",
+        "last_education": "HSC (2019)",
+        "job_experiences": "4 Years",
+        "experience_details": "bangladesh army",
+        "local_image_path": "images/1128.png"
     }
 ]
