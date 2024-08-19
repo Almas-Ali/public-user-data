@@ -6972,5 +6972,93 @@
         "job_experiences": "1 Year",
         "experience_details": "Mars Education Consultancy",
         "local_image_path": "images/1182.png"
+    },
+    {
+        "id": "1184",
+        "image": "https://www.rajshahijobs.com/images/users/1184_1724032326.png",
+        "name": "Murad hasan",
+        "address_present": "Binodpur, Motihar,Rajshahi",
+        "address_permanent": "Thakurgaon",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "I am student of University of Rajshahi, Department of Marketing,  study at 2nd year",
+        "local_image_path": "images/1184.png"
+    },
+    {
+        "id": "1185",
+        "image": "https://www.rajshahijobs.com/images/users/1185_1724036803.png",
+        "name": "sharmin kaisar",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1185.png"
+    },
+    {
+        "id": "1190",
+        "image": "https://www.rajshahijobs.com/images/users/1190_1724049940.png",
+        "name": "tamanna akter maya",
+        "address_present": "Paba rice mill,sopura,sahmukhdum, Rajshahi",
+        "address_permanent": "Paba rice mil,spora,Rajshahi",
+        "last_education": "SSC Vocational (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1190.png"
+    },
+    {
+        "id": "1191",
+        "image": "https://www.rajshahijobs.com/images/users/1191_1724053277.png",
+        "name": "Md Sakibul islam siam",
+        "address_present": "Horipur Paba  Rajshahi",
+        "address_permanent": "Horipur Paba Rajshahi",
+        "last_education": "SSC Vocational (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1191.png"
+    },
+    {
+        "id": "1193",
+        "image": "https://www.rajshahijobs.com/images/users/1193_1724054869.png",
+        "name": "Shakib Billah",
+        "address_present": "Allipur  Satkhira Khulna",
+        "address_permanent": "Allipur satkhira Khulna",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1193.png"
+    },
+    {
+        "id": "1194",
+        "image": "https://www.rajshahijobs.com/images/users/1194_1724060600.png",
+        "name": "Sohag Ahmed",
+        "address_present": "Rajshahi vata para",
+        "address_permanent": "Darusha paba Rajshahi",
+        "last_education": "BA (2024)",
+        "job_experiences": "3 Years",
+        "experience_details": "\u0986\u09ae\u09bf \u09a6\u09c0\u09b0\u09cd\u0998 \u09a6\u09bf\u09a8 \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09b9\u09be\u0987\u0995 \u09b6\u09cb\u09b0\u09c1\u09ae\u09c7 \u09b8\u09c7\u09b2\u09b8\u09ae\u09cd\u09af\u09be\u09a8 \u09a5\u09c7\u0995\u09c7 \u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0 \u09aa\u09cb\u09b8\u09cd\u099f \u098f \u09b8\u09a4\u09a4\u09be\u09b0 \u09b8\u09be\u09a5\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf \u098f\u099b\u09be\u09dc\u09be\u0993 \u09a2\u09be\u0995\u09be \u0997\u09c1\u09b2\u09b6\u09be\u09a8\u09c7 \u0986\u0987\u099f\u09bf \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf \u09a4\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09be \u09b9\u09df\u09c7\u099b\u09c7\u0964",
+        "local_image_path": "images/1194.png"
+    },
+    {
+        "id": "1196",
+        "image": "https://www.rajshahijobs.com/images/users/1196_1724066702.png",
+        "name": "Nasim Ahmed",
+        "address_present": "Bougra, Adamdigi",
+        "address_permanent": "Bougra Adamdigi",
+        "last_education": "HSC (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1196.png"
+    },
+    {
+        "id": "1197",
+        "image": "https://www.rajshahijobs.com/images/users/1197_1724068150.png",
+        "name": "Omor Sharafi Shafi",
+        "address_present": "Kadirgong",
+        "address_permanent": "Kadirgong",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1197.png"
     }
 ]
