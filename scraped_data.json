@@ -6996,6 +6996,17 @@
         "local_image_path": "images/1185.png"
     },
     {
+        "id": "1187",
+        "image": "https://www.rajshahijobs.com/images/users/1187_1724045236.png",
+        "name": "Md Shehab Ali",
+        "address_present": "Vill: Haripur, P.O: Haripur, P.S: Paba, Dist:Rajshahi",
+        "address_permanent": "Vill: Haripur, P.O: Haripur, P.S: Paba, Dist:Rajshahi",
+        "last_education": "Diploma (Eng) (2022)",
+        "job_experiences": "6 Months",
+        "experience_details": "I working as a Support & Service Engineer in TRAX Technologies Ltd.,Gulshan-1. Dhaka at (December 17th, 2023 to 01th June, 2024).",
+        "local_image_path": "images/1187.png"
+    },
+    {
         "id": "1190",
         "image": "https://www.rajshahijobs.com/images/users/1190_1724049940.png",
         "name": "tamanna akter maya",
@@ -7060,5 +7071,60 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1197.png"
+    },
+    {
+        "id": "1199",
+        "image": "https://www.rajshahijobs.com/images/users/1199_1724077632.png",
+        "name": "Md Alamin",
+        "address_present": "Vill: Maria, P\\S: Durgapur, Dist: Rajshahi",
+        "address_permanent": "Vill: Maria, P\\S: Durgapur, Dist: Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "\u09aa\u09a6: \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0 \u0964\r\n\u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8\u09c7\u09b0 \u09a8\u09be\u09ae: \u0995\u09cb\u09df\u09be\u09a8\u09cd\u099f\u09be\u09ae \u0995\u09b8\u09ae\u09cb \u09b8\u09cd\u0995\u09c1\u09b2 \u098f\u09a8\u09cd\u09a1 \u0995\u09b2\u09c7\u099c, \u09b2\u09be\u09ae\u09be, \u09ac\u09be\u09a8\u09cd\u09a6\u09b0\u09ac\u09a8\u0964 \u0986\u099f \u0995\u09be\u099c\u09c7\u09b0 \u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be\u0964",
+        "local_image_path": "images/1199.png"
+    },
+    {
+        "id": "1200",
+        "image": "https://www.rajshahijobs.com/images/users/1200_1724076377.png",
+        "name": "MD.Mustakin",
+        "address_present": "Charghat Rajshahi",
+        "address_permanent": "Sopura Rajshahi",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1200.png"
+    },
+    {
+        "id": "1201",
+        "image": "https://www.rajshahijobs.com/images/users/1201_1724080071.png",
+        "name": "Raisul Islam",
+        "address_present": "Tirail,Baraigram,Natore",
+        "address_permanent": "Tirail, Baraigram, Natore",
+        "last_education": "HSC (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "Institute : BATA \r\nDesignation : Sales Executive\r\nDuration : 1 Year\r\nInstitute : ACI Logistics Ltd. (Shawpno)\r\nDesignation : Sales Executive\r\nDuretion : 1 year",
+        "local_image_path": "images/1201.png"
+    },
+    {
+        "id": "1202",
+        "image": "https://www.rajshahijobs.com/images/users/1202_1724087385.png",
+        "name": "ABDUR RAHMAN SAZIB",
+        "address_present": "Sardha, Charghat, Rajshahi",
+        "address_permanent": "Sardha, Charghat, Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "Panacea drug addiction treatment centre,\r\nOffice Assistant",
+        "local_image_path": "images/1202.png"
+    },
+    {
+        "id": "1203",
+        "image": "https://www.rajshahijobs.com/images/users/1203_1724091282.png",
+        "name": "Tasnia wahed",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "I have been tutoring for 2 years.",
+        "local_image_path": "images/1203.png"
     }
 ]
