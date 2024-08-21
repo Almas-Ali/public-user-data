@@ -6413,6 +6413,17 @@
         "local_image_path": "images/1067.png"
     },
     {
+        "id": "1071",
+        "image": "https://www.rajshahijobs.com/images/users/1071_1724224109.png",
+        "name": "MD: Asif Iqbal",
+        "address_present": "\u09b9\u09be\u09a4\u09c7\u09ae \u0996\u09be \u099b\u09cb\u099f \u09ae\u09b8\u099c\u09bf\u09a6 \u0995\u09be\u099b\u09c7, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u099c\u09c7\u09b2\u09be: \u09a8\u09be\u099f\u09cb\u09b0, \u09a5\u09be\u09a8\u09be: \u09ac\u09dc\u09be\u0987\u0997\u09cd\u09b0\u09be\u09ae, \u09ac\u09bf\u09ad\u09be\u0997: \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1071.png"
+    },
+    {
         "id": "1072",
         "image": "https://www.rajshahijobs.com/images/users/1072_1723738980.png",
         "name": "MD.SAZZADUL ISLAM",
@@ -6887,12 +6898,12 @@
     },
     {
         "id": "1151",
-        "image": "https://www.rajshahijobs.com/images/users/1151_1723971850.png",
+        "image": "https://www.rajshahijobs.com/images/users/1151_1724235077.png",
         "name": "Lamia Tazrin",
         "address_present": "Rajshahi",
         "address_permanent": "Sagor para Ghoramara Rajshahi",
-        "last_education": "Honors (2023)",
-        "job_experiences": "Fresher",
+        "last_education": "HSC (2023)",
+        "job_experiences": "3 Months",
         "experience_details": "Selling, receptionist",
         "local_image_path": "images/1151.png"
     },
@@ -6983,6 +6994,17 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1167.png"
+    },
+    {
+        "id": "1169",
+        "image": "https://www.rajshahijobs.com/images/users/1169_1724231776.png",
+        "name": "Md.Nazmul Haque",
+        "address_present": "Vill: Holudghor, P.O: Sainpara, P.S: Bagmara",
+        "address_permanent": "Vill: Holudghor, P.O: Sainpara, P.S: Bagmara",
+        "last_education": "MSC (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1169.png"
     },
     {
         "id": "1170",
@@ -7304,6 +7326,17 @@
         "local_image_path": "images/1225.png"
     },
     {
+        "id": "1227",
+        "image": "https://www.rajshahijobs.com/images/users/1227_1724236871.png",
+        "name": "Md Nahid Hasan",
+        "address_present": "Vodra,Rajshahi",
+        "address_permanent": "Manda,Noagaon",
+        "last_education": "HSC (2013)",
+        "job_experiences": "3 Years",
+        "experience_details": "\u099a\u09be\u0995\u09b0\u09bf\u09b0 \u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be \u09e9 \u09ac\u099b\u09b0\u0964 \r\nAlim Chemistry & Biology \r\n\u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0, \u0985\u09ab\u09bf\u09b8\u09c7\u09b0 \u09b8\u0995\u09b2 \u0995\u09be\u099c \u09a6\u09c7\u0996\u09be\u09b6\u09c1\u09a8\u09be, \u099b\u09be\u09a4\u09cd\u09b0\u09a6\u09c7\u09b0 \u09aa\u09b0\u09bf\u0995\u09cd\u09b7\u09be \u09a8\u09c7\u0993\u09df\u09be, \u09aa\u09cd\u09b0\u09b6\u09cd\u09a8\u09aa\u09a4\u09cd\u09b0 \u099f\u09be\u0987\u09aa \u0995\u09b0\u09be,\u0985\u09ad\u09bf\u09ad\u09be\u09ac\u0995 \u09ae\u09a3\u09cd\u09a1\u09b2\u09c0\u09b0 \u09b8\u09be\u09a5\u09c7 \u0995\u09a5\u09be \u09ac\u09b2\u09be",
+        "local_image_path": "images/1227.png"
+    },
+    {
         "id": "1228",
         "image": "https://www.rajshahijobs.com/images/users/1228_1724158214.png",
         "name": "Airin Jahan Akhi",
@@ -7412,5 +7445,159 @@
         "job_experiences": "Fresher",
         "experience_details": "\u09b8\u09cd\u09a5\u09be\u09a8\u09c0\u09df, \u0995\u09bf\u09a8\u09cd\u09a1\u09be\u09b0\u0997\u09be\u09b0\u09cd\u099f\u09c7\u09a8-\u09aa\u09bf\u09b8\u09ab\u09c1\u09b2 \u09aa\u09cd\u09b0\u09bf \u0995\u09cd\u09af\u09be\u09a1\u09c7\u099f \u09b8\u09cd\u0995\u09c1\u09b2\u09c7 \u09e9 \u09ac\u099b\u09b0 \u09b6\u09bf\u0995\u09cd\u09b7\u0995\u09a4\u09be \u0995\u09b0\u09c7\u099b\u09bf \u098f\u09ac\u0982 \u099f\u09bf\u0989\u09b6\u09a8 \u09aa\u09dc\u09bf\u09df\u09c7\u099b\u09bf,\u09a6\u09cb\u0995\u09be\u09a8\u09c7 \u09b8\u09c7\u09b2\u09b8 \u09ae\u09cd\u09af\u09be\u09a8 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf\u0964",
         "local_image_path": "images/1242.png"
+    },
+    {
+        "id": "1248",
+        "image": "https://www.rajshahijobs.com/images/users/1248_1724217541.png",
+        "name": "Md. Shimul Iqb",
+        "address_present": "New bill Shimla,Rajpara,Rajshahi.",
+        "address_permanent": "Shialmara,Shibganj,Chapainawabganj.",
+        "last_education": "BSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1248.png"
+    },
+    {
+        "id": "1249",
+        "image": "https://www.rajshahijobs.com/images/users/1249_1724219792.png",
+        "name": "Aszain Warkha Mehran",
+        "address_present": "Shiroil coloni Road no 3",
+        "address_permanent": "Shiroil coloni Road no 3",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1249.png"
+    },
+    {
+        "id": "1254",
+        "image": "https://www.rajshahijobs.com/images/users/1254_1724222470.png",
+        "name": "Chyon Saha",
+        "address_present": "Chapainawabganj Sadar",
+        "address_permanent": "Chapainawabganj Sadar",
+        "last_education": "SSC (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "\u09ae\u09c0\u09b0 \u09ab\u09c1\u09a1 \u0987\u09a8\u09cd\u09a1\u09be\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u099c \u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \r\n\u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982 \u09b8\u09c7\u09b2\u09b8\u09ae\u09cd\u09af\u09be\u09a8 \r\n\u098f\u0995 \u09ac\u099b\u09b0",
+        "local_image_path": "images/1254.png"
+    },
+    {
+        "id": "1256",
+        "image": "https://www.rajshahijobs.com/images/users/1256_1724222935.png",
+        "name": "Md Mehedi Hasan",
+        "address_present": "Rajshahi Alupotti",
+        "address_permanent": "Rajshahi Bagmara",
+        "last_education": "Honors (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u0995\u09cd\u09af\u09be\u099f\u09be\u09b0\u09bf\u0982 \u0987\u09ad\u09c7\u09a8\u09cd\u099f \u09ae\u09c7\u09a8\u09c7\u099c\u09ae\u09c7\u09a8\u09cd\u099f\r\n\u0985\u09ab\u09bf\u09b8 \u09b8\u09b9\u0995\u09be\u09b0\u09c0",
+        "local_image_path": "images/1256.png"
+    },
+    {
+        "id": "1257",
+        "image": "https://www.rajshahijobs.com/images/users/1257_1724223408.png",
+        "name": "nayeem arafat shovon",
+        "address_present": "kazla,dharampur",
+        "address_permanent": "kazla,rajshahi,  matihar thana",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1257.png"
+    },
+    {
+        "id": "1261",
+        "image": "https://www.rajshahijobs.com/images/users/1261_1724229035.png",
+        "name": "Suraiya Akter Tisa",
+        "address_present": "Malopara sahi mashjid, Rajshahi sadar",
+        "address_permanent": "Santahar, Adamdighi",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1261.png"
+    },
+    {
+        "id": "1262",
+        "image": "https://www.rajshahijobs.com/images/users/1262_1724228757.png",
+        "name": "MD MEHEDI HASAN",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "Diploma (Eng) (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1262.png"
+    },
+    {
+        "id": "1264",
+        "image": "https://www.rajshahijobs.com/images/users/1264_1724229920.png",
+        "name": "Md Oyasimul Karim",
+        "address_present": "Baghoil,Pakshey, Ishwardi, Pabna",
+        "address_permanent": "Baghoil,Pakshey, Ishwardi, Pabna",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "4 Years",
+        "experience_details": "\u09af\u09c7\u09b9\u09c7\u09a4\u09c1 \u099a\u09be\u0995\u09b0\u09bf \u099b\u09bf\u09b2\u09cb \u099a\u09c1\u0995\u09cd\u09a4\u09bf \u0997\u09a4\u0964 \u09a4\u09be\u0987 \u09b8\u09ac \u09b8\u09ae\u09df \u09ae\u09a8\u09cb\u09af\u09cb\u0997 \u09b8\u09b9\u0995\u09be\u09b0\u09c7 \u0995\u09be\u0997 \u0995\u09b0\u09a4\u09be\u09ae\u0964 \u0986\u09b0 \u098f\u0987 \u099a\u09bf\u09a8\u09cd\u09a4\u09be \u0995\u09b0\u09a4\u09be\u09ae \u0986\u09ae\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u0995\u09cb\u09a8 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09b0 \u09b9\u0995 \u09a8\u09b7\u09cd\u099f \u09a8\u09be \u09b9\u09df\u0964\u0986\u09ae\u09bf \u0986\u09ae\u09be\u09b0 \u0995\u09be\u099c\u0995\u09c7 \u09aa\u09cd\u09b0\u099a\u09a8\u09cd\u09a1 \u09b6\u09cd\u09b0\u09a6\u09cd\u09a7\u09be \u0995\u09b0\u09bf \u098f\u09ac\u0982 \u09ad\u09be\u09b2\u09cb\u09ac\u09be\u09b8\u09bf \u09b8\u09c7\u099f\u09be \u09af\u09c7 \u0995\u09be\u099c\u0987 \u09b9\u09cb\u0995 \u09a8\u09be\u0964 \r\n\r\n\u09aa\u09a6\u09c7\u09b0 \u09a8\u09be\u09ae:\u09aa\u09be\u09ac\u09b2\u09bf\u0995 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8 \u098f\u09ac\u0982  \u09a1\u09be\u099f\u09be \u098f\u09a8\u09cd\u099f\u09cd\u09b0\u09bf\u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0\u0964\r\n\u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8 : \u09aa\u09be\u0995\u09b6\u09c0\u0987\u0989\u09a8\u09bf\u09df\u09a8 \u09ad\u09c1\u09ae\u09bf  \u0985\u09b8\u09bf\u09ab\u0964 \r\n\u0995\u09be\u099c\u09c7\u09b0 \u09a7\u09b0\u09a8: \u0985\u09b8\u09bf\u09ab \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0\u0964 \r\n\u0995\u09be\u099c\u09c7\u09b0 \u09ac\u09df\u09b8 :\u09ea \u09ac\u099b\u09b0\u0964",
+        "local_image_path": "images/1264.png"
+    },
+    {
+        "id": "1265",
+        "image": "https://www.rajshahijobs.com/images/users/1265_1724229806.png",
+        "name": "Zarin Tasnim",
+        "address_present": "Near Post Office,Durgapur,Rajshahi",
+        "address_permanent": "Bangladesh Eidgah,Pabna Sadar",
+        "last_education": "BBA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1265.png"
+    },
+    {
+        "id": "1269",
+        "image": "https://www.rajshahijobs.com/images/users/1269_1724230527.png",
+        "name": "A Q M Mahmudur Rahman Nabil",
+        "address_present": "Askorpur, Sardah, Charghat, Rajshahi",
+        "address_permanent": "Askorpur, Sardah, Charghat, Rajshahi",
+        "last_education": "BA (2023)",
+        "job_experiences": "6 Years",
+        "experience_details": "I was a senior executive in an it company named Pr\u00e1ce BD & I am in teaching profession since 2015",
+        "local_image_path": "images/1269.png"
+    },
+    {
+        "id": "1271",
+        "image": "https://www.rajshahijobs.com/images/users/1271_1724231310.png",
+        "name": "Ali Ahmad Arefin",
+        "address_present": "Kajla,motihar,rajshahi",
+        "address_permanent": "Kajla,motihar,rajshahi",
+        "last_education": "Alim (2023)",
+        "job_experiences": "3 Years",
+        "experience_details": "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be\u09b0 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8  \u09e7 \u09ac\u099b\u09b0 \u099c\u09ac \u0995\u09b0\u09c7\u099b\u09bf  \r\n\u09a6\u09be\u09a8\u09be\u09aa\u09be\u09a8\u09bf \u09b9\u09cb\u099f\u09c7\u09b2 \u098f\u09a8\u09cd\u09a1 \u09b0\u09c7\u09b8\u09cd\u099f\u09c1\u09b0\u09c7\u09a8\u09cd\u099f \u098f\u09b0 \u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0 \u099b\u09bf\u09b2\u09be\u09ae \u09ec \u09ae\u09be\u09b8",
+        "local_image_path": "images/1271.png"
+    },
+    {
+        "id": "1275",
+        "image": "https://www.rajshahijobs.com/images/users/1275_1724233984.png",
+        "name": "MD.AFTAB HASAN",
+        "address_present": "Kadirganj,Rajshahi",
+        "address_permanent": "Arambag,Chapainawabganj",
+        "last_education": "HSC (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "I'm a Digital Marketer and Marketing Specialist. I got my certificate on this field from Webcoder it.com. I have 2years experience of teaching thorough tuition.",
+        "local_image_path": "images/1275.png"
+    },
+    {
+        "id": "1277",
+        "image": "https://www.rajshahijobs.com/images/users/1277_1724234602.png",
+        "name": "Md Moynul Hassen",
+        "address_present": "Rajshahi Boalia",
+        "address_permanent": "Rajshahi  Boalia",
+        "last_education": "HSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "private coaching centre 2 years teaching experience",
+        "local_image_path": "images/1277.png"
+    },
+    {
+        "id": "1278",
+        "image": "https://www.rajshahijobs.com/images/users/1278_1724237742.png",
+        "name": "Munmun islam",
+        "address_present": "Shiroel,ghoramara,thana: Boalia,Dist: Rajshahi",
+        "address_permanent": "Vill: Fullbari,Post: Dhopapara,Thana:puthiya,Dist:Rajshahi",
+        "last_education": "BSC (2017)",
+        "job_experiences": "3 Years",
+        "experience_details": "2 years tecahing experience in kindtergarden school  Golden future science school and Bornomala adorsho school and college and 1 year job experience as executive officer in a IT sector (Apache IT).",
+        "local_image_path": "images/1278.png"
     }
 ]
