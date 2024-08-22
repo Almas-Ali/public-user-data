@@ -7610,5 +7610,115 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1288.png"
+    },
+    {
+        "id": "1291",
+        "image": "https://www.rajshahijobs.com/images/users/1291_1724294220.png",
+        "name": "Ahsanul Haque Turjo",
+        "address_present": "Binodpur Bazar Rajshahi",
+        "address_permanent": "Same",
+        "last_education": "Honors (2023)",
+        "job_experiences": "2 Years",
+        "experience_details": "2 years Experience execute officer& Supervisor Internet Service Provider Travel Agency Manager Etc.",
+        "local_image_path": "images/1291.png"
+    },
+    {
+        "id": "1292",
+        "image": "https://www.rajshahijobs.com/images/users/1292_1724300401.png",
+        "name": "Md Fojol",
+        "address_present": "Kadirganj Rajshahi",
+        "address_permanent": "Kadirganj Rajshahi",
+        "last_education": "Honors (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1292.png"
+    },
+    {
+        "id": "1294",
+        "image": "https://www.rajshahijobs.com/images/users/1294_1724304344.png",
+        "name": "Akash",
+        "address_present": "Rajshahi darusha",
+        "address_permanent": "Rajshahi darusha",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1294.png"
+    },
+    {
+        "id": "1295",
+        "image": "https://www.rajshahijobs.com/images/users/1295_1724305742.png",
+        "name": "Laboni Rahman",
+        "address_present": "Sopura,shalbagan, Rajshahi",
+        "address_permanent": "Bohora,Tanore, Rajshahi",
+        "last_education": "HSC (2018)",
+        "job_experiences": "3 Years",
+        "experience_details": "Xiaomi, Honor\r\nSales executive",
+        "local_image_path": "images/1295.png"
+    },
+    {
+        "id": "1297",
+        "image": "https://www.rajshahijobs.com/images/users/1297_1724307608.png",
+        "name": "Abushayeed",
+        "address_present": "Nithpur porsha Naogaon",
+        "address_permanent": "Nithpur porsha Naogaon",
+        "last_education": "BA (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "yes experiences",
+        "local_image_path": "images/1297.png"
+    },
+    {
+        "id": "1301",
+        "image": "https://www.rajshahijobs.com/images/users/1301_1724312051.png",
+        "name": "Md Mostafizur Rahman",
+        "address_present": "Baladiar,Charghat,Rajshahi",
+        "address_permanent": "Baladiar,Charghat,Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1301.png"
+    },
+    {
+        "id": "1305",
+        "image": "https://www.rajshahijobs.com/images/users/1305_1724316843.png",
+        "name": "Md Hasan Ali",
+        "address_present": "sadar Dinajpur",
+        "address_permanent": "Sadar Dinajpur",
+        "last_education": "Diploma (Eng) (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1305.png"
+    },
+    {
+        "id": "1306",
+        "image": "https://www.rajshahijobs.com/images/users/1306_1724317466.png",
+        "name": "Faizel Gazi",
+        "address_present": "Binodhpur Bazar, Motihar, Rajshahi.",
+        "address_permanent": "Binodhpur Bazar, Motihar, Rajshahi.",
+        "last_education": "Honors (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1306.png"
+    },
+    {
+        "id": "1308",
+        "image": "https://www.rajshahijobs.com/images/users/1308_1724319806.png",
+        "name": "MD ATAUR RAHMAN",
+        "address_present": "Kazla, Rajshahi",
+        "address_permanent": "Kazla, Rajshahi 260/1",
+        "last_education": "Honors (2009)",
+        "job_experiences": "10 Years+",
+        "experience_details": "Retired Senior Cashier officer at Sonali Bank LTD",
+        "local_image_path": "images/1308.png"
+    },
+    {
+        "id": "1309",
+        "image": "https://www.rajshahijobs.com/images/users/1309_1724326996.png",
+        "name": "Md yeasin",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "MA (19)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1309.png"
     }
 ]
