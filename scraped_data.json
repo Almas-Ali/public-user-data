@@ -7560,11 +7560,11 @@
         "id": "1271",
         "image": "https://www.rajshahijobs.com/images/users/1271_1724231310.png",
         "name": "Ali Ahmad Arefin",
-        "address_present": "Kajla,motihar,rajshahi",
-        "address_permanent": "Kajla,motihar,rajshahi",
+        "address_present": "Kajla,Motihar,Rajshahi",
+        "address_permanent": "Kajla, Motihar, Rajshahi",
         "last_education": "Alim (2023)",
         "job_experiences": "3 Years",
-        "experience_details": "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be\u09b0 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8  \u09e7 \u09ac\u099b\u09b0 \u099c\u09ac \u0995\u09b0\u09c7\u099b\u09bf  \r\n\u09a6\u09be\u09a8\u09be\u09aa\u09be\u09a8\u09bf \u09b9\u09cb\u099f\u09c7\u09b2 \u098f\u09a8\u09cd\u09a1 \u09b0\u09c7\u09b8\u09cd\u099f\u09c1\u09b0\u09c7\u09a8\u09cd\u099f \u098f\u09b0 \u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0 \u099b\u09bf\u09b2\u09be\u09ae \u09ec \u09ae\u09be\u09b8",
+        "experience_details": "Manager- Danapani hotel and restaurant,Rajshahi (1 year)\r\nAssistant teacher( Islamic Religion) - Headway coaching center,kazla Rajshahi. (1 year)\r\nDelivery Man- RedX courier",
         "local_image_path": "images/1271.png"
     },
     {
@@ -7599,5 +7599,16 @@
         "job_experiences": "3 Years",
         "experience_details": "2 years tecahing experience in kindtergarden school  Golden future science school and Bornomala adorsho school and college and 1 year job experience as executive officer in a IT sector (Apache IT).",
         "local_image_path": "images/1278.png"
+    },
+    {
+        "id": "1288",
+        "image": "https://www.rajshahijobs.com/images/users/1288_1724253021.png",
+        "name": "Mst Rabia Aktar Nishi",
+        "address_present": "Sarunjai Mondol para, Sarunjai,Tanore,Rajshahi",
+        "address_permanent": "Vatapara,rajpara,Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1288.png"
     }
 ]
