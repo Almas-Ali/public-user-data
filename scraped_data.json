@@ -7469,6 +7469,17 @@
         "local_image_path": "images/1249.png"
     },
     {
+        "id": "1250",
+        "image": "https://www.rajshahijobs.com/images/users/1250_1724220318.png",
+        "name": "Tushar kumar",
+        "address_present": "hetom kha,Rajshahi",
+        "address_permanent": "Hetom kha,Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1250.png"
+    },
+    {
         "id": "1254",
         "image": "https://www.rajshahijobs.com/images/users/1254_1724222470.png",
         "name": "Chyon Saha",
@@ -7544,6 +7555,17 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1265.png"
+    },
+    {
+        "id": "1266",
+        "image": "https://www.rajshahijobs.com/images/users/1266_1724347559.png",
+        "name": "prosonjit Boyragi",
+        "address_present": "Katakali, Rajshahi",
+        "address_permanent": "Katakali,Rajshahi",
+        "last_education": "MA (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1266.png"
     },
     {
         "id": "1269",
@@ -7720,5 +7742,71 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1309.png"
+    },
+    {
+        "id": "1311",
+        "image": "https://www.rajshahijobs.com/images/users/1311_1724334045.png",
+        "name": "Md.Leon Khan",
+        "address_present": "Rajshahi",
+        "address_permanent": "Pabna",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1311.png"
+    },
+    {
+        "id": "1314",
+        "image": "https://www.rajshahijobs.com/images/users/1314_1724344391.png",
+        "name": "Md.Asadul Hque (Adnan)",
+        "address_present": "Rajshahi",
+        "address_permanent": "Pabna",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1314.png"
+    },
+    {
+        "id": "1316",
+        "image": "https://www.rajshahijobs.com/images/users/1316_1724346901.png",
+        "name": "Mudabbir rahman",
+        "address_present": "Vill: Durlovpur, Post: Birkutsha , Thana: Naldanga, Zella: Natore",
+        "address_permanent": "Vill: Durlovpur, Post: Birkutsha , Thana: Naldanga, Zella: Natore",
+        "last_education": "SSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1316.png"
+    },
+    {
+        "id": "1318",
+        "image": "https://www.rajshahijobs.com/images/users/1318_1724346946.png",
+        "name": "P.M. Niamul Hasan Zim",
+        "address_present": "Munnafer Mor,Rajshahi",
+        "address_permanent": "Chhaikola, Chatmoher, Pabna",
+        "last_education": "HSC (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1318.png"
+    },
+    {
+        "id": "1320",
+        "image": "https://www.rajshahijobs.com/images/users/1320_1724349158.png",
+        "name": "Reyadul Ahmed",
+        "address_present": "Kazla, Mothihar, Rajshahi",
+        "address_permanent": "Kazla, Mothihar, Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "Communications Manager at MalishaEdu Bangladesh LTD.\r\nContent Writer at Medi seba LTD.\r\nContent Writer at Skyline24.",
+        "local_image_path": "images/1320.png"
+    },
+    {
+        "id": "1324",
+        "image": "https://www.rajshahijobs.com/images/users/1324_1724366219.png",
+        "name": "Md. Abdul Makim",
+        "address_present": "Jahanabad, Mohanpur, Rajshahi",
+        "address_permanent": "Jahanabad, Mohanpur, Rajshahi",
+        "last_education": "HSC (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1324.png"
     }
 ]
