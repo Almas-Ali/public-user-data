@@ -7755,6 +7755,17 @@
         "local_image_path": "images/1311.png"
     },
     {
+        "id": "1313",
+        "image": "https://www.rajshahijobs.com/images/users/1313_1724405953.png",
+        "name": "Md. Mahmudul Hasan",
+        "address_present": "\u0997\u09cd\u09b0\u09be\u09ae\u0983\u09aa\u09be\u099a\u09c1\u09ac\u09be\u09dc\u09c0\u09cd \u09aa\u09cb\u09b8\u09cd\u099f \u09ac\u0996\u09a4\u09bf\u09df\u09be\u09b0\u09aa\u09c1\u09b0 \u09a5\u09be\u09a8\u09be\u0983\u09a6\u09c2\u09b0\u09cd\u0997\u09be\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be\u0983\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u0997\u09cd\u09b0\u09be\u09ae\u0983\u09aa\u09be\u099a\u09c1\u09ac\u09be\u09dc\u09c0\u09cd \u09aa\u09cb\u09b8\u09cd\u099f \u09ac\u0996\u09a4\u09bf\u09df\u09be\u09b0\u09aa\u09c1\u09b0 \u09a5\u09be\u09a8\u09be\u0983\u09a6\u09c2\u09b0\u09cd\u0997\u09be\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be\u0983\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "MBA (2019)",
+        "job_experiences": "6 Months",
+        "experience_details": "Padakhep Manabik Unnayan Kendra",
+        "local_image_path": "images/1313.png"
+    },
+    {
         "id": "1314",
         "image": "https://www.rajshahijobs.com/images/users/1314_1724344391.png",
         "name": "Md.Asadul Hque (Adnan)",
@@ -7808,5 +7819,49 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1324.png"
+    },
+    {
+        "id": "1326",
+        "image": "https://www.rajshahijobs.com/images/users/1326_1724383393.png",
+        "name": "SYED EHASAN DEWAN PRANTO",
+        "address_present": "Kajla, Rajshahi",
+        "address_permanent": "Vill.: Rukindipur, Post: Jamalganj, Thana: Akkelpur",
+        "last_education": "BSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "Haven't yet any institutional experience anymore, but have almost 5 years of teaching experience in science related subject of high school or college level as tutor.",
+        "local_image_path": "images/1326.png"
+    },
+    {
+        "id": "1327",
+        "image": "https://www.rajshahijobs.com/images/users/1327_1724390283.png",
+        "name": "Md Likhon Khan",
+        "address_present": "Lokkhipur,Rajshahi",
+        "address_permanent": "Godagari,  Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "3 Years",
+        "experience_details": "Doctor clinic and Diagnostic centre. \r\nreceptionist experience 3 year",
+        "local_image_path": "images/1327.png"
+    },
+    {
+        "id": "1329",
+        "image": "https://www.rajshahijobs.com/images/users/1329_1724394093.png",
+        "name": "Md Hamidur Rahman",
+        "address_present": "Vodra , Rajshahi, boyaliya",
+        "address_permanent": "Gram: madila ,bagmara rajshahi",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "3 Months",
+        "experience_details": "As a phone calling \r\nInstitute: Bangla Onneshon",
+        "local_image_path": "images/1329.png"
+    },
+    {
+        "id": "1330",
+        "image": "https://www.rajshahijobs.com/images/users/1330_1724411287.png",
+        "name": "Md Arif Ahmed",
+        "address_present": "Ramchandrapur, Ghoramara, Boaila, Rajshahi",
+        "address_permanent": "Ramchandrapur, Ghoramara, Boaila, Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "6 Months",
+        "experience_details": "Shop- laptops & gadget \r\nPost Name- Salesman\r\nDuration- 6 months ( February-August 2023 )",
+        "local_image_path": "images/1330.png"
     }
 ]
