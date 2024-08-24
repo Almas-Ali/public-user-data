@@ -2020,7 +2020,7 @@
         "address_permanent": "Paharpur, Mohadevpur, Naogaon",
         "last_education": "HSC (2020)",
         "job_experiences": "1 Year",
-        "experience_details": "Now i am a sales Assistant at Aditi , Malopara, Rajshahi.",
+        "experience_details": "Now i am a sales Assistant at Aditi , Malopara, Experience 1.5 year .",
         "local_image_path": "images/294.png"
     },
     {
@@ -7832,6 +7832,17 @@
         "local_image_path": "images/1324.png"
     },
     {
+        "id": "1325",
+        "image": "https://www.rajshahijobs.com/images/users/1325_1724494944.png",
+        "name": "Md.soriful islam",
+        "address_present": "Horipur,poba, Rajshahi",
+        "address_permanent": "Horipur,poba, Rajshahi",
+        "last_education": "MA (2004)",
+        "job_experiences": "7 Years",
+        "experience_details": "Ngo,",
+        "local_image_path": "images/1325.png"
+    },
+    {
         "id": "1326",
         "image": "https://www.rajshahijobs.com/images/users/1326_1724383393.png",
         "name": "SYED EHASAN DEWAN PRANTO",
@@ -7975,6 +7986,17 @@
         "local_image_path": "images/1349.png"
     },
     {
+        "id": "1350",
+        "image": "https://www.rajshahijobs.com/images/users/1350_1724489888.png",
+        "name": "MD.AL AMIN",
+        "address_present": "CNB Mor,Rajshahi.",
+        "address_permanent": "Village:Kamal Pur,Post:Bahadur Pur,Upozila:Niamatpur,District:Naogaon.",
+        "last_education": "MSS (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1350.png"
+    },
+    {
         "id": "1352",
         "image": "https://www.rajshahijobs.com/images/users/1352_1724432445.png",
         "name": "MD. ZAHID HASAN",
@@ -8017,5 +8039,71 @@
         "job_experiences": "Fresher",
         "experience_details": "\u0985\u09a8\u09b2\u09be\u0987\u09a8\u09c7 \u099c\u09bf\u09ae\u09c7\u0987\u09b2 \u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982 \u098f\u09ac\u0982 \u09aa\u09c7\u09aa\u09be\u09b2 \u09ae\u09be\u09a8\u09bf \u09b0\u09bf\u0995\u09cb\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09c7\u09b0 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf",
         "local_image_path": "images/1356.png"
+    },
+    {
+        "id": "1360",
+        "image": "https://www.rajshahijobs.com/images/users/1360_1724480484.png",
+        "name": "Sunzida Rahman",
+        "address_present": "Podda Residential area Rajshahi",
+        "address_permanent": "Podda Residential area Rajshahi",
+        "last_education": "MA (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1360.png"
+    },
+    {
+        "id": "1361",
+        "image": "https://www.rajshahijobs.com/images/users/1361_1724481355.png",
+        "name": "Sumaiya khatun",
+        "address_present": "\u0995\u09be\u099c\u09c0\u09b9\u09be\u099f\u09be, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09cd\u09af\u09be\u0982\u0995, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u09ae\u09cc\u0997\u09be\u099b\u09bf \u09ac\u09be\u099c\u09be\u09b0,\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "JSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1361.png"
+    },
+    {
+        "id": "1364",
+        "image": "https://www.rajshahijobs.com/images/users/1364_1724483807.png",
+        "name": "Md Nahid Alom",
+        "address_present": "shalghoria,durgapur,rajshahi",
+        "address_permanent": "aki",
+        "last_education": "Diploma (Eng) (2015)",
+        "job_experiences": "6 Months",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1364.png"
+    },
+    {
+        "id": "1365",
+        "image": "https://www.rajshahijobs.com/images/users/1365_1724483476.png",
+        "name": "Md.Taizul Haque",
+        "address_present": "Boalia, Rajshahi",
+        "address_permanent": "Mohanpur, Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1365.png"
+    },
+    {
+        "id": "1369",
+        "image": "https://www.rajshahijobs.com/images/users/1369_1724495463.png",
+        "name": "SHUVASIS GHOSH",
+        "address_present": "Ranibazar, Rajshahi",
+        "address_permanent": "Atrai,Naogaon",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1369.png"
+    },
+    {
+        "id": "1371",
+        "image": "https://www.rajshahijobs.com/images/users/1371_1724496338.png",
+        "name": "Md. Nur E Alam Siddiquee",
+        "address_present": "Mirzapur, Binodpur, Rajshahi",
+        "address_permanent": "13/442 Rupnagar Tinshed, Mirpur, Dhaka -1216",
+        "last_education": "BSC (2027)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1371.png"
     }
 ]
