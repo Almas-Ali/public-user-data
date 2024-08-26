@@ -4808,7 +4808,7 @@
     },
     {
         "id": "797",
-        "image": "https://www.rajshahijobs.com/images/users/797_1720625925.png",
+        "image": "https://www.rajshahijobs.com/images/users/797_1724613915.png",
         "name": "Mahim",
         "address_present": "Padma abasik,Vodra, Rajshahi",
         "address_permanent": "Padma abasik,Vodra, Rajshahi",
@@ -8457,5 +8457,27 @@
         "job_experiences": "3 Years",
         "experience_details": "\u0986\u09ae\u09bf \u0986\u09ae\u09be\u099c\u09a8 \u0993 \u0993\u09df\u09be\u09b2\u09ae\u09be\u09b0\u09cd\u099f- \u098f\u09b0 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09b8\u09cd\u099f\u09cb\u09b0 \u098f\u09b0 \u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf \u09e8\u09e6\u09e8\u09e6 \u09b8\u09c7\u09aa\u09cd\u099f\u09c7\u09ae\u09cd\u09ac\u09b0 - \u09e8\u09e6\u09e8\u09e9 \u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4\u0964 \r\n\u098f\u09b0\u09aa\u09b0 \u0986\u09ae\u09bf \u09e8\u09e6\u09e8\u09ea \u099c\u09c1\u09b2\u09be\u0987 \u09a5\u09c7\u0995\u09c7 \u098f\u0996\u09a8 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u09a8\u09bf\u09b0\u09cd\u09ae\u09be\u09a4\u09be \u09a8\u09be\u09ae\u0995 \u0995\u09a8\u09b8\u09be\u09b2\u099f\u09c7\u09a8\u09cd\u09b8\u09bf \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u09b0 \u09b8\u09be\u09a5\u09c7 \u09af\u09c1\u0995\u09cd\u09a4 \u0986\u099b\u09bf\u0964",
         "local_image_path": "images/1436.png"
+    },
+    {
+        "id": "1438",
+        "image": "https://www.rajshahijobs.com/images/users/1438_1724612551.png",
+        "name": "Nabida Tabassum",
+        "address_present": "Maskatadighi, kajla, Rajshahi",
+        "address_permanent": "Rupganj,  Narayanganj",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1438.png"
+    },
+    {
+        "id": "1442",
+        "image": "https://www.rajshahijobs.com/images/users/1442_1724620748.png",
+        "name": "MD SAROWAR HOSSEN",
+        "address_present": "Rajshahi",
+        "address_permanent": "Village :Kashardigi, post office :Soronjai, Thana:Tanore",
+        "last_education": "MSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1442.png"
     }
 ]
