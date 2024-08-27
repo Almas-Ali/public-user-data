@@ -5863,6 +5863,17 @@
         "local_image_path": "images/975.png"
     },
     {
+        "id": "978",
+        "image": "https://www.rajshahijobs.com/images/users/978_1724694849.png",
+        "name": "HASANAT ISLAM PRINCE",
+        "address_present": "Dorikhorbona, house:561/1, Boalia,Rajshahi",
+        "address_permanent": "Dorikhorbona, house:561/1, Boalia,Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/978.png"
+    },
+    {
         "id": "980",
         "image": "https://www.rajshahijobs.com/images/users/980_1722699491.png",
         "name": "Sabbir Ahmed",
@@ -7800,7 +7811,7 @@
     },
     {
         "id": "1314",
-        "image": "https://www.rajshahijobs.com/images/users/1314_1724344391.png",
+        "image": "https://www.rajshahijobs.com/images/users/1314_1724689895.png",
         "name": "Md.Asadul Hque (Adnan)",
         "address_present": "Rajshahi",
         "address_permanent": "Pabna",
@@ -8578,5 +8589,60 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1455.png"
+    },
+    {
+        "id": "1460",
+        "image": "https://www.rajshahijobs.com/images/users/1460_1724675615.png",
+        "name": "Prosenjit kumar pal",
+        "address_present": "Natore",
+        "address_permanent": "Natore",
+        "last_education": "BSC (2021)",
+        "job_experiences": "6 Years",
+        "experience_details": "Green Multimedia Ltd( Green TV)\r\nDepartment : Boardcast Engineering \r\nDesignation: Maintenance Engineer(Electrical)\r\nDuration : 2 year\r\n\r\nPran RFL Group \r\nDepartment: Production (Durable plastic ltd)\r\nDesignation: Sub Assistant Engineer \r\nDuration : 4 year",
+        "local_image_path": "images/1460.png"
+    },
+    {
+        "id": "1462",
+        "image": "https://www.rajshahijobs.com/images/users/1462_1724685359.png",
+        "name": "Mst.Afsana Mim",
+        "address_present": "Ishwardi, Pabna",
+        "address_permanent": "Ishwardi, Pabna",
+        "last_education": "MSC (2020)",
+        "job_experiences": "3 Years",
+        "experience_details": "Assistant Teacher (Part-time) Mathematic, Airport Academy, Ishwardi, Pabna.",
+        "local_image_path": "images/1462.png"
+    },
+    {
+        "id": "1463",
+        "image": "https://www.rajshahijobs.com/images/users/1463_1724686847.png",
+        "name": "\u09ae\u09cb\u0983 \u09ae\u09c1\u09b0\u09be\u09a6 \u0987\u09b8\u09b2\u09be\u09ae",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "BBA (2016)",
+        "job_experiences": "2 Years",
+        "experience_details": "Sajeda faundation\r\nFild office\r\nMaicrofainance\r\n2 years experience.",
+        "local_image_path": "images/1463.png"
+    },
+    {
+        "id": "1465",
+        "image": "https://www.rajshahijobs.com/images/users/1465_1724691158.png",
+        "name": "Fahmida akter",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "6 Months",
+        "experience_details": "Random private centre  \r\nAs a English teacher for class 1 to 4",
+        "local_image_path": "images/1465.png"
+    },
+    {
+        "id": "1471",
+        "image": "https://www.rajshahijobs.com/images/users/1471_1724717675.png",
+        "name": "Oli Arob Mondol",
+        "address_present": "Rajshahi Sadar,Rajshahi",
+        "address_permanent": "Gaibandha Sadar,Gaibandha,Rajshahi",
+        "last_education": "HSC (2014)",
+        "job_experiences": "2 Years",
+        "experience_details": "Home tutor for 8 years\r\nGarments Worker for 1 monthe\r\nX-President at VBD Gaibandha District \r\nFor 2 Years",
+        "local_image_path": "images/1471.png"
     }
 ]
