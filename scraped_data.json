@@ -5863,6 +5863,17 @@
         "local_image_path": "images/972.png"
     },
     {
+        "id": "974",
+        "image": "https://www.rajshahijobs.com/images/users/974_1724916799.png",
+        "name": "Md.Fahim Shahriyar",
+        "address_present": "Natore",
+        "address_permanent": "Rajshahi",
+        "last_education": "MBA (2023)",
+        "job_experiences": "4 Years",
+        "experience_details": "Company name-Aquamarine Agro LTD\r\nDesignation ---Assistant Manager \r\nJoining Date--1 August, 2023---Continue \r\n\r\nCompany Name---Rajshahi Travellers(Tourism company) \r\nDesignation --Admin\r\nJoining Date--1 November 2020-----continue\r\n\r\nCompany name--Metlife insurance company LTD\r\nDesignation --Financial Associate \r\nJoining Date--1 January 2019----5 Aug 2019",
+        "local_image_path": "images/974.png"
+    },
+    {
         "id": "975",
         "image": "https://www.rajshahijobs.com/images/users/975_1722502220.png",
         "name": "Md. Rakib Hasan",
@@ -6299,7 +6310,7 @@
         "address_permanent": "\u0986\u09b8\u09be\u09ae \u0995\u09b2\u09cb\u09a8\u09bf, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
         "last_education": "BSC (2022)",
         "job_experiences": "Fresher",
-        "experience_details": "No experiences",
+        "experience_details": "\u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09b0 \u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be \u0986\u099b\u09c7,\u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u0995\u09cb\u09a8\u09cb \u099a\u09be\u0995\u09b0\u09bf\u09b0 \u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be \u09a8\u09be\u0987\u0964",
         "local_image_path": "images/1042.png"
     },
     {
@@ -8855,6 +8866,17 @@
         "local_image_path": "images/1504.png"
     },
     {
+        "id": "1505",
+        "image": "https://www.rajshahijobs.com/images/users/1505_1724749526.png",
+        "name": "Md.Ashiqur Rahman",
+        "address_present": "Hatra,mohanpur, Rajshahi",
+        "address_permanent": "Hatra,mohanpur, Rajshahi",
+        "last_education": "MBA (2021)",
+        "job_experiences": "6 Months",
+        "experience_details": "Territory officer, akij group",
+        "local_image_path": "images/1505.png"
+    },
+    {
         "id": "1506",
         "image": "https://www.rajshahijobs.com/images/users/1506_1724750595.png",
         "name": "Md Rakib Hasan",
@@ -9163,6 +9185,17 @@
         "local_image_path": "images/1563.png"
     },
     {
+        "id": "1564",
+        "image": "https://www.rajshahijobs.com/images/users/1564_1724861591.png",
+        "name": "Halima Nodi",
+        "address_present": "Rajshahi",
+        "address_permanent": "Sirajganj",
+        "last_education": "BSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1564.png"
+    },
+    {
         "id": "1565",
         "image": "https://www.rajshahijobs.com/images/users/1565_1724860670.png",
         "name": "Mosarrof Hossain",
@@ -9216,5 +9249,71 @@
         "job_experiences": "2 Years",
         "experience_details": "Electromart limited, sales executive",
         "local_image_path": "images/1574.png"
+    },
+    {
+        "id": "1579",
+        "image": "https://www.rajshahijobs.com/images/users/1579_1724904766.png",
+        "name": "Abdullah Al Nobel",
+        "address_present": "Ganakpara, Ghoramara, Boalia, Rajshahi",
+        "address_permanent": "Ganakpara, Ghoramara, Boalia, Rajshahi",
+        "last_education": "BBA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1579.png"
+    },
+    {
+        "id": "1580",
+        "image": "https://www.rajshahijobs.com/images/users/1580_1724910510.png",
+        "name": "Md Rayhan islam",
+        "address_present": "\u099b\u09cb\u099f \u09ac\u09a8\u0997\u09cd\u09b0\u09be\u09ae \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u099b\u09cb\u099f \u09ac\u09a8\u0997\u09cd\u09b0\u09be\u09ae \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1580.png"
+    },
+    {
+        "id": "1583",
+        "image": "https://www.rajshahijobs.com/images/users/1583_1724919765.png",
+        "name": "Md. Shejan Kobir",
+        "address_present": "Shewrapara,Mirpur-10,Dhaka",
+        "address_permanent": "Deluabari,Durgapur,Rajshahi",
+        "last_education": "Diploma (Eng) (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "Company: Ringtech International Limited, \r\nDesignation: Jr. System Engineer, \r\nOffice Address: Gulshan Link Road,Dhaka. \r\nJoining Date: 10/07/2024",
+        "local_image_path": "images/1583.png"
+    },
+    {
+        "id": "1584",
+        "image": "https://www.rajshahijobs.com/images/users/1584_1724928451.png",
+        "name": "Md Anas",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "BA (2020)",
+        "job_experiences": "3 Years",
+        "experience_details": "Mobile company",
+        "local_image_path": "images/1584.png"
+    },
+    {
+        "id": "1587",
+        "image": "https://www.rajshahijobs.com/images/users/1587_1724929274.png",
+        "name": "Rabiul Awal",
+        "address_present": "Panka,bagatipara, natore",
+        "address_permanent": "Bagatipara",
+        "last_education": "SSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "X rating of marchant Navy",
+        "local_image_path": "images/1587.png"
+    },
+    {
+        "id": "1589",
+        "image": "https://www.rajshahijobs.com/images/users/1589_1724933727.png",
+        "name": "MD SHANE RAHMAN",
+        "address_present": "Namo vodra, Chakpara,Rajshahi",
+        "address_permanent": "Mirzapur, Binodpur bazar, Rajshahi",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "2 Years",
+        "experience_details": "Digital Maketing",
+        "local_image_path": "images/1589.png"
     }
 ]
