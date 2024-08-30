@@ -9425,5 +9425,27 @@
         "job_experiences": "2 Years",
         "experience_details": "Versatile ICT Centre \r\nPosition: Software Maintenance & Marketing",
         "local_image_path": "images/1605.png"
+    },
+    {
+        "id": "1610",
+        "image": "https://www.rajshahijobs.com/images/users/1610_1725001516.png",
+        "name": "MD YOUSUF ALI",
+        "address_present": "Shaheb Bazar",
+        "address_permanent": "Boram porsha",
+        "last_education": "HSC (2024)",
+        "job_experiences": "3 Months",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1610.png"
+    },
+    {
+        "id": "1611",
+        "image": "https://www.rajshahijobs.com/images/users/1611_1725004472.png",
+        "name": "Md Mohaiminul",
+        "address_present": "Sitlai,Damkura, Rajshahi",
+        "address_permanent": "Sitlai, Damkura,Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "Digital Marketer at fiverr upwork (Instagram marketing+link building)",
+        "local_image_path": "images/1611.png"
     }
 ]
