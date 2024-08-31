@@ -8448,6 +8448,17 @@
         "local_image_path": "images/1422.png"
     },
     {
+        "id": "1423",
+        "image": "https://www.rajshahijobs.com/images/users/1423_1725103600.png",
+        "name": "MD.SIFAT HOSSAIN",
+        "address_present": "HARIPUR,PABA,RAJSHAHI",
+        "address_permanent": "HARIPUR,PABA,RAJSHAHI",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1423.png"
+    },
+    {
         "id": "1426",
         "image": "https://www.rajshahijobs.com/images/users/1426_1724564559.png",
         "name": "Redowan Ahmed",
@@ -9469,5 +9480,71 @@
         "job_experiences": "1 Year",
         "experience_details": "Human Rights Defender -7months project \r\nGram Bikash Kendra(Communuty Nutrition and Heath Promoter) 3months work experts",
         "local_image_path": "images/1618.png"
+    },
+    {
+        "id": "1621",
+        "image": "https://www.rajshahijobs.com/images/users/1621_1725078774.png",
+        "name": "Fahad Rashid",
+        "address_present": "Sagorpara, Khan Tower (Prime Housing), Rajshahi",
+        "address_permanent": "Radhanagur Maktabpara, Pabna sadar",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "Learning UI/UX design and Wordpress.",
+        "local_image_path": "images/1621.png"
+    },
+    {
+        "id": "1623",
+        "image": "https://www.rajshahijobs.com/images/users/1623_1725081001.png",
+        "name": "Md. Mehedi Hasan",
+        "address_present": "Rajshahi",
+        "address_permanent": "Kalma,Tanore",
+        "last_education": "BA (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "sales executive, home tutor",
+        "local_image_path": "images/1623.png"
+    },
+    {
+        "id": "1625",
+        "image": "https://www.rajshahijobs.com/images/users/1625_1725092787.png",
+        "name": "Mahmudur Rahman",
+        "address_present": "Terokhadiya,Rajshahi",
+        "address_permanent": "Terokhadiya Rajshahi",
+        "last_education": "BBA (2026)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1625.png"
+    },
+    {
+        "id": "1629",
+        "image": "https://www.rajshahijobs.com/images/users/1629_1725100850.png",
+        "name": "Rifat Alamin",
+        "address_present": "Baliapukur , Rajshahi",
+        "address_permanent": "Bonbelghoria Bypass , Natore",
+        "last_education": "MBA (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1629.png"
+    },
+    {
+        "id": "1631",
+        "image": "https://www.rajshahijobs.com/images/users/1631_1725102810.png",
+        "name": "MD Hossain",
+        "address_present": "Rajshahi main city",
+        "address_permanent": "Rajshahi main city",
+        "last_education": "Diploma (Comm) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "Computer Engineering \u09b6\u09c7\u09b7 \u0995\u09b0\u09b2\u09be\u09ae\u0964 2-3 \u099f\u09be \u099c\u09ac \u0995\u09b0\u099b\u09bf\u0964 \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u098f\u09b0 \u0995\u09be\u099c \u09b8\u09b9 \u098f\u09ae\u09a8\u09bf \u09af\u09c7 \u0995\u09cb\u09a8\u09cb \u0995\u09be\u099c \u09aa\u09be\u09b0\u09ac\u09cb\u0964",
+        "local_image_path": "images/1631.png"
+    },
+    {
+        "id": "1633",
+        "image": "https://www.rajshahijobs.com/images/users/1633_1725104820.png",
+        "name": "Most.Rejia Sultana",
+        "address_present": "Sujanogor uttarpara,Sopura,Boalia , Rajshahi",
+        "address_permanent": "Sujanogor uttarpara,Sopura,Boalia , Rajshahi",
+        "last_education": "BSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "Tuition",
+        "local_image_path": "images/1633.png"
     }
 ]
