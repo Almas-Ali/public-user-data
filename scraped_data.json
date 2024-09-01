@@ -4950,6 +4950,17 @@
         "local_image_path": "images/825.png"
     },
     {
+        "id": "826",
+        "image": "https://www.rajshahijobs.com/images/users/826_1725129381.png",
+        "name": "Muniya Moon",
+        "address_present": "Naogaon",
+        "address_permanent": "Rajshahi",
+        "last_education": "Honors (2)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/826.png"
+    },
+    {
         "id": "827",
         "image": "https://www.rajshahijobs.com/images/users/827_1720675199.png",
         "name": "MD Mohaimenul Islam",
@@ -9306,6 +9317,17 @@
         "local_image_path": "images/1580.png"
     },
     {
+        "id": "1582",
+        "image": "https://www.rajshahijobs.com/images/users/1582_1724918658.png",
+        "name": "Rokibul Islam",
+        "address_present": "323/1Meherchondi Moddhopara,chandrima,Rajshahi-6207",
+        "address_permanent": "Khulna, khalishpur, housing bazar, N-51",
+        "last_education": "BBA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1582.png"
+    },
+    {
         "id": "1583",
         "image": "https://www.rajshahijobs.com/images/users/1583_1724919765.png",
         "name": "Md. Shejan Kobir",
@@ -9537,6 +9559,17 @@
         "local_image_path": "images/1631.png"
     },
     {
+        "id": "1632",
+        "image": "https://www.rajshahijobs.com/images/users/1632_1725107161.png",
+        "name": "Md Kaosar Ali",
+        "address_present": "Vill:Kayra ; Post:Hatogdagari ; Thana : Poba ; Dristic : Rajshahi",
+        "address_permanent": "Vill:Kayra ; Post:Hatogdagari ; Thana : Poba ; Dristic : Rajshahi",
+        "last_education": "MSC (2021)",
+        "job_experiences": "1 Year",
+        "experience_details": "I taught at The Light Coaching Center for one year in coaching. I used to teach Maths English Biology Science .",
+        "local_image_path": "images/1632.png"
+    },
+    {
         "id": "1633",
         "image": "https://www.rajshahijobs.com/images/users/1633_1725104820.png",
         "name": "Most.Rejia Sultana",
@@ -9546,5 +9579,49 @@
         "job_experiences": "Fresher",
         "experience_details": "Tuition",
         "local_image_path": "images/1633.png"
+    },
+    {
+        "id": "1636",
+        "image": "https://www.rajshahijobs.com/images/users/1636_1725116097.png",
+        "name": "Md. Omar Faruque",
+        "address_present": "Adhorso Thanapara,Gobindaganj Gaibandha",
+        "address_permanent": "Jaharpur,Kansat, Shibganj Chapainawabganj",
+        "last_education": "BA (2020)",
+        "job_experiences": "6 Years",
+        "experience_details": "Company Name\t\t: The Acme Laboratories Limited.\r\nDuration\t\t\t: 7th July 2015 To 30th August 2016.\r\nPosition\t\t\t: Sales Representative.\r\n>>>>>Company Name\t\t: Compugates International(BD) L.T.D\r\nDuration\t\t\t: 1st October 2016 To 30th April 2019.\r\nPosition\t\t\t: Executive Accounts & Inventory .\r\n>>>>>>Company Name\t\t: Finex Distribution Limited.\r\nDuration\t\t\t: 1st August2019 To Continue.\r\nPosition\t\t\t: Senior Executive Accounts & Inventory .\r\nDepartment\t\t\t: Sales.\r\nLocation                                : Gobindaganj.\r\nMajor Responsibilities\t\t:\r\n\uf0d8\tDaily Leave and Attendance Record Keeping.\r\n\uf0d8\tDaily petty cash maintains and reconcile and approved by Management.\r\n\uf0d8\tData posting, data verify and preparing the vouchers.\r\n\uf0d8\tMaintain cash book.\r\n\uf0d8\tMaintain Stock.\r\n\uf0d8\tDaily Sales & Stock Mail To H O.",
+        "local_image_path": "images/1636.png"
+    },
+    {
+        "id": "1637",
+        "image": "https://www.rajshahijobs.com/images/users/1637_1725122233.png",
+        "name": "Most Shila Khatun",
+        "address_present": "Shantipur, Bagmara, Rajshahi",
+        "address_permanent": "Shantipur, Bagmara, Rajshahi",
+        "last_education": "HSC (2024)",
+        "job_experiences": "6 Months",
+        "experience_details": "Recovery IT, Customer Relationship Officer, 6 month.",
+        "local_image_path": "images/1637.png"
+    },
+    {
+        "id": "1638",
+        "image": "https://www.rajshahijobs.com/images/users/1638_1725122173.png",
+        "name": "MD ROBIUL AWAL",
+        "address_present": "Rani Nogar, Rajabari Hat, Godagari, Rajshahi",
+        "address_permanent": "Rani Nogar, Rajabari Hat, Godagari, Rajshahi",
+        "last_education": "BBA (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experience",
+        "local_image_path": "images/1638.png"
+    },
+    {
+        "id": "1645",
+        "image": "https://www.rajshahijobs.com/images/users/1645_1725132319.png",
+        "name": "Asif Anjum Akash",
+        "address_present": "Chotobongram, Chandrima, Sopura, Rajshahi",
+        "address_permanent": "Same",
+        "last_education": "MBA (2021)",
+        "job_experiences": "6 Years",
+        "experience_details": "Total 6 years of job experience. Right now i am working as a sales person in Asian Paints Bangladesh.",
+        "local_image_path": "images/1645.png"
     }
 ]
