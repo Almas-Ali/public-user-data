@@ -9711,5 +9711,38 @@
         "job_experiences": "3 Months",
         "experience_details": "RFL Group, DPL section",
         "local_image_path": "images/1658.png"
+    },
+    {
+        "id": "1660",
+        "image": "https://www.rajshahijobs.com/images/users/1660_1725194335.png",
+        "name": "Md Shakil Ahmed",
+        "address_present": "Chapai nawabganj, shibgonj",
+        "address_permanent": "\u09e9 \u09a8\u0982 \u09a6\u09be\u09af\u09bc \u09aa\u09c1\u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09a8, \u099a\u09be\u0995\u09b2\u09be",
+        "last_education": "HSC (2024)",
+        "job_experiences": "3 Months",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1660.png"
+    },
+    {
+        "id": "1663",
+        "image": "https://www.rajshahijobs.com/images/users/1663_1725203179.png",
+        "name": "MD. ABDUL AHAD",
+        "address_present": "Kansat, shibganj, chapai nawabganj",
+        "address_permanent": "Shibganj, chapai nawabganj",
+        "last_education": "Diploma (Comm) (2021)",
+        "job_experiences": "1 Year",
+        "experience_details": "Diploma medical officer (DMF)\r\n250 baded general hospital tangail",
+        "local_image_path": "images/1663.png"
+    },
+    {
+        "id": "1665",
+        "image": "https://www.rajshahijobs.com/images/users/1665_1725210172.png",
+        "name": "Md. Imtiaz Ahsan",
+        "address_present": "Bahrampur, Rajpara,GPO -6000, Rajshahi",
+        "address_permanent": "Holdi, Mohanpur,Rajshahi",
+        "last_education": "MBA (2019)",
+        "job_experiences": "5 Years",
+        "experience_details": "1.Al- Aksha Developers (Pvt).Ltd.Rajshahi.\r\nExperience as Sales & Marketing executive\r\n 17Sep 2018\u201331Jul 2021\r\n\r\n2. Green Plaza Real Estate Company Ltd.Rajshahi\r\nExperiance as Senior Marketing Executive\r\n1Aug 2021- 11Jun 2024",
+        "local_image_path": "images/1665.png"
     }
 ]
