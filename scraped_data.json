@@ -6,7 +6,7 @@
         "address_present": "Rajshahi",
         "address_permanent": "Rajshahi",
         "last_education": "MBA (2005)",
-        "job_experiences": "10 Years",
+        "job_experiences": "10 Years+",
         "experience_details": "20 Years experiences on web development",
         "local_image_path": "images/1.png"
     },
@@ -4983,6 +4983,17 @@
         "local_image_path": "images/828.png"
     },
     {
+        "id": "829",
+        "image": "https://www.rajshahijobs.com/images/users/829_1720685981.png",
+        "name": "Jubayer Ahmmed Raj",
+        "address_present": "Kajla, Rajshahi",
+        "address_permanent": "Alalpur, Manda, Noagaon",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "Tution (6 month)\r\nOffice staf for 3 month,  Frozen Tec",
+        "local_image_path": "images/829.png"
+    },
+    {
         "id": "831",
         "image": "https://www.rajshahijobs.com/images/users/831_1722071621.png",
         "name": "Roni Mandol",
@@ -9744,5 +9755,49 @@
         "job_experiences": "5 Years",
         "experience_details": "1.Al- Aksha Developers (Pvt).Ltd.Rajshahi.\r\nExperience as Sales & Marketing executive\r\n 17Sep 2018\u201331Jul 2021\r\n\r\n2. Green Plaza Real Estate Company Ltd.Rajshahi\r\nExperiance as Senior Marketing Executive\r\n1Aug 2021- 11Jun 2024",
         "local_image_path": "images/1665.png"
+    },
+    {
+        "id": "1670",
+        "image": "https://www.rajshahijobs.com/images/users/1670_1725253868.png",
+        "name": "Md:Abdul Ahad Sabbir",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "MBA (1)",
+        "job_experiences": "3 Months",
+        "experience_details": "Prana company, Sale Manager",
+        "local_image_path": "images/1670.png"
+    },
+    {
+        "id": "1674",
+        "image": "https://www.rajshahijobs.com/images/users/1674_1725273171.png",
+        "name": "Shohidullah Kaisir Saikat",
+        "address_present": "Rajshahi",
+        "address_permanent": "Sirajganj",
+        "last_education": "MA (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1674.png"
+    },
+    {
+        "id": "1676",
+        "image": "https://www.rajshahijobs.com/images/users/1676_1725272719.png",
+        "name": "Tanvir Chowdhury Rishad",
+        "address_present": "Mohisbatan court rajshahi",
+        "address_permanent": "52 holding number salbagan professorpara Rajshahi",
+        "last_education": "BBA (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "LG butterfly sales and credit",
+        "local_image_path": "images/1676.png"
+    },
+    {
+        "id": "1678",
+        "image": "https://www.rajshahijobs.com/images/users/1678_1725277064.png",
+        "name": "Md Tanjim Ahommed",
+        "address_present": "Baroghoriga, chapai Nawabganj",
+        "address_permanent": "Bagatipara, natore",
+        "last_education": "SSC Vocational (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1678.png"
     }
 ]
