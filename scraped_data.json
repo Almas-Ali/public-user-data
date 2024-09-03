@@ -9799,5 +9799,60 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1678.png"
+    },
+    {
+        "id": "1681",
+        "image": "https://www.rajshahijobs.com/images/users/1681_1725292100.png",
+        "name": "Md. Shawon Hasan",
+        "address_present": "Raninagar Bazar Naogaon Rajshahi",
+        "address_permanent": "Raninagar Naogaon Rajshahi",
+        "last_education": "BA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1681.png"
+    },
+    {
+        "id": "1683",
+        "image": "https://www.rajshahijobs.com/images/users/1683_1725296078.png",
+        "name": "Nasir Uddin",
+        "address_present": "Sirajganj Ullapara solanga thana",
+        "address_permanent": "Sirajganj",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1683.png"
+    },
+    {
+        "id": "1684",
+        "image": "https://www.rajshahijobs.com/images/users/1684_1725296521.png",
+        "name": "Md Tahasim Islam Niloy",
+        "address_present": "Lalpur, Natore",
+        "address_permanent": "Lalpur,Natore",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1684.png"
+    },
+    {
+        "id": "1685",
+        "image": "https://www.rajshahijobs.com/images/users/1685_1725300771.png",
+        "name": "Md Juwel Islam",
+        "address_present": "Talaimary Kazla, Motihar, Rajshahi",
+        "address_permanent": "Talaimary Kazla, Motihar, Rajshahi",
+        "last_education": "Honors (2020)",
+        "job_experiences": "6 Months",
+        "experience_details": "Medical Representatives",
+        "local_image_path": "images/1685.png"
+    },
+    {
+        "id": "1686",
+        "image": "https://www.rajshahijobs.com/images/users/1686_1725311337.png",
+        "name": "Md Sefat- ul Islam",
+        "address_present": "129/A, Horogram purbo para,kashiadanga,  Rajshahi",
+        "address_permanent": "271,Belepukur, Chapai Nawabganj",
+        "last_education": "HSC (2012)",
+        "job_experiences": "8 Years",
+        "experience_details": "2 years it technician in Source and Service\r\n7 Years experience in IT service in Rapid Action Battalion-5(RAB-5), Rajshahi.",
+        "local_image_path": "images/1686.png"
     }
 ]
