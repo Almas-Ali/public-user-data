@@ -9196,6 +9196,17 @@
         "local_image_path": "images/1552.png"
     },
     {
+        "id": "1555",
+        "image": "https://www.rajshahijobs.com/images/users/1555_1725355998.png",
+        "name": "Md.Eyasin Arafat",
+        "address_present": "Motiabil paba,Rajshahi",
+        "address_permanent": "Motiabil paba,Rajshahi",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "Computer office application course er opury certificate ace 6 month er \r\nTa charau droopshiping, net browsing etc nijesso laptop ace. 6 month construction site e bastob kag er oviggota ace. Ami asabadi apnader ae Company  te ami khub vlo kag korbo.",
+        "local_image_path": "images/1555.png"
+    },
+    {
         "id": "1557",
         "image": "https://www.rajshahijobs.com/images/users/1557_1724840262.png",
         "name": "MST. Farzana Boby Tonny",
@@ -9854,5 +9865,82 @@
         "job_experiences": "8 Years",
         "experience_details": "2 years it technician in Source and Service\r\n7 Years experience in IT service in Rapid Action Battalion-5(RAB-5), Rajshahi.",
         "local_image_path": "images/1686.png"
+    },
+    {
+        "id": "1687",
+        "image": "https://www.rajshahijobs.com/images/users/1687_1725344534.png",
+        "name": "Md kibria Hossain Apple",
+        "address_present": "Kazla, Rajshahi",
+        "address_permanent": "Dinajpur Sadar, Dinajpur",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No",
+        "local_image_path": "images/1687.png"
+    },
+    {
+        "id": "1691",
+        "image": "https://www.rajshahijobs.com/images/users/1691_1725338820.png",
+        "name": "MD. IBE-SAD RAFI",
+        "address_present": "GODAGARI, RAJSHAHI",
+        "address_permanent": "GODAGARI, RAJSHAHI",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1691.png"
+    },
+    {
+        "id": "1692",
+        "image": "https://www.rajshahijobs.com/images/users/1692_1725339922.png",
+        "name": "Jakia",
+        "address_present": "Chokdebpara Naogaon",
+        "address_permanent": "Bodla,Bilkrisnapur,Raninagor, Naogaon",
+        "last_education": "HSC (2018)",
+        "job_experiences": "2 Years",
+        "experience_details": "Home tutorial 2year",
+        "local_image_path": "images/1692.png"
+    },
+    {
+        "id": "1693",
+        "image": "https://www.rajshahijobs.com/images/users/1693_1725340717.png",
+        "name": "Md.Shohanur Rahman",
+        "address_present": "Mortuza pur,khajur,mohadeb pur,naogaon,Rajshahi",
+        "address_permanent": "Mortuza pur,khajur,mohadeb pur,naogaon,Rajshahi",
+        "last_education": "HSC (2013)",
+        "job_experiences": "3 Years",
+        "experience_details": "Company name :PRAN-RFL\r\nPost name :Representative\r\nExperience:3 years",
+        "local_image_path": "images/1693.png"
+    },
+    {
+        "id": "1694",
+        "image": "https://www.rajshahijobs.com/images/users/1694_1725341911.png",
+        "name": "Nilanjoy Roy",
+        "address_present": "Kumarpara, Rajshshi",
+        "address_permanent": "Kanaikhali, Natore",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1694.png"
+    },
+    {
+        "id": "1698",
+        "image": "https://www.rajshahijobs.com/images/users/1698_1725355218.png",
+        "name": "Ritom poddar",
+        "address_present": "0227 lalbazar natore (6400)",
+        "address_permanent": "0227 lalbazar natore (6400)",
+        "last_education": "BBA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1698.png"
+    },
+    {
+        "id": "1702",
+        "image": "https://www.rajshahijobs.com/images/users/1702_1725364939.png",
+        "name": "Sajid Khan",
+        "address_present": "Rajshahi , seroil mothpukur",
+        "address_permanent": "Rajshahi , seroil mothpukur",
+        "last_education": "HSC (2022)",
+        "job_experiences": "3 Years",
+        "experience_details": "3yr Experience as a home tutor",
+        "local_image_path": "images/1702.png"
     }
 ]
