@@ -9328,6 +9328,17 @@
         "local_image_path": "images/1574.png"
     },
     {
+        "id": "1577",
+        "image": "https://www.rajshahijobs.com/images/users/1577_1724874562.png",
+        "name": "Fatema Akter",
+        "address_present": "Meherchondi, Rajshahi",
+        "address_permanent": "Meherchondi, Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experience",
+        "local_image_path": "images/1577.png"
+    },
+    {
         "id": "1579",
         "image": "https://www.rajshahijobs.com/images/users/1579_1724904766.png",
         "name": "Abdullah Al Nobel",
@@ -9942,5 +9953,16 @@
         "job_experiences": "3 Years",
         "experience_details": "3yr Experience as a home tutor",
         "local_image_path": "images/1702.png"
+    },
+    {
+        "id": "1703",
+        "image": "https://www.rajshahijobs.com/images/users/1703_1725378992.png",
+        "name": "Md. Shariful Islam",
+        "address_present": "Taherpur,Bagmara,Rajshahi",
+        "address_permanent": "Taherpur,Bagmara,Rajshahi",
+        "last_education": "BSC (2024)",
+        "job_experiences": "2 Years",
+        "experience_details": "Mesh Technology ltd., Project Engineer,",
+        "local_image_path": "images/1703.png"
     }
 ]
