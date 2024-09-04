@@ -6754,6 +6754,17 @@
         "local_image_path": "images/1108.png"
     },
     {
+        "id": "1110",
+        "image": "https://www.rajshahijobs.com/images/users/1110_1723825525.png",
+        "name": "Faozul Azim",
+        "address_present": "Vatapara,Kajihata, Rajshahi.",
+        "address_permanent": "Nithpur, Porsha, Naogaon.",
+        "last_education": "MA (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1110.png"
+    },
+    {
         "id": "1112",
         "image": "https://www.rajshahijobs.com/images/users/1112_1723827314.png",
         "name": "MD.Mostafizur Rahman",
@@ -9964,5 +9975,60 @@
         "job_experiences": "2 Years",
         "experience_details": "Mesh Technology ltd., Project Engineer,",
         "local_image_path": "images/1703.png"
+    },
+    {
+        "id": "1707",
+        "image": "https://www.rajshahijobs.com/images/users/1707_1725432450.png",
+        "name": "Sumaiya  Yasmin",
+        "address_present": "Rajshahi, City clg mor, Hetam kha Rajshahi",
+        "address_permanent": "Rajshahi,City clg mor, Hetam kha Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "Coaching Centre marketing",
+        "local_image_path": "images/1707.png"
+    },
+    {
+        "id": "1708",
+        "image": "https://www.rajshahijobs.com/images/users/1708_1725433580.png",
+        "name": "Bokul Khatun",
+        "address_present": "Cotobongram rajshahi",
+        "address_permanent": "Tanore rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1708.png"
+    },
+    {
+        "id": "1713",
+        "image": "https://www.rajshahijobs.com/images/users/1713_1725447758.png",
+        "name": "Ashraful Karim",
+        "address_present": "Rajshahi.",
+        "address_permanent": "Rajshahi",
+        "last_education": "MBA (2024)",
+        "job_experiences": "2 Years",
+        "experience_details": "Rajshahi HUB Manager at RedX Logistics Ltd. for 2 years. My duty was to maintain the supply chain of parcels to customers from merchants. I also had a team of 35 delivery riders.",
+        "local_image_path": "images/1713.png"
+    },
+    {
+        "id": "1716",
+        "image": "https://www.rajshahijobs.com/images/users/1716_1725448445.png",
+        "name": "MD. ASHRAFUL ISLAM",
+        "address_present": "Postal Training Centre, Shree Rampur, Boalia, Rajshahi -6000",
+        "address_permanent": "Postal Training Centre, Shree Rampur, Boalia, Rajshahi -6000",
+        "last_education": "MSS (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1716.png"
+    },
+    {
+        "id": "1721",
+        "image": "https://www.rajshahijobs.com/images/users/1721_1725450220.png",
+        "name": "Tusher Mozumder",
+        "address_present": "Terakhadia ,Rajpara , Rajshahi",
+        "address_permanent": "Terakhadia ,Rajpara , Rajshahi",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1721.png"
     }
 ]
