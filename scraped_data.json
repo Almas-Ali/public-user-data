@@ -10404,5 +10404,71 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1789.png"
+    },
+    {
+        "id": "1794",
+        "image": "https://www.rajshahijobs.com/images/users/1794_1725503708.png",
+        "name": "Md. Takbir Hossen",
+        "address_present": "Kadirganj, Rajshahi",
+        "address_permanent": "Kadirganj, Rajshahi",
+        "last_education": "HSC (2018)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1794.png"
+    },
+    {
+        "id": "1796",
+        "image": "https://www.rajshahijobs.com/images/users/1796_1725513395.png",
+        "name": "MD Shabbir Hossain",
+        "address_present": "Daspukur, G.P.O-600, Rajpara , Rajshahi",
+        "address_permanent": "Dorgapara, Boalia, Rajshahi",
+        "last_education": "BA (2024)",
+        "job_experiences": "4 Years",
+        "experience_details": "Cafe I computer and Institute of technology- trainer - 4 year \r\nDepartment of public health engineering - Computer operator - 4 months \r\n\r\nPizza tong- receptionist + management - 4 months",
+        "local_image_path": "images/1796.png"
+    },
+    {
+        "id": "1807",
+        "image": "https://www.rajshahijobs.com/images/users/1807_1725537032.png",
+        "name": "Md.Jisan Ali",
+        "address_present": "Vill:kolar tikor,Thana:paba,Dis:Rajshahi",
+        "address_permanent": "Vill:kolar tikor,Thana:paba,Dis:Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1807.png"
+    },
+    {
+        "id": "1808",
+        "image": "https://www.rajshahijobs.com/images/users/1808_1725537134.png",
+        "name": "Md hridoy",
+        "address_present": "Sagorpara Rajshahi",
+        "address_permanent": "Sagorpara Rajshahi",
+        "last_education": "HSC Vocational (2020)",
+        "job_experiences": "7 Years",
+        "experience_details": "Salsman",
+        "local_image_path": "images/1808.png"
+    },
+    {
+        "id": "1810",
+        "image": "https://www.rajshahijobs.com/images/users/1810_1725538393.png",
+        "name": "Umme Kulsum",
+        "address_present": "Natore",
+        "address_permanent": "Natore",
+        "last_education": "HSC (2017)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1810.png"
+    },
+    {
+        "id": "1811",
+        "image": "https://www.rajshahijobs.com/images/users/1811_1725538400.png",
+        "name": "MD SAMIUL ISLAM",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1811.png"
     }
 ]
