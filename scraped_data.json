@@ -2316,7 +2316,7 @@
         "address_present": "Narayonpur,Durgapur, Rajshahi",
         "address_permanent": "Narayonpur,Durgapur, Rajshahi",
         "last_education": "BA (2021)",
-        "job_experiences": "1 Year",
+        "job_experiences": "2 Years",
         "experience_details": "Assistant Teacher at Holy Flower Model School",
         "local_image_path": "images/351.png"
     },
@@ -9625,6 +9625,17 @@
         "local_image_path": "images/1625.png"
     },
     {
+        "id": "1628",
+        "image": "https://www.rajshahijobs.com/images/users/1628_1725559696.png",
+        "name": "Farzana Boby",
+        "address_present": "Taposhi Rabeya Hall, Rajshahi University",
+        "address_permanent": "Village :Hamidpur, Post Office :Mirat, Upazila :Raninagar,District :Naogaon",
+        "last_education": "Honors (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1628.png"
+    },
+    {
         "id": "1629",
         "image": "https://www.rajshahijobs.com/images/users/1629_1725100850.png",
         "name": "Rifat Alamin",
@@ -9953,6 +9964,17 @@
         "job_experiences": "Fresher",
         "experience_details": "No",
         "local_image_path": "images/1687.png"
+    },
+    {
+        "id": "1689",
+        "image": "https://www.rajshahijobs.com/images/users/1689_1725539711.png",
+        "name": "MD. Sazedur Rahman",
+        "address_present": "Vill : Musroil, P.S : Chandrima, P.O : Kharkhari, Dist : Rajshahi",
+        "address_permanent": "Vill : Musroil, P.S : Chandrima, P.O : Kharkhari, Dist : Rajshahi",
+        "last_education": "Diploma (Eng) (2012)",
+        "job_experiences": "7 Years",
+        "experience_details": "I haved worked as a Sub Assistant Engineer of Logos Apparels Ltd at Gazipur Dhaka.",
+        "local_image_path": "images/1689.png"
     },
     {
         "id": "1691",
@@ -10450,6 +10472,17 @@
         "local_image_path": "images/1808.png"
     },
     {
+        "id": "1809",
+        "image": "https://www.rajshahijobs.com/images/users/1809_1725537861.png",
+        "name": "Shohanur Rahman",
+        "address_present": "Sikdari,Bagmara,Rajshahi",
+        "address_permanent": "Sikdari,Bagmara,Rajshahi",
+        "last_education": "BSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1809.png"
+    },
+    {
         "id": "1810",
         "image": "https://www.rajshahijobs.com/images/users/1810_1725538393.png",
         "name": "Umme Kulsum",
@@ -10470,5 +10503,115 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1811.png"
+    },
+    {
+        "id": "1813",
+        "image": "https://www.rajshahijobs.com/images/users/1813_1725541206.png",
+        "name": "Bulbul Ahmed",
+        "address_present": "Rajshahi.Darusha Uttorloxmipur",
+        "address_permanent": "Rajshahi.Darusha Uttorloxmipur",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1813.png"
+    },
+    {
+        "id": "1815",
+        "image": "https://www.rajshahijobs.com/images/users/1815_1725544251.png",
+        "name": "Syed Samiul Islam",
+        "address_present": "Hossenigonj , Rajshahi",
+        "address_permanent": "Hossenigonj , Rajshahi",
+        "last_education": "MSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1815.png"
+    },
+    {
+        "id": "1818",
+        "image": "https://www.rajshahijobs.com/images/users/1818_1725546136.png",
+        "name": "Sushmoy Adhikary",
+        "address_present": "577,Ramchandrapur,Bashar Road,Rajshahi",
+        "address_permanent": "Sadhonpur,Puthia,Rajshahi",
+        "last_education": "Honors (2020)",
+        "job_experiences": "3 Months",
+        "experience_details": "Sales Executive at Aarong Rajshahi",
+        "local_image_path": "images/1818.png"
+    },
+    {
+        "id": "1820",
+        "image": "https://www.rajshahijobs.com/images/users/1820_1725547974.png",
+        "name": "Muhammad Sabbir",
+        "address_present": "Bosontopur,Godagari,Rajshahi",
+        "address_permanent": "Bosontopur,Godagari,Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1820.png"
+    },
+    {
+        "id": "1821",
+        "image": "https://www.rajshahijobs.com/images/users/1821_1725550744.png",
+        "name": "Amanullah",
+        "address_present": "Rajshahi,boalia 6000,kadirganj",
+        "address_permanent": "Rajshahi,boalia 6000,kadirganj",
+        "last_education": "Diploma (Comm) (2022)",
+        "job_experiences": "3 Years",
+        "experience_details": "Shako international (japanese buying house)",
+        "local_image_path": "images/1821.png"
+    },
+    {
+        "id": "1822",
+        "image": "https://www.rajshahijobs.com/images/users/1822_1725553069.png",
+        "name": "Md Alif Hasan",
+        "address_present": "Talaimari shahid minar, Rajshahi",
+        "address_permanent": "Ullapara, Sirajganj",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1822.png"
+    },
+    {
+        "id": "1825",
+        "image": "https://www.rajshahijobs.com/images/users/1825_1725555352.png",
+        "name": "Shishir Kumar",
+        "address_present": "Village. Khayera, Post. Hat Madnagor, Bagmara, Rajshahi.",
+        "address_permanent": "Village. Khayera, Post. Hat Madnagor, Bagmara, Rajshahi.",
+        "last_education": "BSC (2018)",
+        "job_experiences": "7 Years",
+        "experience_details": "SHISHIR KUMAR\r\nSales Supervisor & Business Support Officer\r\n\r\nWith over seven years of experience at Sizan Enterprise, I have honed my expertise in sales management and business operations, holding key positions as a Sales Supervisor and Business Support Officer. My tenure at Sizan Enterprise is marked by a strong track record of driving growth, streamlining processes, and leading teams to exceed targets.\r\n\r\nSales Supervisor (June 2021 - June 2024):\r\nIn my role as Sales Supervisor, I successfully led a team of sales professionals, developing and implementing strategic plans that resulted in significant revenue growth. My responsibilities included analyzing market trends, training and mentoring team members, and fostering a collaborative environment to achieve company objectives. My ability to align sales strategies with business goals played a crucial role in the overall success of the organization.\r\n\r\nBusiness Support Officer (March 2017 - May 2021):\r\nAs a Business Support Officer, I focused on enhancing operational efficiency and ensuring seamless coordination across various departments. I managed resources, optimized business processes, and provided critical support to the management team. My efforts contributed to the smooth functioning of the organization, enabling us to adapt quickly to market changes and maintain a competitive edge.\r\n\r\nThroughout my career at Sizan Enterprise, I have been recognized for my leadership skills, strategic thinking, and commitment to excellence. I am now seeking new opportunities to leverage my experience and contribute to the success of a forward-thinking organization.",
+        "local_image_path": "images/1825.png"
+    },
+    {
+        "id": "1826",
+        "image": "https://www.rajshahijobs.com/images/users/1826_1725555674.png",
+        "name": "Sosty",
+        "address_present": "Rajsahi.godagari.kakonhat.chatnipara",
+        "address_permanent": "Rajsahi.godagari.kakonhat.chatnipara",
+        "last_education": "SSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1826.png"
+    },
+    {
+        "id": "1827",
+        "image": "https://www.rajshahijobs.com/images/users/1827_1725557022.png",
+        "name": "Abul Hayat Shanto",
+        "address_present": "Rajshahi Baya bazar",
+        "address_permanent": "Rajshahi Baya bazar",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1827.png"
+    },
+    {
+        "id": "1830",
+        "image": "https://www.rajshahijobs.com/images/users/1830_1725561096.png",
+        "name": "Mahmud hasan",
+        "address_present": "vill: Belghoria. post: Shyempur. Thina: Katakhai. Dis: Rajshahi.",
+        "address_permanent": "vill: Belghoria. post: Shyempur. Thina: Katakhai. Dis: Rajshahi.",
+        "last_education": "HSC (2014)",
+        "job_experiences": "1 Year",
+        "experience_details": "\u09aa\u09cd\u09b0\u09be\u09a3 \u0986\u09b0 \u098f\u09ab \u098f\u09b2 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf \u09a4\u09c7 \u098f\u09b8 \u0986\u09b0 \u09aa\u09a6\u09c7\u0964",
+        "local_image_path": "images/1830.png"
     }
 ]
