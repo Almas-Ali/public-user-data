@@ -10613,5 +10613,82 @@
         "job_experiences": "1 Year",
         "experience_details": "\u09aa\u09cd\u09b0\u09be\u09a3 \u0986\u09b0 \u098f\u09ab \u098f\u09b2 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf \u09a4\u09c7 \u098f\u09b8 \u0986\u09b0 \u09aa\u09a6\u09c7\u0964",
         "local_image_path": "images/1830.png"
+    },
+    {
+        "id": "1835",
+        "image": "https://www.rajshahijobs.com/images/users/1835_1725590739.png",
+        "name": "Md Nayem Islam",
+        "address_present": "Charghat Rajshahi",
+        "address_permanent": "Charghat Rajshahi",
+        "last_education": "Honors (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "Marketing experiences 6 month",
+        "local_image_path": "images/1835.png"
+    },
+    {
+        "id": "1838",
+        "image": "https://www.rajshahijobs.com/images/users/1838_1725605756.png",
+        "name": "MD Muhaymin Islam",
+        "address_present": "Rajshahi bornali more",
+        "address_permanent": "Dakra, Charghat, Rajshahi",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1838.png"
+    },
+    {
+        "id": "1839",
+        "image": "https://www.rajshahijobs.com/images/users/1839_1725605547.png",
+        "name": "Masum Rana",
+        "address_present": "Village:Goali, Post:Shikarpur 6500, Upazilla/Thana:Naogaon Sadar,District :Naogaon",
+        "address_permanent": "Village:Goali, Post:Shikarpur 6500, Upazilla/Thana:Naogaon Sadar,District :Naogaon",
+        "last_education": "HSC (2014)",
+        "job_experiences": "2 Years",
+        "experience_details": "Akij Group,\r\nShed Supervisor,\r\nProduct Checking,\r\n2 Years.",
+        "local_image_path": "images/1839.png"
+    },
+    {
+        "id": "1841",
+        "image": "https://www.rajshahijobs.com/images/users/1841_1725613758.png",
+        "name": "M.M.Abdul Wakil",
+        "address_present": "24/6, Raypara, Rajshahi Court, Rajshahi",
+        "address_permanent": "24/6, Raypara, Rajshahi Court, Rajshahi",
+        "last_education": "BSC (2018)",
+        "job_experiences": "2 Years",
+        "experience_details": "Former Analyst at Taskeater, Former Executive at SEBPO MHK Ltd, Former Digital Marketing specialist at Contentgeni LLC",
+        "local_image_path": "images/1841.png"
+    },
+    {
+        "id": "1842",
+        "image": "https://www.rajshahijobs.com/images/users/1842_1725618277.png",
+        "name": "Maharin Haque",
+        "address_present": "Betpotti,Jadhughoremor,Rajshahi",
+        "address_permanent": "Kashunda,atrai,Naogaon",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1842.png"
+    },
+    {
+        "id": "1843",
+        "image": "https://www.rajshahijobs.com/images/users/1843_1725620239.png",
+        "name": "Nourin Haider Tarin",
+        "address_present": "Betpotti, Jadughor mor, Rajshahi",
+        "address_permanent": "Sujanagar,Pabna",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1843.png"
+    },
+    {
+        "id": "1844",
+        "image": "https://www.rajshahijobs.com/images/users/1844_1725619137.png",
+        "name": "Md. AL ROZEF",
+        "address_present": "Terokhadiya, Rajshahi Cantonment, Rajshahi",
+        "address_permanent": "Shibganj, Chapainawabganj",
+        "last_education": "BA (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "Teacher\r\nShaheen Cadet Coaching(2019-2023), Padma Coaching Center(2019-2022).\r\nManager\r\nShihab Physics",
+        "local_image_path": "images/1844.png"
     }
 ]
