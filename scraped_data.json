@@ -10153,6 +10153,17 @@
         "local_image_path": "images/1731.png"
     },
     {
+        "id": "1736",
+        "image": "https://www.rajshahijobs.com/images/users/1736_1725466448.png",
+        "name": "Raiyan Ahmed Khan",
+        "address_present": "Ghorashal, Palash, Narsingdi",
+        "address_permanent": "Ghorashal, Palash, Narsingdi",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1736.png"
+    },
+    {
         "id": "1738",
         "image": "https://www.rajshahijobs.com/images/users/1738_1725467101.png",
         "name": "BIPLOB SARKAR",
@@ -10261,6 +10272,17 @@
         "job_experiences": "3 Months",
         "experience_details": "Graphics designer",
         "local_image_path": "images/1756.png"
+    },
+    {
+        "id": "1757",
+        "image": "https://www.rajshahijobs.com/images/users/1757_1725468715.png",
+        "name": "Md Ariful Islam Arif",
+        "address_present": "Sagorpara  Rajshahi",
+        "address_permanent": "Sagor para, Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "3 Years",
+        "experience_details": "Resturent Manager,+ safe Ghoroni Ice cream and Fast food",
+        "local_image_path": "images/1757.png"
     },
     {
         "id": "1758",
@@ -10690,5 +10712,49 @@
         "job_experiences": "Fresher",
         "experience_details": "Teacher\r\nShaheen Cadet Coaching(2019-2023), Padma Coaching Center(2019-2022).\r\nManager\r\nShihab Physics",
         "local_image_path": "images/1844.png"
+    },
+    {
+        "id": "1846",
+        "image": "https://www.rajshahijobs.com/images/users/1846_1725628955.png",
+        "name": "Md Abdullah-Al-Mamun",
+        "address_present": "Baliapukur, Boalia, Rajshahi",
+        "address_permanent": "Mosra Para, Pakri, Godagari, Rajshahi",
+        "last_education": "BSC (2021)",
+        "job_experiences": "3 Years",
+        "experience_details": "As a Junior Executive in SEO at Skyranko since September 2021, I specialize in driving online visibility through comprehensive SEO strategies. With expertise in keyword research, on-page and off-page techniques, lead generation, and digital content creation, I focus on enhancing a company\u2019s digital presence. I have successfully implemented off-page strategies like HARO link-building, guest post outreach, and GMB citations, as well as on-page tactics including content publishing and article audits for affiliate marketing. I am seeking a challenging role where I can further utilize my skills in SEO strategy, affiliate marketing, and digital content management to achieve measurable success.",
+        "local_image_path": "images/1846.png"
+    },
+    {
+        "id": "1847",
+        "image": "https://www.rajshahijobs.com/images/users/1847_1725629704.png",
+        "name": "Fahmidun Nabi",
+        "address_present": "Opposite of Agrani School, Upor Vodra, Rajshahi",
+        "address_permanent": "House-08, Road-28, Block-D, Section-10, Mirpur, Dhaka-1216",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "Passed SSC and HSC from Cadet College. Tutored in ISSB coaching centres and Admission batch students",
+        "local_image_path": "images/1847.png"
+    },
+    {
+        "id": "1850",
+        "image": "https://www.rajshahijobs.com/images/users/1850_1725642379.png",
+        "name": "Sayedee hossain sadef",
+        "address_present": "Vill: Pathan pata, post:G.P.O- 6000, P.S: Boalia, District: Rajshahi.",
+        "address_permanent": "Vill: Pathan pata, post:G.P.O- 6000, P.S: Boalia, District: Rajshahi.",
+        "last_education": "SSC (2023)",
+        "job_experiences": "2 Years",
+        "experience_details": "Computer operator",
+        "local_image_path": "images/1850.png"
+    },
+    {
+        "id": "1851",
+        "image": "https://www.rajshahijobs.com/images/users/1851_1725646999.png",
+        "name": "Md Ruhul Islam",
+        "address_present": "Hoseniganj,Boalia thana, Rajshahi",
+        "address_permanent": "Durgapur upazila, Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "6month Tuition experiences",
+        "local_image_path": "images/1851.png"
     }
 ]
