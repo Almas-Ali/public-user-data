@@ -7326,6 +7326,17 @@
         "local_image_path": "images/1203.png"
     },
     {
+        "id": "1207",
+        "image": "https://www.rajshahijobs.com/images/users/1207_1725677121.png",
+        "name": "Risawat Azim Harun",
+        "address_present": "121, Horogam Nutun Para, City By pass Road, Rajpara,  Kashiadanga Rajshahi Court",
+        "address_permanent": "121, Horogam Nutun Para, City By pass Road, Rajpara,  Kashiadanga Rajshahi Court",
+        "last_education": "BBA (2017)",
+        "job_experiences": "2 Years",
+        "experience_details": "DGM ,Akij Takaful Life Insurance PLC (Akij group) , Rajshahi ,Running",
+        "local_image_path": "images/1207.png"
+    },
+    {
         "id": "1210",
         "image": "https://www.rajshahijobs.com/images/users/1210_1724140636.png",
         "name": "Mujahidul Islam",
@@ -10549,6 +10560,17 @@
         "local_image_path": "images/1815.png"
     },
     {
+        "id": "1816",
+        "image": "https://www.rajshahijobs.com/images/users/1816_1725689568.png",
+        "name": "Md.Khalid Hassan Ratul",
+        "address_present": "Pabna sodor",
+        "address_permanent": "Pabna sodor",
+        "last_education": "SSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1816.png"
+    },
+    {
         "id": "1818",
         "image": "https://www.rajshahijobs.com/images/users/1818_1725546136.png",
         "name": "Sushmoy Adhikary",
@@ -10756,5 +10778,38 @@
         "job_experiences": "Fresher",
         "experience_details": "6month Tuition experiences",
         "local_image_path": "images/1851.png"
+    },
+    {
+        "id": "1855",
+        "image": "https://www.rajshahijobs.com/images/users/1855_1725676685.png",
+        "name": "Md Istiak Ahmed",
+        "address_present": "Binodpur, Rajshahi",
+        "address_permanent": "Sujanagar, Pabna",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1855.png"
+    },
+    {
+        "id": "1856",
+        "image": "https://www.rajshahijobs.com/images/users/1856_1725684168.png",
+        "name": "MD MOSTAKIN AHMED SAWON",
+        "address_present": "Belpukuria-6271,Puthia, Rajshahi",
+        "address_permanent": "Belpukuria-6271, Puthia, Rajshahi",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "1 Year",
+        "experience_details": "Institution: PROYAS MANOBIK UNNOYON SOCIETY \r\nExperience: 1Year\r\nPost: Asistant Executive",
+        "local_image_path": "images/1856.png"
+    },
+    {
+        "id": "1861",
+        "image": "https://www.rajshahijobs.com/images/users/1861_1725699585.png",
+        "name": "SHAMSUZZUHA Joy",
+        "address_present": "Village: Soydpur (Bourkuri), Post.  Ramkura, Thana: Niamatpur",
+        "address_permanent": "Village: Soydpur (Bourkuri), Post.  Ramkura, Thana: Niamatpur",
+        "last_education": "HSC (2021)",
+        "job_experiences": "4 Years",
+        "experience_details": "\u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0 \u09aa\u09a6\u09c7 \u099b\u09bf\u09b2\u09be\u09ae\u0964 \u09b0\u09bf\u09ab\u09be\u09a4  \u099f\u09cd\u09b0\u09c7\u09a8\u09bf\u0982 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0\u09c7,  \u09a8\u09bf\u09df\u09be\u09ae\u09a4\u09aa\u09c1\u09b0, \u09a8\u0993\u0997\u09be\u0981\u0964",
+        "local_image_path": "images/1861.png"
     }
 ]
