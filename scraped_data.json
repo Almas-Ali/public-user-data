@@ -5855,11 +5855,11 @@
         "id": "969",
         "image": "https://www.rajshahijobs.com/images/users/969_1722252115.png",
         "name": "Md. Shamiul Shaikh Tusher",
-        "address_present": "Vill : Mothurdanga, P.O : Sopura-6203, P.S: Boalia, Dist: Rajshahi",
-        "address_permanent": "Shaheb Bazar, Ghoramara, Boalia, Rajshahi",
-        "last_education": "Diploma (Eng) (2023)",
-        "job_experiences": "Fresher",
-        "experience_details": "No experiences",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "1 Year",
+        "experience_details": "Computer Operator at Rajshahi City Computer (1 Years)",
         "local_image_path": "images/969.png"
     },
     {
@@ -10219,6 +10219,17 @@
         "local_image_path": "images/1743.png"
     },
     {
+        "id": "1744",
+        "image": "https://www.rajshahijobs.com/images/users/1744_1725749197.png",
+        "name": "Mobassir Ahmed",
+        "address_present": "Rajshahi, Kadam Shahar, Kakon Hat Road",
+        "address_permanent": "Rajshahi, Kadam Shahar, Kakon Hat Road",
+        "last_education": "BA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1744.png"
+    },
+    {
         "id": "1745",
         "image": "https://www.rajshahijobs.com/images/users/1745_1725467256.png",
         "name": "Mehedi Hasan Tarek",
@@ -10811,5 +10822,49 @@
         "job_experiences": "4 Years",
         "experience_details": "\u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0 \u09aa\u09a6\u09c7 \u099b\u09bf\u09b2\u09be\u09ae\u0964 \u09b0\u09bf\u09ab\u09be\u09a4  \u099f\u09cd\u09b0\u09c7\u09a8\u09bf\u0982 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0\u09c7,  \u09a8\u09bf\u09df\u09be\u09ae\u09a4\u09aa\u09c1\u09b0, \u09a8\u0993\u0997\u09be\u0981\u0964",
         "local_image_path": "images/1861.png"
+    },
+    {
+        "id": "1868",
+        "image": "https://www.rajshahijobs.com/images/users/1868_1725722420.png",
+        "name": "Abdullah Al Mamun",
+        "address_present": "Octor er mor, Talaimari",
+        "address_permanent": "Dhaka 1206",
+        "last_education": "MA (2022)",
+        "job_experiences": "2 Years",
+        "experience_details": "Senior Executive(Buisness Development) - Sinotech Limited - 1 Year\r\nAssistant Manager (Buisness Operations and Marketing) - Bhaiya Group of Industries - 1 Year",
+        "local_image_path": "images/1868.png"
+    },
+    {
+        "id": "1869",
+        "image": "https://www.rajshahijobs.com/images/users/1869_1725730998.png",
+        "name": "Jamiya Akter joty",
+        "address_present": "Godagari",
+        "address_permanent": "Kakonhat",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1869.png"
+    },
+    {
+        "id": "1870",
+        "image": "https://www.rajshahijobs.com/images/users/1870_1725735620.png",
+        "name": "Md Yousuf Ali",
+        "address_present": "Cholk para, Chandrima, Rajshahi",
+        "address_permanent": "Cholk para, Chandrima, Rajshahi",
+        "last_education": "HSC Vocational (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1870.png"
+    },
+    {
+        "id": "1872",
+        "image": "https://www.rajshahijobs.com/images/users/1872_1725757432.png",
+        "name": "Md Kawsar Ali",
+        "address_present": "Hetem kha,  Rajshahi",
+        "address_permanent": "Gomastapur, Chapainawabganj",
+        "last_education": "HSC (2020)",
+        "job_experiences": "6 Months",
+        "experience_details": "Security Guard",
+        "local_image_path": "images/1872.png"
     }
 ]
