@@ -10956,6 +10956,17 @@
         "local_image_path": "images/1880.png"
     },
     {
+        "id": "1882",
+        "image": "https://www.rajshahijobs.com/images/users/1882_1725878910.png",
+        "name": "Md Asaduzzaman",
+        "address_present": "Sopura Boalia Rajshahi",
+        "address_permanent": "Sopura Boalia Rajshahi",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1882.png"
+    },
+    {
         "id": "1885",
         "image": "https://www.rajshahijobs.com/images/users/1885_1725800552.png",
         "name": "Md. Rifat Alahi",
@@ -11031,5 +11042,38 @@
         "job_experiences": "3 Years",
         "experience_details": "Islami kilinic consultant at attendance (3 years)",
         "local_image_path": "images/1893.png"
+    },
+    {
+        "id": "1900",
+        "image": "https://www.rajshahijobs.com/images/users/1900_1725849410.png",
+        "name": "MD.BIPUL HOSSEN",
+        "address_present": "Kusumba,Manda,Naogaon",
+        "address_permanent": "Kusumba,Manda,Naogaon",
+        "last_education": "HSC (2016)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1900.png"
+    },
+    {
+        "id": "1905",
+        "image": "https://www.rajshahijobs.com/images/users/1905_1725868917.png",
+        "name": "Md. Atikur Rahaman",
+        "address_present": "Golabari, Durgapur",
+        "address_permanent": "Golabari, Durgapur",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "Computer office application ( 6 month training in computer)",
+        "local_image_path": "images/1905.png"
+    },
+    {
+        "id": "1907",
+        "image": "https://www.rajshahijobs.com/images/users/1907_1725874148.png",
+        "name": "Tsmzid Islsm Karib",
+        "address_present": "Bornali,Boalia,Rajshahi",
+        "address_permanent": "Karimpur,Kalai,Joypurhat",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1907.png"
     }
 ]
