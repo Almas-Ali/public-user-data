@@ -11119,5 +11119,27 @@
         "job_experiences": "2 Years",
         "experience_details": "Manager",
         "local_image_path": "images/1913.png"
+    },
+    {
+        "id": "1921",
+        "image": "https://www.rajshahijobs.com/images/users/1921_1725957870.png",
+        "name": "Md.Mohsin Manik",
+        "address_present": "Comilla",
+        "address_permanent": "Comilla",
+        "last_education": "SSC (2010)",
+        "job_experiences": "10 Years+",
+        "experience_details": "electric and electronics",
+        "local_image_path": "images/1921.png"
+    },
+    {
+        "id": "1923",
+        "image": "https://www.rajshahijobs.com/images/users/1923_1725960074.png",
+        "name": "Miftahul Jannat Joya",
+        "address_present": "Meherchondi,vodra,Rajshahi",
+        "address_permanent": "Tofirullah Hajir Tola,debinagar,Chapainawabganj",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1923.png"
     }
 ]
