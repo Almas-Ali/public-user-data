@@ -10406,6 +10406,17 @@
         "local_image_path": "images/1776.png"
     },
     {
+        "id": "1777",
+        "image": "https://www.rajshahijobs.com/images/users/1777_1725888073.png",
+        "name": "Md Durjoy Islam Bijoy",
+        "address_present": "\u09b8\u09cd\u09ac\u09b0\u09c1\u09aa\u09a8\u0997\u09b0,\u09aa\u09c1\u09a0\u09c0\u09af\u09bc\u09be, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u09b8\u09cd\u09ac\u09b0\u09c1\u09aa\u09a8\u0997\u09b0,\u09aa\u09c1\u09a0\u09c0\u09af\u09bc\u09be, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1777.png"
+    },
+    {
         "id": "1779",
         "image": "https://www.rajshahijobs.com/images/users/1779_1725475802.png",
         "name": "Ummee sabiha Tabassoom",
@@ -10846,6 +10857,17 @@
         "local_image_path": "images/1861.png"
     },
     {
+        "id": "1867",
+        "image": "https://www.rajshahijobs.com/images/users/1867_1725809968.png",
+        "name": "Md ahsan Habib",
+        "address_present": "Ranenagur, goramara, boalia,",
+        "address_permanent": "Ranenagur, goramara, boalia,",
+        "last_education": "BA (2009)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1867.png"
+    },
+    {
         "id": "1868",
         "image": "https://www.rajshahijobs.com/images/users/1868_1725722420.png",
         "name": "Abdullah Al Mamun",
@@ -11075,5 +11097,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1907.png"
+    },
+    {
+        "id": "1912",
+        "image": "https://www.rajshahijobs.com/images/users/1912_1725888429.png",
+        "name": "Samrat Zaman",
+        "address_present": "Alupotti",
+        "address_permanent": "Bagha",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "1 Year",
+        "experience_details": "CP Agent At Daraz Bangladesh",
+        "local_image_path": "images/1912.png"
+    },
+    {
+        "id": "1913",
+        "image": "https://www.rajshahijobs.com/images/users/1913_1725898956.png",
+        "name": "Md Riaz Mahamud",
+        "address_present": "Binodpur , Rajshahi",
+        "address_permanent": "Bankra, Charghat, Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "Manager",
+        "local_image_path": "images/1913.png"
     }
 ]
