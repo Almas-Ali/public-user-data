@@ -7404,7 +7404,7 @@
     },
     {
         "id": "1220",
-        "image": "https://www.rajshahijobs.com/images/users/1220_1724149034.png",
+        "image": "https://www.rajshahijobs.com/images/users/1220_1726037038.png",
         "name": "Filimon Hembram",
         "address_present": "Nimghutu, Damkurahat-6290, Rajshahi.",
         "address_permanent": "Nimghutu, Damkurahat-6290",
@@ -11078,7 +11078,7 @@
     },
     {
         "id": "1905",
-        "image": "https://www.rajshahijobs.com/images/users/1905_1725868917.png",
+        "image": "https://www.rajshahijobs.com/images/users/1905_1726044394.png",
         "name": "Md. Atikur Rahaman",
         "address_present": "Golabari, Durgapur",
         "address_permanent": "Golabari, Durgapur",
@@ -11163,5 +11163,49 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1929.png"
+    },
+    {
+        "id": "1933",
+        "image": "https://www.rajshahijobs.com/images/users/1933_1726020417.png",
+        "name": "Md. Rakibul Islam",
+        "address_present": "Vill:Khanthalbari, P.O:kamarbari, P.S:Bagmara, Dist:Rajshahi",
+        "address_permanent": "Vill:Khanthalbari, P.O:kamarbari, P.S:Bagmara, Dist:Rajshahi",
+        "last_education": "Diploma (Nursing) (2023)",
+        "job_experiences": "6 Months",
+        "experience_details": "I have 3 years training & 6 Month Internship in the Emergency Ward, Female Medicine Ward, Male Medicine Ward, Female Surgery Ward, Male Surgery Ward, Gynae Ward, Pediatric Ward, Surgery OT, Gynae OT, & EPI at 250 Bedded General Hospital Barguna, Bangladesh.",
+        "local_image_path": "images/1933.png"
+    },
+    {
+        "id": "1935",
+        "image": "https://www.rajshahijobs.com/images/users/1935_1726034371.png",
+        "name": "Shahrier Ahmed",
+        "address_present": "House No. 328; Kazihata, Rajpara; Rajshahi - 6000",
+        "address_permanent": "Rajshahi",
+        "last_education": "BA (2016)",
+        "job_experiences": "1 Year",
+        "experience_details": "Provide training to CHCP, HA, FA, FWA working at Upazila Health Complex in Dinajpur, Thakurgaon and Chittagong district. Arrange screening camp to test free VIA and CBE examinations between 30 to 60 aged married women. Improving VIA Centre, visiting various Community Clinic to social create awareness about cervical and breast cancer among Women\r\n\r\n\uf0fc\tDistrict Co-Ordinator\r\nNational Centre for Cervical and Breast Cancer Screening & Training.\r\nElectronic Data Tracking with Population Based Cervix and Breast Cancer Screening Programme.\r\nBangabandhu Sheikh Mujib Medical University.\r\nShahbag, Dhaka - 1000.",
+        "local_image_path": "images/1935.png"
+    },
+    {
+        "id": "1936",
+        "image": "https://www.rajshahijobs.com/images/users/1936_1726043849.png",
+        "name": "sumon ahmed",
+        "address_present": "Rajshahi",
+        "address_permanent": "pabna",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1936.png"
+    },
+    {
+        "id": "1939",
+        "image": "https://www.rajshahijobs.com/images/users/1939_1726055312.png",
+        "name": "Md Amirul islam",
+        "address_present": "Village.vaimara. post. Potajiya. Police st. Shahzadpur",
+        "address_permanent": "Pathan para police.boyaliya. GPO 6000",
+        "last_education": "HSC Vocational (2022)",
+        "job_experiences": "7 Years",
+        "experience_details": "Bismillah Group a selsman",
+        "local_image_path": "images/1939.png"
     }
 ]
