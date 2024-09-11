@@ -8839,8 +8839,8 @@
         "address_present": "Vill- Soipara, Upazilla- Mohanpur, Dis- Rajshahi",
         "address_permanent": "Vill- Soipara, Upazilla- Mohanpur, Dis- Rajshahi",
         "last_education": "HSC (2017)",
-        "job_experiences": "Fresher",
-        "experience_details": "No experiences",
+        "job_experiences": "2 Years",
+        "experience_details": "Post-Office assistant, Organisation-Mohanpur Computer training Institute- 23229.",
         "local_image_path": "images/1479.png"
     },
     {
@@ -11141,5 +11141,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1923.png"
+    },
+    {
+        "id": "1926",
+        "image": "https://www.rajshahijobs.com/images/users/1926_1725974620.png",
+        "name": "Md Rafiuzzaman",
+        "address_present": "Bordopur,Mainam,Manda",
+        "address_permanent": "Miyapur,Charghat",
+        "last_education": "Diploma (Comm) (2022)",
+        "job_experiences": "7 Years",
+        "experience_details": "Doreen Group -Office Assistant-Administration- 2 yr\r\nBeximco group -Admission Assistant- Administration -2 yr\r\nBengal Group -Madical Assistant -Administration -2 yr\r\nLab one hospital -Marking offcer-Selas & marking - 1 yr",
+        "local_image_path": "images/1926.png"
+    },
+    {
+        "id": "1929",
+        "image": "https://www.rajshahijobs.com/images/users/1929_1725986721.png",
+        "name": "Al amin",
+        "address_present": "1/1 kadirgonj Dorikhorbona, Ambagan, Rajshahi",
+        "address_permanent": "1/1 kadirgonj Dorikhorbona, Ambagan, Rajshahi",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1929.png"
     }
 ]
