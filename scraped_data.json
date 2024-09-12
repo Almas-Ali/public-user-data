@@ -11121,6 +11121,17 @@
         "local_image_path": "images/1913.png"
     },
     {
+        "id": "1917",
+        "image": "https://www.rajshahijobs.com/images/users/1917_1726057004.png",
+        "name": "MD.Rafat Hossain",
+        "address_present": "Kazihata,Rajshahi",
+        "address_permanent": "Jahunghirabad,Bogura",
+        "last_education": "HSC (2021)",
+        "job_experiences": "3 Months",
+        "experience_details": "1.Works as a Office Assistant in \"Jony Bangla\" Coaching centre. \r\n2.Works as a data entry operator for daraz seller named\"Dreams Fashion BD\"",
+        "local_image_path": "images/1917.png"
+    },
+    {
         "id": "1921",
         "image": "https://www.rajshahijobs.com/images/users/1921_1725957870.png",
         "name": "Md.Mohsin Manik",
@@ -11207,5 +11218,27 @@
         "job_experiences": "7 Years",
         "experience_details": "Bismillah Group a selsman",
         "local_image_path": "images/1939.png"
+    },
+    {
+        "id": "1941",
+        "image": "https://www.rajshahijobs.com/images/users/1941_1726060530.png",
+        "name": "Md torikul",
+        "address_present": "Terokhadiya uttorpara Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "BBA (2018)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1941.png"
+    },
+    {
+        "id": "1945",
+        "image": "https://www.rajshahijobs.com/images/users/1945_1726099200.png",
+        "name": "Naimur Rahman",
+        "address_present": "Boalia,Rajshahi",
+        "address_permanent": "Mohonpur,Rajshahi",
+        "last_education": "MBA (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1945.png"
     }
 ]
