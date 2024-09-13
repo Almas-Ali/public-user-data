@@ -11262,5 +11262,38 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1948.png"
+    },
+    {
+        "id": "1951",
+        "image": "https://www.rajshahijobs.com/images/users/1951_1726157466.png",
+        "name": "MD ARIF UDDIN",
+        "address_present": "My name: Md Arif Uddin,father's name: Md Kobir Ali,village: Babupur,Post Office: Babupur,Upazilla/P.S: shibganj,district: chapai nawabganj",
+        "address_permanent": "My name: Md Arif Uddin,father's name: Md Kobir Ali,village: Babupur,Post Office: Babupur,Upazilla/P.S: shibganj,district: chapai nawabganj",
+        "last_education": "BA (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1951.png"
+    },
+    {
+        "id": "1952",
+        "image": "https://www.rajshahijobs.com/images/users/1952_1726157446.png",
+        "name": "Sohag Ahmed",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "4 Years",
+        "experience_details": "Sels menegar marketing ucb bank upay job korechi",
+        "local_image_path": "images/1952.png"
+    },
+    {
+        "id": "1956",
+        "image": "https://www.rajshahijobs.com/images/users/1956_1726173269.png",
+        "name": "Riasad Rahman Rakib",
+        "address_present": "Kazla,Motihar Thana,Rajshahi",
+        "address_permanent": "Balijuri,Madarganj,Jamalpur",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1956.png"
     }
 ]
