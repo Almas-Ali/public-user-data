@@ -11295,5 +11295,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1956.png"
+    },
+    {
+        "id": "1959",
+        "image": "https://www.rajshahijobs.com/images/users/1959_1726215333.png",
+        "name": "Misha Ahmed",
+        "address_present": "Binodpure,Rajshahi",
+        "address_permanent": "Jamalpur sadar, Jamalpur",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1959.png"
+    },
+    {
+        "id": "1960",
+        "image": "https://www.rajshahijobs.com/images/users/1960_1726228779.png",
+        "name": "Muhammad Mouminun Islam",
+        "address_present": "Boalkhali, Chittagong",
+        "address_permanent": "Damkura hat, Rajshahi",
+        "last_education": "SSC (2016)",
+        "job_experiences": "2 Years",
+        "experience_details": "Quality Controller at N.Mohammad Group",
+        "local_image_path": "images/1960.png"
     }
 ]
