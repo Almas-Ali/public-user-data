@@ -9262,6 +9262,17 @@
         "local_image_path": "images/1552.png"
     },
     {
+        "id": "1554",
+        "image": "https://www.rajshahijobs.com/images/users/1554_1726314679.png",
+        "name": "MD ZAHID HASAN",
+        "address_present": "Court Bulonpur,  Rajpara. Rajshahi",
+        "address_permanent": "Same",
+        "last_education": "Diploma (Eng) (2019)",
+        "job_experiences": "3 Years",
+        "experience_details": "Development side (Project  Engineer)  1 year & Agent Banking ( officer cash) 2 years.",
+        "local_image_path": "images/1554.png"
+    },
+    {
         "id": "1555",
         "image": "https://www.rajshahijobs.com/images/users/1555_1725355998.png",
         "name": "Md.Eyasin Arafat",
@@ -11286,6 +11297,17 @@
         "local_image_path": "images/1952.png"
     },
     {
+        "id": "1954",
+        "image": "https://www.rajshahijobs.com/images/users/1954_1726308469.png",
+        "name": "Md. Saikat",
+        "address_present": "Rajshahi sadar, tikapara",
+        "address_permanent": "Naogaon, atrai",
+        "last_education": "HSC (2021)",
+        "job_experiences": "3 Months",
+        "experience_details": "The hideout cafe Restaurant \r\nWeiter",
+        "local_image_path": "images/1954.png"
+    },
+    {
         "id": "1956",
         "image": "https://www.rajshahijobs.com/images/users/1956_1726173269.png",
         "name": "Riasad Rahman Rakib",
@@ -11328,5 +11350,38 @@
         "job_experiences": "1 Year",
         "experience_details": "company Name:Amber it , designation: work as a Network engineer",
         "local_image_path": "images/1961.png"
+    },
+    {
+        "id": "1968",
+        "image": "https://www.rajshahijobs.com/images/users/1968_1726305177.png",
+        "name": "Zahid Hasan",
+        "address_present": "Katakhali Bazar, Rajshahi",
+        "address_permanent": "Katakhali Bazar, Rajshahi",
+        "last_education": "HSC (2019)",
+        "job_experiences": "1 Year",
+        "experience_details": "Tasty Pastry Rajshahi \r\nsales manager \r\n1year+",
+        "local_image_path": "images/1968.png"
+    },
+    {
+        "id": "1969",
+        "image": "https://www.rajshahijobs.com/images/users/1969_1726306498.png",
+        "name": "Fahim Al Muntashir",
+        "address_present": "Vimerdaing,Sitlai,Paba,Rajshahi",
+        "address_permanent": "Vimerdaing,Sitlai,Paba,Rajshahi",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1969.png"
+    },
+    {
+        "id": "1972",
+        "image": "https://www.rajshahijobs.com/images/users/1972_1726312138.png",
+        "name": "Mst.Mokmaina Akter",
+        "address_present": "New market, Rajshahi",
+        "address_permanent": "Sadar Hospital More, Nilphamari",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1972.png"
     }
 ]
