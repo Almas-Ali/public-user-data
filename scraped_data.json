@@ -11317,5 +11317,16 @@
         "job_experiences": "2 Years",
         "experience_details": "Quality Controller at N.Mohammad Group",
         "local_image_path": "images/1960.png"
+    },
+    {
+        "id": "1961",
+        "image": "https://www.rajshahijobs.com/images/users/1961_1726231505.png",
+        "name": "Md Shahidullah",
+        "address_present": "Rajshahi,Salbagan",
+        "address_permanent": "Chapainawabganj,bholahat",
+        "last_education": "Diploma (Eng) (2020)",
+        "job_experiences": "1 Year",
+        "experience_details": "company Name:Amber it , designation: work as a Network engineer",
+        "local_image_path": "images/1961.png"
     }
 ]
