@@ -7139,6 +7139,17 @@
         "local_image_path": "images/1171.png"
     },
     {
+        "id": "1172",
+        "image": "https://www.rajshahijobs.com/images/users/1172_1726382161.png",
+        "name": "Most. Shanaz Parvin Nisha",
+        "address_present": "Dorikhorbona, Rajshahi",
+        "address_permanent": "Vocational Road, Chapai Nawabganj Sadar",
+        "last_education": "LLB (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1172.png"
+    },
+    {
         "id": "1173",
         "image": "https://www.rajshahijobs.com/images/users/1173_1723997242.png",
         "name": "Md.Harun-aur-rashid",
@@ -8512,6 +8523,17 @@
         "job_experiences": "5 Years",
         "experience_details": "1. Company Name: Jamuna Jute industries\r\nPosition: Office Assistant Cum Computer Operator \r\nDuration: 10months\r\n2. Company Name: Vision Electronics\r\nPosition: Sales Executive \r\nDuration: 04months\r\n3. Company Name: Sajeeb Group\r\nPosition: Sales Officer\r\nJob type: Sales & Marketing \r\nDuration: 06months\r\n4. Islam enterprise \r\nPosition: Account Assistant \r\nJob type: Accounts management \r\nDuration: 03 years\r\n5. Unilever -Pureit\r\nPosition: SWA\r\nType: Sales and Service \r\nDuration: 06 months\r\n6. BLU\r\nPosition: Marketing & Sales Officer\r\nDuration: 03 months",
         "local_image_path": "images/1418.png"
+    },
+    {
+        "id": "1419",
+        "image": "https://www.rajshahijobs.com/images/users/1419_1726371224.png",
+        "name": "Md.Sarwar Jahan",
+        "address_present": "Jadughor mor, Sheikhpara,Boalia, Rajshahi",
+        "address_permanent": "Dariapur, Chapainawabganj Sadar",
+        "last_education": "BBA (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "Volunteer LEO Club,2 Years.",
+        "local_image_path": "images/1419.png"
     },
     {
         "id": "1421",
@@ -11336,7 +11358,7 @@
         "address_present": "Boalkhali, Chittagong",
         "address_permanent": "Damkura hat, Rajshahi",
         "last_education": "SSC (2016)",
-        "job_experiences": "2 Years",
+        "job_experiences": "3 Years",
         "experience_details": "Quality Controller at N.Mohammad Group",
         "local_image_path": "images/1960.png"
     },
@@ -11383,5 +11405,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1972.png"
+    },
+    {
+        "id": "1980",
+        "image": "https://www.rajshahijobs.com/images/users/1980_1726389954.png",
+        "name": "Most Panna khatun",
+        "address_present": "Rajshahi",
+        "address_permanent": "Mohongonj",
+        "last_education": "BA (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "Naba school..naranyongonj",
+        "local_image_path": "images/1980.png"
+    },
+    {
+        "id": "1982",
+        "image": "https://www.rajshahijobs.com/images/users/1982_1726395601.png",
+        "name": "Md.Nure Al Shefa",
+        "address_present": "Chaitan Pur Dhainogor Shibganj",
+        "address_permanent": "Chaitan Pur Dhainogor Shibganj",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1982.png"
     }
 ]
