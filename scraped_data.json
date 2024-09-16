@@ -11460,5 +11460,38 @@
         "job_experiences": "1 Year",
         "experience_details": "experiences\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nExperience",
         "local_image_path": "images/1987.png"
+    },
+    {
+        "id": "1991",
+        "image": "https://www.rajshahijobs.com/images/users/1991_1726453774.png",
+        "name": "Md. Jahangir Alam",
+        "address_present": "Vill- Kukhandi, Post- Budhpara-6205, Thana- Katakhali, Dis- Rajshahi.",
+        "address_permanent": "Same",
+        "last_education": "HSC (2016)",
+        "job_experiences": "2 Years",
+        "experience_details": "Computer Operator in my own shop & Pran group, sales officer, marketing food &beverage, 2 years etc",
+        "local_image_path": "images/1991.png"
+    },
+    {
+        "id": "1997",
+        "image": "https://www.rajshahijobs.com/images/users/1997_1726481666.png",
+        "name": "Mst. Mahabuba yeasmin",
+        "address_present": "Nowhata poba Rajshahi",
+        "address_permanent": "Nowhata poba Rajshahi",
+        "last_education": "BA (2018)",
+        "job_experiences": "2 Years",
+        "experience_details": "CDM Hospital medical assistant",
+        "local_image_path": "images/1997.png"
+    },
+    {
+        "id": "1999",
+        "image": "https://www.rajshahijobs.com/images/users/1999_1726488210.png",
+        "name": "Md.Zaky Azam",
+        "address_present": "Rajshahi, Terokhadia.",
+        "address_permanent": "Terokhadia,Rajpara,Cantonment -6202,Rajshahi",
+        "last_education": "MBA (2018)",
+        "job_experiences": "2 Years",
+        "experience_details": "Standard Group, Head office,Dhaka -Export Officer (01/10/17 to 25/12/18)\r\nJamuna Agro Group,Rajshahi -Officer Administration (10/04/21 to 14/08/2023",
+        "local_image_path": "images/1999.png"
     }
 ]
