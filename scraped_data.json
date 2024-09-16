@@ -8569,6 +8569,17 @@
         "local_image_path": "images/1423.png"
     },
     {
+        "id": "1424",
+        "image": "https://www.rajshahijobs.com/images/users/1424_1724558880.png",
+        "name": "Md Sojib",
+        "address_present": "behind sekh rasel park rajshahi",
+        "address_permanent": "behind sekh rasel park rajshahi",
+        "last_education": "Diploma (Eng) (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1424.png"
+    },
+    {
         "id": "1426",
         "image": "https://www.rajshahijobs.com/images/users/1426_1724564559.png",
         "name": "Redowan Ahmed",
@@ -11408,7 +11419,7 @@
     },
     {
         "id": "1980",
-        "image": "https://www.rajshahijobs.com/images/users/1980_1726389954.png",
+        "image": "https://www.rajshahijobs.com/images/users/1980_1726406259.png",
         "name": "Most Panna khatun",
         "address_present": "Rajshahi",
         "address_permanent": "Mohongonj",
@@ -11427,5 +11438,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/1982.png"
+    },
+    {
+        "id": "1985",
+        "image": "https://www.rajshahijobs.com/images/users/1985_1726417838.png",
+        "name": "Md Ruhul Amin",
+        "address_present": "Shah Mokhdom Hall, University of Rajshahi, Motihar, Rajshahi",
+        "address_permanent": "Village: Laloich, Post office: Hatra, Upozila: Mohanpur, District: Rajshahi",
+        "last_education": "Honors (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1985.png"
+    },
+    {
+        "id": "1987",
+        "image": "https://www.rajshahijobs.com/images/users/1987_1726429212.png",
+        "name": "Md Motaleb Hossain",
+        "address_present": "Dangapara, Jewpara 6260, Puthia, Rajshahi",
+        "address_permanent": "Oi",
+        "last_education": "MA (2018)",
+        "job_experiences": "1 Year",
+        "experience_details": "experiences\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nExperience",
+        "local_image_path": "images/1987.png"
     }
 ]
