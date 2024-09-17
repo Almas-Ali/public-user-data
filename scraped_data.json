@@ -7579,6 +7579,17 @@
         "local_image_path": "images/1242.png"
     },
     {
+        "id": "1247",
+        "image": "https://www.rajshahijobs.com/images/users/1247_1724216150.png",
+        "name": "Md.Emran Hossain",
+        "address_present": "\u099c\u09be\u09a6\u09c1\u0998\u09b0 \u09ae\u09cb\u09dc, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u09ae\u09be\u09a8\u09cd\u09a6\u09be \u09a8\u0993\u0997\u09be\u0981",
+        "last_education": "HSC (2020)",
+        "job_experiences": "3 Months",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1247.png"
+    },
+    {
         "id": "1248",
         "image": "https://www.rajshahijobs.com/images/users/1248_1724217541.png",
         "name": "Md. Shimul Iqb",
@@ -11493,5 +11504,27 @@
         "job_experiences": "2 Years",
         "experience_details": "Standard Group, Head office,Dhaka -Export Officer (01/10/17 to 25/12/18)\r\nJamuna Agro Group,Rajshahi -Officer Administration (10/04/21 to 14/08/2023",
         "local_image_path": "images/1999.png"
+    },
+    {
+        "id": "2005",
+        "image": "https://www.rajshahijobs.com/images/users/2005_1726513886.png",
+        "name": "MD. MONIRUL ISLAM",
+        "address_present": "Sadhur More,Ghoramara,Boalia,Rajshahi",
+        "address_permanent": "Ullapara,Sirajganj",
+        "last_education": "MA (2014)",
+        "job_experiences": "10 Years+",
+        "experience_details": "\u09aa\u09cd\u09b0\u09ad\u09be\u09b7\u0995 \u09ac\u09be\u0982\u09b2\u09be,\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09ae\u09b9\u09bf\u09b2\u09be \u09ab\u09be\u099c\u09bf\u09b2 \u09a1\u09bf\u0997\u09cd\u09b0\u09c0 \u09ae\u09be\u09a6\u09cd\u09b0\u09be\u09b8\u09be,\u09ac\u09cb\u09df\u09be\u09b2\u09bf\u09df\u09be,\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0\u0964\u0985\u09a7\u09cd\u09af\u09df\u09a8:\u09ac\u09be\u0982\u09b2\u09be \u09ac\u09bf\u09ad\u09be\u0997,\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df",
+        "local_image_path": "images/2005.png"
+    },
+    {
+        "id": "2006",
+        "image": "https://www.rajshahijobs.com/images/users/2006_1726516626.png",
+        "name": "Saznin Ara Modina",
+        "address_present": "Chokgopal, Manda , Naogaon",
+        "address_permanent": "Chokgopal,Manda, Naogaon",
+        "last_education": "BSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2006.png"
     }
 ]
