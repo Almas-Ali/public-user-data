@@ -11440,6 +11440,17 @@
         "local_image_path": "images/1972.png"
     },
     {
+        "id": "1979",
+        "image": "https://www.rajshahijobs.com/images/users/1979_1726386823.png",
+        "name": "Md.Aslam Alam",
+        "address_present": "Rajshahi",
+        "address_permanent": "Sainpara,Bagmara,Rajshahi",
+        "last_education": "MSS (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "Beximco Pharmaceuticals Limited",
+        "local_image_path": "images/1979.png"
+    },
+    {
         "id": "1980",
         "image": "https://www.rajshahijobs.com/images/users/1980_1726406259.png",
         "name": "Most Panna khatun",
@@ -11570,5 +11581,60 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2017.png"
+    },
+    {
+        "id": "2019",
+        "image": "https://www.rajshahijobs.com/images/users/2019_1726629344.png",
+        "name": "MD Nazmul Sheikh",
+        "address_present": "Uttara Dhaka",
+        "address_permanent": "Shirajgonj shahjadpur",
+        "last_education": "HSC (2021)",
+        "job_experiences": "6 Months",
+        "experience_details": "Call centre, Mez hut company\r\nComputer oparetor. 6 month",
+        "local_image_path": "images/2019.png"
+    },
+    {
+        "id": "2020",
+        "image": "https://www.rajshahijobs.com/images/users/2020_1726643114.png",
+        "name": "Rajib Hossain",
+        "address_present": "Singra,natore",
+        "address_permanent": "Singra,natore",
+        "last_education": "HSC (2018)",
+        "job_experiences": "7 Years",
+        "experience_details": "No experiences\u09ac\u0999\u09cd\u0997\u09ac\u09a8\u09cd\u09a7\u09c1 \u09b6\u09c7\u0996 \u09ae\u09c1\u099c\u09bf\u09ac \u09b9\u09be\u0987\u099f\u09c7\u0995 \u09aa\u09be\u09b0\u09cd\u0995,, \u09a6\u09c0\u09b0\u09cd\u0998 \u09b8\u09be\u09a4 \u09ac\u099b\u09b0 \u09a7\u09b0\u09c7 \u099a\u09be\u0995\u09b0\u09bf \u0995\u09b0\u09c7\u099b\u09bf, \u0985\u09ab\u09bf\u09b8\u09bf\u09af\u09bc\u09be\u09b2 \u0995\u09be\u099c \u09b8\u09ac \u0995\u09b0\u09c7\u099b\u09bf,,\u09a1\u09bf\u0997\u09cd\u09b0\u09bf \u09a6\u09bf\u09af\u09bc\u09c7 \u09b6\u09c7\u09b7 \u0995\u09b0\u099b\u09bf \u09b0\u09c7\u099c\u09be\u09b2\u09cd\u099f \u098f\u09b0 \u0985\u09aa\u09c7\u0995\u09cd\u09b7\u09be\u09af\u09bc \u0986\u099b\u09bf",
+        "local_image_path": "images/2020.png"
+    },
+    {
+        "id": "2021",
+        "image": "https://www.rajshahijobs.com/images/users/2021_1726646178.png",
+        "name": "Fahmida Rahman",
+        "address_present": "Rani nogor panir tanki Rajshahi",
+        "address_permanent": "Same",
+        "last_education": "BA (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2021.png"
+    },
+    {
+        "id": "2022",
+        "image": "https://www.rajshahijobs.com/images/users/2022_1726649138.png",
+        "name": "Almahafuz Abir",
+        "address_present": "Natore sadar, Alaipur natore",
+        "address_permanent": "Natore sadar, Alaipur natore",
+        "last_education": "MBA (2022)",
+        "job_experiences": "3 Years",
+        "experience_details": "Advanced software development \r\nSales and marketing executive \r\nSoftify bd limited \r\nSales and marketing Specialist",
+        "local_image_path": "images/2022.png"
+    },
+    {
+        "id": "2026",
+        "image": "https://www.rajshahijobs.com/images/users/2026_1726661934.png",
+        "name": "Biplob Kumar Saha",
+        "address_present": "Sahapur,Chowmohoni,Katakhali,Rajshahi",
+        "address_permanent": "Sahapur,Chowmohoni,Katakhali,Rajshahi",
+        "last_education": "BSC (2019)",
+        "job_experiences": "Fresher",
+        "experience_details": "Couching teacher,Sales representatives",
+        "local_image_path": "images/2026.png"
     }
 ]
