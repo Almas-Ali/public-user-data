@@ -9350,6 +9350,17 @@
         "local_image_path": "images/1559.png"
     },
     {
+        "id": "1560",
+        "image": "https://www.rajshahijobs.com/images/users/1560_1726589964.png",
+        "name": "Md Sozib Hoshen",
+        "address_present": "Damnash,Bagmara,Rajshahi",
+        "address_permanent": "Damnash,Bagmara,Rajshahi",
+        "last_education": "SSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "\u0986\u09ae\u09bf \u0986\u09ae\u09be\u09b0 \u098f\u09b2\u09be\u0995\u09be\u09b0 \u098f\u0995\u099f\u09be \u09ac\u09cd\u09af\u09be\u0995\u09cd\u09a4\u09bf\u0997\u09a4 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09b0\u09bf\u09b8\u09bf\u09aa\u09b8\u09a8\u09c7\u09b0 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf  \u09ec\u09ae\u09be\u09b8\u0964 \u0986\u09ae\u09be\u09b0 \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u099a\u09be\u09b2\u09be\u09a8\u09cb\u09b0 \u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be \u0986\u099b\u09c7\u0964",
+        "local_image_path": "images/1560.png"
+    },
+    {
         "id": "1561",
         "image": "https://www.rajshahijobs.com/images/users/1561_1724853267.png",
         "name": "MD. REDOY HOSSAIN SADDAM",
@@ -11537,5 +11548,27 @@
         "job_experiences": "1 Year",
         "experience_details": "Megna grup",
         "local_image_path": "images/2007.png"
+    },
+    {
+        "id": "2012",
+        "image": "https://www.rajshahijobs.com/images/users/2012_1726578254.png",
+        "name": "Jarin Tasnim",
+        "address_present": "Vodra, Rajshahi",
+        "address_permanent": "Bissashpara, Joypurhat",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2012.png"
+    },
+    {
+        "id": "2017",
+        "image": "https://www.rajshahijobs.com/images/users/2017_1726588956.png",
+        "name": "Alamin",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2017.png"
     }
 ]
