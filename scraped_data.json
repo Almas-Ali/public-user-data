@@ -9716,7 +9716,7 @@
         "id": "1621",
         "image": "https://www.rajshahijobs.com/images/users/1621_1725078774.png",
         "name": "Fahad Rashid",
-        "address_present": "Sagorpara, Khan Tower (Prime Housing), Rajshahi",
+        "address_present": "Sagorpara,Boalia, Rajshahi",
         "address_permanent": "Radhanagur Maktabpara, Pabna sadar",
         "last_education": "HSC (2020)",
         "job_experiences": "Fresher",
@@ -11819,7 +11819,7 @@
         "name": "Zosim Uddin",
         "address_present": "\u099c\u09c7\u09b2\u09be \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0\u0964 \u09a5\u09be\u09a8\u09be \u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0\u0964 \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09ae\u09cc\u0997\u09be\u099b\u09bf\u0964 \u0997\u09cd\u09b0\u09be\u09ae \u09ae\u09be\u0996\u09a8\u09aa\u09c1\u09b0",
         "address_permanent": "\u099c\u09c7\u09b2\u09be \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0\u0964 \u09a5\u09be\u09a8\u09be \u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0\u0964 \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09ae\u09cc\u0997\u09be\u099b\u09bf\u0964 \u0997\u09cd\u09b0\u09be\u09ae \u09ae\u09be\u0996\u09a8\u09aa\u09c1\u09b0",
-        "last_education": "Fazil (2022)",
+        "last_education": "BA (2022)",
         "job_experiences": "2 Years",
         "experience_details": "\u09b0\u09c7\u09ab\u0995\u09cb \u09ab\u09be\u09b0\u09cd\u09ae\u09be\u09b8\u09bf\u099f\u09bf\u0995\u09cd\u09af\u09be\u09b2 \u09a6\u09c1\u0987 \u09ac\u099b\u09b0 \u099a\u09be\u0995\u09b0\u09bf \u0995\u09b0\u09c7\u099b\u09bf \u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0",
         "local_image_path": "images/2053.png"
@@ -11856,5 +11856,60 @@
         "job_experiences": "8 Years",
         "experience_details": "1. As a Sales Representative Two year in The ACME Agrovet & Beverages Ltd.\r\n2. As a Sales Representative Four year in Kallol Group Of Com.\r\n3. As a Sales Representative Three year in Mizanur Trading.",
         "local_image_path": "images/2062.png"
+    },
+    {
+        "id": "2063",
+        "image": "https://www.rajshahijobs.com/images/users/2063_1726772212.png",
+        "name": "Most Rumana Yesmin",
+        "address_present": "Vill: Putimari,Post:Munshigonj, Up: Alamdanga",
+        "address_permanent": "Vill: Barokhatamari, Post: Joymonirhat, Up: Bhurungamari",
+        "last_education": "MSS (2021)",
+        "job_experiences": "9 Years",
+        "experience_details": "\u09b8\u09c2\u09b0\u09cd\u09af\u09c7\u09b0 \u09b9\u09be\u09b8\u09bf \u09a8\u09c7\u099f\u0993\u09df\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u0986\u0993\u09a4\u09be\u09df \u09b8\u09c2\u09b0\u09cd\u09af\u09c7\u09b0 \u09b9\u09be\u09b8\u09bf \u0995\u09cd\u09b2\u09bf\u09a8\u09bf\u0995\u09c7 \u09a1\u09be\u099f\u09be \u098f\u09a8\u09cd\u099f\u09bf \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0,\u0995\u09cd\u09b2\u09bf\u09a8\u09bf\u0995 \u098f\u0987\u09a1, \u09b0\u09bf\u09b8\u09bf\u09aa\u09b8\u09a8\u09bf\u09b7\u09cd\u099f \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09a6\u09c0\u09b0\u09cd\u0998 \u09a8\u09df \u09ac\u099b\u09b0 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf\u0964\r\n\u0986\u09ae\u09bf \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u099f\u09be\u09a8\u09c7\u09b0 \u09a8\u09bf\u09df\u09ae \u09ac\u09be \u0995\u09be\u099c\u09c7\u09b0 \u09a7\u09b0\u09a8 \u0985\u09a8\u09c1\u09af\u09be\u09df\u09c0 \u0995\u09be\u099c \u0995\u09b0\u09a4\u09c7 \u0986\u0997\u09cd\u09b0\u09b9\u09c0\u0964\u0987\u09a8\u09b6\u09be\u0986\u09b2\u09cd\u09b2\u09be\u09b9\u0964",
+        "local_image_path": "images/2063.png"
+    },
+    {
+        "id": "2067",
+        "image": "https://www.rajshahijobs.com/images/users/2067_1726811721.png",
+        "name": "Abdul Owahid",
+        "address_present": "Alinager,Rohanpur",
+        "address_permanent": "Alinager,Rohanpur",
+        "last_education": "BBA (2013)",
+        "job_experiences": "8 Years",
+        "experience_details": "Anik Telecom(Area Manager) 2 Years\r\nPrime Finance & Investment(Relationship Manager) 1Year",
+        "local_image_path": "images/2067.png"
+    },
+    {
+        "id": "2068",
+        "image": "https://www.rajshahijobs.com/images/users/2068_1726806130.png",
+        "name": "Raduanul pahim",
+        "address_present": "ranibazar Rajshahi",
+        "address_permanent": "Santahar , Adamdighi ,Bogura",
+        "last_education": "HSC (2021)",
+        "job_experiences": "4 Years",
+        "experience_details": "worked as a sales executive in retail sector.(clothing)",
+        "local_image_path": "images/2068.png"
+    },
+    {
+        "id": "2069",
+        "image": "https://www.rajshahijobs.com/images/users/2069_1726805305.png",
+        "name": "Md Shahed Hamid",
+        "address_present": "Binodhpur,motihar",
+        "address_permanent": "Philipnagar,daulatpur",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2069.png"
+    },
+    {
+        "id": "2077",
+        "image": "https://www.rajshahijobs.com/images/users/2077_1726828640.png",
+        "name": "Md. Shahadat",
+        "address_present": "Bishahara, Jahanabad, Mohonpur, Rajshahai",
+        "address_permanent": "Bishahara, Jahanabad, Mohonpur, Rajshahi",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2077.png"
     }
 ]
