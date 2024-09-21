@@ -11911,5 +11911,16 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2077.png"
+    },
+    {
+        "id": "2083",
+        "image": "https://www.rajshahijobs.com/images/users/2083_1726877603.png",
+        "name": "MD ASHIK HOSSEN",
+        "address_present": "Kushtia kumarkhali thana",
+        "address_permanent": "Kushtia kumarkhali thana",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2083.png"
     }
 ]
