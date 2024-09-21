@@ -7019,7 +7019,7 @@
     },
     {
         "id": "1151",
-        "image": "https://www.rajshahijobs.com/images/users/1151_1724235077.png",
+        "image": "https://www.rajshahijobs.com/images/users/1151_1726902158.png",
         "name": "Lamia Tazrin",
         "address_present": "Rajshahi",
         "address_permanent": "Sagor para Ghoramara Rajshahi",
@@ -11922,5 +11922,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2083.png"
+    },
+    {
+        "id": "2085",
+        "image": "https://www.rajshahijobs.com/images/users/2085_1726896944.png",
+        "name": "MD. KAMRUL HASSAN SHIHAB",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2085.png"
+    },
+    {
+        "id": "2088",
+        "image": "https://www.rajshahijobs.com/images/users/2088_1726914539.png",
+        "name": "Readus Salehin",
+        "address_present": "Terokhadia, Rajshahi",
+        "address_permanent": "Kadirgonj, Rajshahi",
+        "last_education": "HSC (2018)",
+        "job_experiences": "2 Years",
+        "experience_details": "\u2605Company Name : Grand River View Hotel, Rajshahi\r\n\u2605Designation : Waiter\r\n\u2605 2 Years (Running)",
+        "local_image_path": "images/2088.png"
     }
 ]
