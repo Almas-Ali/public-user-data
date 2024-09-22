@@ -11944,5 +11944,38 @@
         "job_experiences": "2 Years",
         "experience_details": "\u2605Company Name : Grand River View Hotel, Rajshahi\r\n\u2605Designation : Waiter\r\n\u2605 2 Years (Running)",
         "local_image_path": "images/2088.png"
+    },
+    {
+        "id": "2089",
+        "image": "https://www.rajshahijobs.com/images/users/2089_1726921501.png",
+        "name": "Md Rimon Islam",
+        "address_present": "Aiorpara, Ramgaon, Manda, Naogaon",
+        "address_permanent": "Aiorpara, Ramgaon, Manda, Naogaon",
+        "last_education": "HSC (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "\"Fit for life\"\r\nSales Executive 1year \r\n\"Pran RFL, group vision\"\r\nSales Executive 1year plus",
+        "local_image_path": "images/2089.png"
+    },
+    {
+        "id": "2091",
+        "image": "https://www.rajshahijobs.com/images/users/2091_1726931249.png",
+        "name": "Naznin Jahan Shimu",
+        "address_present": "Terokhadia ,dabtola,rajshahi",
+        "address_permanent": "Bhagalpur, bajitpur,Kishoregonj",
+        "last_education": "MBA (2024)",
+        "job_experiences": "3 Years",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2091.png"
+    },
+    {
+        "id": "2092",
+        "image": "https://www.rajshahijobs.com/images/users/2092_1726940058.png",
+        "name": "Abdul Bari Nayeem",
+        "address_present": "Jadughor mur, rajshahi",
+        "address_permanent": "Kayapara, tanore, rajshahi",
+        "last_education": "Diploma (Eng) (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2092.png"
     }
 ]
