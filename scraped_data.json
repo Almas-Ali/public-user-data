@@ -11977,5 +11977,49 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2092.png"
+    },
+    {
+        "id": "2094",
+        "image": "https://www.rajshahijobs.com/images/users/2094_1726981626.png",
+        "name": "rumi Akthar",
+        "address_present": "Tanor,Rajshahi",
+        "address_permanent": "Tangile,Dhaka",
+        "last_education": "Diploma (Eng) (2016)",
+        "job_experiences": "4 Years",
+        "experience_details": "Junior Executive (MIS).AB.R Spinning Mills Ltd.Mirzapur,Tangail, Dhaka ,Bangladesh.\r\n\u2022Prepared Monthly Performance Status Reports.Collated,analyzed and documented company\u2019s quality and half yearly performance details.\r\n\u2022 Genetate,maintained and analyzed Sales, quality and Client Service Reports. \r\nReviewed history of current Reporting.",
+        "local_image_path": "images/2094.png"
+    },
+    {
+        "id": "2095",
+        "image": "https://www.rajshahijobs.com/images/users/2095_1726993070.png",
+        "name": "Mahmudul Hasan",
+        "address_present": "Kasiadanga,Rajshahi",
+        "address_permanent": "Islamic University, Kushtia sadar, Kushtia",
+        "last_education": "SSC (2023)",
+        "job_experiences": "1 Year",
+        "experience_details": "Foodpanda 2/3 years experience",
+        "local_image_path": "images/2095.png"
+    },
+    {
+        "id": "2098",
+        "image": "https://www.rajshahijobs.com/images/users/2098_1726998999.png",
+        "name": "Taki Yasir",
+        "address_present": "Rajshahi,Shahab Bazar,Borokuthi Para",
+        "address_permanent": "Nougaon,Manda",
+        "last_education": "Honors (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2098.png"
+    },
+    {
+        "id": "2101",
+        "image": "https://www.rajshahijobs.com/images/users/2101_1727002626.png",
+        "name": "Mst.Ismot Khanom",
+        "address_present": "Agla,Jamira,Belpukuria,Puthia,Rajshahi",
+        "address_permanent": "Agla,Jamira,Belpukuria,Puthia,Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2101.png"
     }
 ]
