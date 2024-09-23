@@ -5853,7 +5853,7 @@
     },
     {
         "id": "969",
-        "image": "https://www.rajshahijobs.com/images/users/969_1722252115.png",
+        "image": "https://www.rajshahijobs.com/images/users/969_1727090613.png",
         "name": "Md. Shamiul Shaikh Tusher",
         "address_present": "Rajshahi",
         "address_permanent": "Rajshahi",
@@ -10252,6 +10252,17 @@
         "local_image_path": "images/1717.png"
     },
     {
+        "id": "1718",
+        "image": "https://www.rajshahijobs.com/images/users/1718_1727063435.png",
+        "name": "Abdul Alim Awal",
+        "address_present": "Brohmopur.Durgapur,Rajshahi",
+        "address_permanent": "Brohmopur.Durgapur,Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "4 Years",
+        "experience_details": "No experiences computer experiences 4 year",
+        "local_image_path": "images/1718.png"
+    },
+    {
         "id": "1721",
         "image": "https://www.rajshahijobs.com/images/users/1721_1725450220.png",
         "name": "Tusher Mozumder",
@@ -12076,5 +12087,49 @@
         "job_experiences": "Fresher",
         "experience_details": "Reception work of any clinic",
         "local_image_path": "images/2110.png"
+    },
+    {
+        "id": "2111",
+        "image": "https://www.rajshahijobs.com/images/users/2111_1727061708.png",
+        "name": "Muhammad Minhaj Uddin",
+        "address_present": "#21, Mirzapur, Binodpur Bazar, Motihar, Rajshahi",
+        "address_permanent": "#21, Mirzapur, Binodpur Bazar, Motihar, Rajshahi",
+        "last_education": "MA (2006)",
+        "job_experiences": "8 Years",
+        "experience_details": "Bangladesh Islami University, Lacuter, Islamic Studies Department, 2023 To tall now",
+        "local_image_path": "images/2111.png"
+    },
+    {
+        "id": "2112",
+        "image": "https://www.rajshahijobs.com/images/users/2112_1727064027.png",
+        "name": "Md Rakibul Hasan Ruhul",
+        "address_present": "Village: Kasiyadanga, PS: Kasiyadanga, Post Office: Rajshahi Court 6201, Subdistrict:Paba, District: Rajshahi",
+        "address_permanent": "Village:Sarail, PS: Noagaon Sadar, Post Office: Shikarpur 6500, Subdistrict: Naogaon Sadar,  District:Naogaon",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2112.png"
+    },
+    {
+        "id": "2114",
+        "image": "https://www.rajshahijobs.com/images/users/2114_1727079553.png",
+        "name": "Md.Riyad hosen",
+        "address_present": "Rajshahi",
+        "address_permanent": "Ghaibandha",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2114.png"
+    },
+    {
+        "id": "2119",
+        "image": "https://www.rajshahijobs.com/images/users/2119_1727089454.png",
+        "name": "Md. Asfaqul Alam",
+        "address_present": "Raninagor, Ghoramara, Boalia, Rajshahi.",
+        "address_permanent": "Raninagor, Ghoramara, Boalia, Rajshahi.",
+        "last_education": "MSS (2010)",
+        "job_experiences": "10 Years+",
+        "experience_details": "Office Assistant and Computer operator, Jamuna Oil Company Limited   20 years.",
+        "local_image_path": "images/2119.png"
     }
 ]
