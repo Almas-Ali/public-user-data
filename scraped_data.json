@@ -8811,6 +8811,17 @@
         "local_image_path": "images/1455.png"
     },
     {
+        "id": "1457",
+        "image": "https://www.rajshahijobs.com/images/users/1457_1727011746.png",
+        "name": "Md Rakibul Islam",
+        "address_present": "Santahar, Adomdighi, Bogura",
+        "address_permanent": "Santahar, Adomdighi,Bogura",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1457.png"
+    },
+    {
         "id": "1460",
         "image": "https://www.rajshahijobs.com/images/users/1460_1724675615.png",
         "name": "Prosenjit kumar pal",
@@ -12021,5 +12032,49 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2101.png"
+    },
+    {
+        "id": "2104",
+        "image": "https://www.rajshahijobs.com/images/users/2104_1727013126.png",
+        "name": "amatun nur",
+        "address_present": "sagorpara,boalia,rajshahi",
+        "address_permanent": "sagorpara,boalia,rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2104.png"
+    },
+    {
+        "id": "2107",
+        "image": "https://www.rajshahijobs.com/images/users/2107_1727017133.png",
+        "name": "Nishitha Paul",
+        "address_present": "Monnafer More, Rajshahi.",
+        "address_permanent": "Barapara, Sadar Dakkhin, Comilla",
+        "last_education": "BSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2107.png"
+    },
+    {
+        "id": "2109",
+        "image": "https://www.rajshahijobs.com/images/users/2109_1727027739.png",
+        "name": "Omorsiddik Kids",
+        "address_present": "Balia pukur,Rajshahi",
+        "address_permanent": "Balia pukur, Rajshahi.",
+        "last_education": "HSC (1997)",
+        "job_experiences": "Fresher",
+        "experience_details": "I Have markting experience about 13 years....",
+        "local_image_path": "images/2109.png"
+    },
+    {
+        "id": "2110",
+        "image": "https://www.rajshahijobs.com/images/users/2110_1727029473.png",
+        "name": "Moniruzzaman pavel",
+        "address_present": "Rajshahi",
+        "address_permanent": "Dinajpur",
+        "last_education": "CSE (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "Reception work of any clinic",
+        "local_image_path": "images/2110.png"
     }
 ]
