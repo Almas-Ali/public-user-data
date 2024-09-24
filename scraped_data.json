@@ -12144,6 +12144,17 @@
         "local_image_path": "images/2121.png"
     },
     {
+        "id": "2123",
+        "image": "https://www.rajshahijobs.com/images/users/2123_1727146949.png",
+        "name": "Md.Rashel Rana",
+        "address_present": "Village,Brohommopur,Post,Horirampur,Thana,Durgapur",
+        "address_permanent": "Village,Brohommopur,Post,Horirampur,Thana,Durgapur",
+        "last_education": "Honors (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2123.png"
+    },
+    {
         "id": "2126",
         "image": "https://www.rajshahijobs.com/images/users/2126_1727110691.png",
         "name": "Tasnim Farhan Dhrubo",
@@ -12208,5 +12219,60 @@
         "job_experiences": "1 Year",
         "experience_details": "No experiences",
         "local_image_path": "images/2132.png"
+    },
+    {
+        "id": "2133",
+        "image": "https://www.rajshahijobs.com/images/users/2133_1727153797.png",
+        "name": "Rianul Roman",
+        "address_present": "Sardah, Charghat",
+        "address_permanent": "Sardah, Charghat",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2133.png"
+    },
+    {
+        "id": "2134",
+        "image": "https://www.rajshahijobs.com/images/users/2134_1727154781.png",
+        "name": "Md. Monirul Islam",
+        "address_present": "Village: Amgachi, Post: Amgachi Hat, PS: Durgapur, District: Rajshahi",
+        "address_permanent": "Village: Amgachi, Post: Amgachi Hat, PS: Durgapur, District: Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2134.png"
+    },
+    {
+        "id": "2139",
+        "image": "https://www.rajshahijobs.com/images/users/2139_1727164296.png",
+        "name": "MD Sakib Khan",
+        "address_present": "Kadipur,paba, Rajshahi",
+        "address_permanent": "Kadipur,paba, Rajshahi",
+        "last_education": "HSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2139.png"
+    },
+    {
+        "id": "2143",
+        "image": "https://www.rajshahijobs.com/images/users/2143_1727176874.png",
+        "name": "MD RAKIBUL ISLAM",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2008)",
+        "job_experiences": "Fresher",
+        "experience_details": "Special force of Bangladesh army (Pension) job 13 Years.",
+        "local_image_path": "images/2143.png"
+    },
+    {
+        "id": "2146",
+        "image": "https://www.rajshahijobs.com/images/users/2146_1727178832.png",
+        "name": "MD ROBIUL HASAN SHANTO",
+        "address_present": "Bakirmore, Heart Foundation",
+        "address_permanent": "Bakirmore, Heart Foundation",
+        "last_education": "BSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2146.png"
     }
 ]
