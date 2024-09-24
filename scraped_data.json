@@ -12131,5 +12131,82 @@
         "job_experiences": "10 Years+",
         "experience_details": "Office Assistant and Computer operator, Jamuna Oil Company Limited   20 years.",
         "local_image_path": "images/2119.png"
+    },
+    {
+        "id": "2121",
+        "image": "https://www.rajshahijobs.com/images/users/2121_1727107221.png",
+        "name": "Md.Jisan Ali",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "SSC (2020)",
+        "job_experiences": "2 Years",
+        "experience_details": "Job experience two years type of work assistant manager + Dr attendance in Peerless daigonstic center.",
+        "local_image_path": "images/2121.png"
+    },
+    {
+        "id": "2126",
+        "image": "https://www.rajshahijobs.com/images/users/2126_1727110691.png",
+        "name": "Tasnim Farhan Dhrubo",
+        "address_present": "Padma abashik, vadra, Rajshahi",
+        "address_permanent": "Natore, gurudaspur",
+        "last_education": "HSC (2024)",
+        "job_experiences": "2 Years",
+        "experience_details": "I am Professional Digital marketing and SEO expert. Also have digital software sales experience of 3 years",
+        "local_image_path": "images/2126.png"
+    },
+    {
+        "id": "2127",
+        "image": "https://www.rajshahijobs.com/images/users/2127_1727113889.png",
+        "name": "Rahim islam",
+        "address_present": "Rajshahi court Rajpara",
+        "address_permanent": "Rajshahi Court Rajshahi",
+        "last_education": "JSC (2019)",
+        "job_experiences": "6 Months",
+        "experience_details": "Refrigerator services center",
+        "local_image_path": "images/2127.png"
+    },
+    {
+        "id": "2128",
+        "image": "https://www.rajshahijobs.com/images/users/2128_1727114437.png",
+        "name": "Tasmin Akter Tisha",
+        "address_present": "\u09a4\u09c7\u09b0\u09cb\u0996\u09be\u09a6\u09bf\u09af\u09bc\u09be,\u09a1\u09be\u09ac\u09a4\u09b2\u09be, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u09b0\u09be\u09a8\u09c0\u09b9\u09be\u099f\u09bf, \u099a\u09be\u0981\u09aa\u09be\u0987\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2128.png"
+    },
+    {
+        "id": "2129",
+        "image": "https://www.rajshahijobs.com/images/users/2129_1727115811.png",
+        "name": "Md.Mostafizur Rahaman",
+        "address_present": "Kalchika, Hat-Godagari, Chandrima, Rajshahi",
+        "address_permanent": "Kalchika, Hat-Godagari, Chandrima, Rajshahi",
+        "last_education": "BSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2129.png"
+    },
+    {
+        "id": "2131",
+        "image": "https://www.rajshahijobs.com/images/users/2131_1727120038.png",
+        "name": "Sorup Kumar sarker",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2131.png"
+    },
+    {
+        "id": "2132",
+        "image": "https://www.rajshahijobs.com/images/users/2132_1727139204.png",
+        "name": "Tahmid Hossain",
+        "address_present": "232/7 chotobongram uttor professor para, Rajshahi",
+        "address_permanent": "Sultan pur purbo para, Naogaon",
+        "last_education": "HSC (2016)",
+        "job_experiences": "1 Year",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2132.png"
     }
 ]
