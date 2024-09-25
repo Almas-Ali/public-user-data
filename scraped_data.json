@@ -11385,6 +11385,17 @@
         "local_image_path": "images/1948.png"
     },
     {
+        "id": "1950",
+        "image": "https://www.rajshahijobs.com/images/users/1950_1726679970.png",
+        "name": "Asmaul Husna Niha",
+        "address_present": "Talaimari jamrultola",
+        "address_permanent": "Kanaikhaly Natore",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/1950.png"
+    },
+    {
         "id": "1951",
         "image": "https://www.rajshahijobs.com/images/users/1951_1726157466.png",
         "name": "MD ARIF UDDIN",
@@ -12199,6 +12210,17 @@
         "local_image_path": "images/2129.png"
     },
     {
+        "id": "2130",
+        "image": "https://www.rajshahijobs.com/images/users/2130_1727116087.png",
+        "name": "Md. Sharwar Hossain",
+        "address_present": "Vill: Bizli p/o Niamatpur u/p Niamatpur dis: Naogaon",
+        "address_permanent": "Laxmipir, Rajshahi",
+        "last_education": "MA (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2130.png"
+    },
+    {
         "id": "2131",
         "image": "https://www.rajshahijobs.com/images/users/2131_1727120038.png",
         "name": "Sorup Kumar sarker",
@@ -12296,5 +12318,38 @@
         "job_experiences": "2 Years",
         "experience_details": "\u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8:\u09b0\u09b8\u09ae\u09c7\u09b2\u09be \u0985\u09ad\u09bf\u099c\u09be\u09a4 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09ac\u09c0\u09aa\u09a8\u09bf\r\n\u09aa\u09a6\u09ac\u09c0:\u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0\u0964(\u09e7.\u09eb \u09ac\u099b\u09b0)\r\n\r\n\u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8:\u09a8\u09a6\u09c0 \u09ac\u09c1\u099f\u09bf\u0995\u09cd\u09b8 \r\n\u09aa\u09a6\u09ac\u09c0:\u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0(\u09e7 \u09ac\u099b\u09b0)",
         "local_image_path": "images/2152.png"
+    },
+    {
+        "id": "2156",
+        "image": "https://www.rajshahijobs.com/images/users/2156_1727243704.png",
+        "name": "Mir Tamim Iqbal",
+        "address_present": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0, \u09ae\u09be\u09b7\u09cd\u099f\u09be\u09b0\u09aa\u09be\u09dc\u09be",
+        "address_permanent": "\u09a8\u09be\u099f\u09cb\u09b0, \u09b8\u09bf\u0982\u09dc\u09be",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2156.png"
+    },
+    {
+        "id": "2159",
+        "image": "https://www.rajshahijobs.com/images/users/2159_1727254161.png",
+        "name": "Md Waliur Rahaman Fahim",
+        "address_present": "Road -9. Padma Abasik,Vodra",
+        "address_permanent": "Adamdighi,Bogura",
+        "last_education": "LLB (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2159.png"
+    },
+    {
+        "id": "2162",
+        "image": "https://www.rajshahijobs.com/images/users/2162_1727266720.png",
+        "name": "Saif Rahman Elan",
+        "address_present": "Pobanotun para, shopura, Rajshahi",
+        "address_permanent": "Pobanotun para, shopura, Rajshahi",
+        "last_education": "HSC (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2162.png"
     }
 ]
