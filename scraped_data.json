@@ -12274,5 +12274,27 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2146.png"
+    },
+    {
+        "id": "2149",
+        "image": "https://www.rajshahijobs.com/images/users/2149_1727181908.png",
+        "name": "Bandhan kumar chanda",
+        "address_present": "\u09e9 \u09a8\u0982 \u0987\u099f\u09be\u09b2\u09bf \u0987\u0989\u09a8\u09bf\u09df\u09a8 \u098f\u09b0 \u09e7\u09a8\u0982 \u0993\u09df\u09be\u09b0\u09cd\u09a1 \u098f\u09b0 \u09aa\u09be\u0995\u09c1\u09dc\u09bf\u09df\u09be \u0997\u09cd\u09b0\u09be\u09ae, \u09b8\u09bf\u0982\u09dc\u09be",
+        "address_permanent": "\u09a8\u09be\u099f\u09cb\u09b0 \u0995\u09be\u09a8\u09be\u0987\u0996\u09be\u09b2\u09bf \u09a8\u09be\u099f\u09cb\u09b0",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2149.png"
+    },
+    {
+        "id": "2152",
+        "image": "https://www.rajshahijobs.com/images/users/2152_1727202157.png",
+        "name": "Krishan Sarkar",
+        "address_present": "\u09b8\u09c7\u0996\u09c7\u09b0 \u099a\u0995,\u09ac\u09bf\u09b9\u09be\u09b0\u09c0\u09ac\u09be\u0997\u09be\u09a8,\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u09b8\u09c7\u0996\u09c7\u09b0 \u099a\u0995,\u09ac\u09bf\u09b9\u09be\u09b0\u09c0\u09ac\u09be\u0997\u09be\u09a8,\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "HSC (2016)",
+        "job_experiences": "2 Years",
+        "experience_details": "\u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8:\u09b0\u09b8\u09ae\u09c7\u09b2\u09be \u0985\u09ad\u09bf\u099c\u09be\u09a4 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09ac\u09c0\u09aa\u09a8\u09bf\r\n\u09aa\u09a6\u09ac\u09c0:\u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0\u0964(\u09e7.\u09eb \u09ac\u099b\u09b0)\r\n\r\n\u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8:\u09a8\u09a6\u09c0 \u09ac\u09c1\u099f\u09bf\u0995\u09cd\u09b8 \r\n\u09aa\u09a6\u09ac\u09c0:\u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09be\u09b0(\u09e7 \u09ac\u099b\u09b0)",
+        "local_image_path": "images/2152.png"
     }
 ]
