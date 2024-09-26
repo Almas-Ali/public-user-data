@@ -6238,8 +6238,8 @@
     },
     {
         "id": "1032",
-        "image": "https://www.rajshahijobs.com/images/users/1032_1723625023.png",
-        "name": "MD.Tosiqul Alom",
+        "image": "https://www.rajshahijobs.com/images/users/1032_1727340175.png",
+        "name": "Tosiqul Alom",
         "address_present": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0  \u09b9\u09c7\u09a4\u09c7\u09ae\u0996\u09be",
         "address_permanent": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0 \u09b9\u09c7\u09a4\u09c7\u09ae\u0996\u09be",
         "last_education": "HSC (2019)",
@@ -7357,6 +7357,17 @@
         "job_experiences": "2 Years",
         "experience_details": "I have been tutoring for 2 years.",
         "local_image_path": "images/1203.png"
+    },
+    {
+        "id": "1206",
+        "image": "https://www.rajshahijobs.com/images/users/1206_1727337168.png",
+        "name": "Md nahid hasan",
+        "address_present": "Kadirgonj, Rajshahi",
+        "address_permanent": "Parswodanga, chatmohar, pabna",
+        "last_education": "HSC (2021)",
+        "job_experiences": "2 Years",
+        "experience_details": "Faruk math Academy, manager",
+        "local_image_path": "images/1206.png"
     },
     {
         "id": "1207",
@@ -12417,5 +12428,93 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2169.png"
+    },
+    {
+        "id": "2173",
+        "image": "https://www.rajshahijobs.com/images/users/2173_1727330204.png",
+        "name": "Md Sagor Islam",
+        "address_present": "Bogura",
+        "address_permanent": "Bogura",
+        "last_education": "SSC (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2173.png"
+    },
+    {
+        "id": "2175",
+        "image": "https://www.rajshahijobs.com/images/users/2175_1727334708.png",
+        "name": "Shabbir Ahamed",
+        "address_present": "Thana:Dhamoirhat District :Naogaon Decision :Rajshahi",
+        "address_permanent": "Thana:Boyaliya Division :Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "1 Year",
+        "experience_details": "Tuition \r\nEnglish spoken Development",
+        "local_image_path": "images/2175.png"
+    },
+    {
+        "id": "2177",
+        "image": "https://www.rajshahijobs.com/images/users/2177_1727335354.png",
+        "name": "Sakib Hussain",
+        "address_present": "Mondoler Morr, Binodpur",
+        "address_permanent": "House building quarter, Sector 8,Uttara",
+        "last_education": "BBA (2027)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2177.png"
+    },
+    {
+        "id": "2180",
+        "image": "https://www.rajshahijobs.com/images/users/2180_1727340901.png",
+        "name": "Kh.Hridoy Hasan Rabbi",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2180.png"
+    },
+    {
+        "id": "2181",
+        "image": "https://www.rajshahijobs.com/images/users/2181_1727341001.png",
+        "name": "Ahnaf Hasan",
+        "address_present": "Hosseniganj, Boalia, Rajshahi",
+        "address_permanent": "Katnerpara, Bogura",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2181.png"
+    },
+    {
+        "id": "2182",
+        "image": "https://www.rajshahijobs.com/images/users/2182_1727341386.png",
+        "name": "Minhazul Islam",
+        "address_present": "Kazla,Rajshahi",
+        "address_permanent": "Fazilpur,Feni Sadar,Feni",
+        "last_education": "HSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2182.png"
+    },
+    {
+        "id": "2184",
+        "image": "https://www.rajshahijobs.com/images/users/2184_1727345561.png",
+        "name": "Huzaifa",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi mollapara",
+        "last_education": "MA (2024)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2184.png"
+    },
+    {
+        "id": "2185",
+        "image": "https://www.rajshahijobs.com/images/users/2185_1727347411.png",
+        "name": "Shamima Nur Dipti",
+        "address_present": "Talaimari, kazla,Rajshahi",
+        "address_permanent": "Talaimari, kazla,Rajshahi",
+        "last_education": "BSC (2018)",
+        "job_experiences": "2 Years",
+        "experience_details": "Project headway grammar school \r\nPost:Assistant teacher, subject :Science, math",
+        "local_image_path": "images/2185.png"
     }
 ]
