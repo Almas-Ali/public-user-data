@@ -12593,5 +12593,93 @@
         "job_experiences": "Fresher",
         "experience_details": "No experiences",
         "local_image_path": "images/2207.png"
+    },
+    {
+        "id": "2209",
+        "image": "https://www.rajshahijobs.com/images/users/2209_1727414708.png",
+        "name": "Md Raihan Kobir",
+        "address_present": "Vill: Thakur loxmi kull, P.O: Patul, P.S: Naldanga",
+        "address_permanent": "Vill: Thakur loxmi kull, P.O: Patul, P.S: Naldanga",
+        "last_education": "MBA (2021)",
+        "job_experiences": "3 Years",
+        "experience_details": "\u0986\u09ae\u09bf \u09e8\u09e6\u09e7\u09ee \u09a5\u09c7\u0995\u09c7 \u09e8\u09e6\u09e8\u09e6 \u09b8\u09be\u09b2 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u0987\u0989\u09a8\u09bf\u09b2\u09bf\u09ad\u09be\u09b0 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1\u09c7\u09b0 \u09ac\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09cd\u09b0\u09cb\u09ae\u09cb\u099f\u09be\u09b0 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09bf\u0964\u09ac\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09cd\u09b0\u09cb\u09ae\u09cb\u099f\u09be\u09b0 \u09ae\u09c2\u09b2\u09a4 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u09b0 \u09aa\u09cd\u09b0\u09cb\u09a1\u09be\u0995 \u0995\u09be\u09b8\u09cd\u099f\u09ae\u09be\u09b0\u09c7\u09b0  \u09a8\u09bf\u0995\u099f \u09b8\u09b0\u09be\u09b8\u09b0\u09bf \u09aa\u09cd\u09b0\u099a\u09be\u09b0 \u0995\u09b0\u09c7\u0964",
+        "local_image_path": "images/2209.png"
+    },
+    {
+        "id": "2210",
+        "image": "https://www.rajshahijobs.com/images/users/2210_1727417135.png",
+        "name": "Shahadot Hossain",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajbari",
+        "last_education": "MA (2022)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2210.png"
+    },
+    {
+        "id": "2212",
+        "image": "https://www.rajshahijobs.com/images/users/2212_1727428516.png",
+        "name": "Md Masum Billah",
+        "address_present": "Kazla, Rajshahi",
+        "address_permanent": "Phulbari, Dinajpur",
+        "last_education": "HSC (2022)",
+        "job_experiences": "1 Year",
+        "experience_details": "Worked as a food panda rider",
+        "local_image_path": "images/2212.png"
+    },
+    {
+        "id": "2213",
+        "image": "https://www.rajshahijobs.com/images/users/2213_1727429110.png",
+        "name": "Ashadullah Al Galib",
+        "address_present": "Kajla,Rajshahi",
+        "address_permanent": "Rajbati,Dinajpur",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2213.png"
+    },
+    {
+        "id": "2215",
+        "image": "https://www.rajshahijobs.com/images/users/2215_1727430417.png",
+        "name": "MD. Sakir Hossain",
+        "address_present": "Village. Nimpara Post office. Nimpara Police station. Charghat District.Rajshahi",
+        "address_permanent": "Village. Nimpara Post office. Nimpara Police station. Charghat District.Rajshahi",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2215.png"
+    },
+    {
+        "id": "2216",
+        "image": "https://www.rajshahijobs.com/images/users/2216_1727430984.png",
+        "name": "Khadiza Tul Kubra",
+        "address_present": "Rajshahi, Godagari",
+        "address_permanent": "Rajshahi, Godagari",
+        "last_education": "SSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2216.png"
+    },
+    {
+        "id": "2217",
+        "image": "https://www.rajshahijobs.com/images/users/2217_1727432881.png",
+        "name": "Rabiul Islam Rakib",
+        "address_present": "Bhadra, Rajshahi",
+        "address_permanent": "Mohadevpur, Naogaon",
+        "last_education": "BBA (2025)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2217.png"
+    },
+    {
+        "id": "2220",
+        "image": "https://www.rajshahijobs.com/images/users/2220_1727437806.png",
+        "name": "Dhananjoy chandraw barmon",
+        "address_present": "Rajshahi",
+        "address_permanent": "Tanor Rajshahi",
+        "last_education": "HSC (2020)",
+        "job_experiences": "3 Years",
+        "experience_details": "\u09b8\u09bf\u0995\u09bf\u0989\u09b0\u09bf\u099f\u09bf \u0997\u09be\u09b0\u09cd\u09a1\u09c7 \u099a\u09be\u0995\u09b0\u09bf \u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be \u0986\u099b\u09c7",
+        "local_image_path": "images/2220.png"
     }
 ]
