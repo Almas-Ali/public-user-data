@@ -5203,6 +5203,17 @@
         "local_image_path": "images/860.png"
     },
     {
+        "id": "861",
+        "image": "https://www.rajshahijobs.com/images/users/861_1727369816.png",
+        "name": "Soumik Hasan",
+        "address_present": "\u09aa\u09c1\u09a0\u09bf\u09df\u09be, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "address_permanent": "\u09a7\u09cb\u09aa\u09be\u09aa\u09be\u09dc\u09be,\u09aa\u09c1\u09a0\u09bf\u09df\u09be, \u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0",
+        "last_education": "HSC (2020)",
+        "job_experiences": "1 Year",
+        "experience_details": "1.IDC company, Gulshan1,Dhaka.\r\n2.sales officer \r\n3.marketing",
+        "local_image_path": "images/861.png"
+    },
+    {
         "id": "862",
         "image": "https://www.rajshahijobs.com/images/users/862_1720793822.png",
         "name": "Ariful Islam",
@@ -12516,5 +12527,71 @@
         "job_experiences": "2 Years",
         "experience_details": "Project headway grammar school \r\nPost:Assistant teacher, subject :Science, math",
         "local_image_path": "images/2185.png"
+    },
+    {
+        "id": "2188",
+        "image": "https://www.rajshahijobs.com/images/users/2188_1727361805.png",
+        "name": "Md.Tuhinur Islam",
+        "address_present": "Biharipara,Puthia, Rajshahi",
+        "address_permanent": "Biharipara,Puthia, Rajshahi",
+        "last_education": "MSC (2023)",
+        "job_experiences": "Fresher",
+        "experience_details": "Polytechnic Student Care, Teacher, Office, 2 years",
+        "local_image_path": "images/2188.png"
+    },
+    {
+        "id": "2189",
+        "image": "https://www.rajshahijobs.com/images/users/2189_1727362277.png",
+        "name": "Md. Moonjir hasan sumim",
+        "address_present": "Laxmipur, City corporation, Rajshahi",
+        "address_permanent": "Aburajpara, bottolahat, nawabganj sadar, chapainawabganj",
+        "last_education": "Diploma (Eng) (2023)",
+        "job_experiences": "1 Year",
+        "experience_details": "Green plaza real estate developer lmt",
+        "local_image_path": "images/2189.png"
+    },
+    {
+        "id": "2192",
+        "image": "https://www.rajshahijobs.com/images/users/2192_1727362535.png",
+        "name": "Tanvirul Alom Toha",
+        "address_present": "Dakkhin Majhgram, Bagmara, Rajshahi",
+        "address_permanent": "Dakkhin Majhgram, Bagmara, Rajshahi",
+        "last_education": "HSC (2023)",
+        "job_experiences": "3 Years",
+        "experience_details": "1. Position: Executive IT  \r\n   Organization: ENA Group, Panthpath, Dhaka.\r\n   Duration:  1st Jun 2022 to  30 Apr 2024.\r\n   Work responsibilities:\r\n\u2022 Shooting Cinematography, Flying Drone, Create Ads and Video for them also edit everything.\r\n\u2022 I Will provide All technical Support.\r\n2. Position: Video Editor  \r\n  Organization: Channel TT, 43 Kazi Nazrul Islam Avenue, Karwan Bazar, Dhaka.\r\n Duration:  1st May 2024 to  Present.  \r\n  Work responsibilities: \r\n\u2022 Collecting News From Websites and Editing the Package. Create Ads and Video for them also edit everything.\r\n\u2022 I will provide All technical Support.",
+        "local_image_path": "images/2192.png"
+    },
+    {
+        "id": "2194",
+        "image": "https://www.rajshahijobs.com/images/users/2194_1727363325.png",
+        "name": "Robiul islam Raju",
+        "address_present": "Baroraster mor,chondrima,Rajshahi",
+        "address_permanent": "Baroraster mor,chondrima,Rajshahi",
+        "last_education": "SSC (2014)",
+        "job_experiences": "3 Years",
+        "experience_details": "All",
+        "local_image_path": "images/2194.png"
+    },
+    {
+        "id": "2204",
+        "image": "https://www.rajshahijobs.com/images/users/2204_1727370840.png",
+        "name": "Md:Fojla Rabbi",
+        "address_present": "Rajshahi",
+        "address_permanent": "Rajshahi",
+        "last_education": "HSC (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2204.png"
+    },
+    {
+        "id": "2207",
+        "image": "https://www.rajshahijobs.com/images/users/2207_1727378573.png",
+        "name": "Arif Hossain",
+        "address_present": "Naogaon",
+        "address_permanent": "Mohadevpur",
+        "last_education": "Diploma (Eng) (2021)",
+        "job_experiences": "Fresher",
+        "experience_details": "No experiences",
+        "local_image_path": "images/2207.png"
     }
 ]
