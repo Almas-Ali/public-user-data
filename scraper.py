@@ -116,7 +116,7 @@ async def main() -> None:
     }
 
     async with aiohttp.ClientSession() as session:
-        urls = [url_format.format(id=i) for i in range(1, 3000)]
+        urls = [url_format.format(id=i) for i in range(1, 30_000)]
         tasks = [scraper(url, session, headers) for url in urls]
 
         results: List[Dict[str, str]] = []
